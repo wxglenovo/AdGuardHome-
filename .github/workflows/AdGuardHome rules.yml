@@ -1,0 +1,162 @@
+
+name: Build AdGuardHome rules
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "0 2 * * *"
+    - cron: "0 4 * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 8 * * *"
+    - cron: "0 10 * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 14 * * *"
+    - cron: "0 16 * * *"
+    - cron: "0 18 * * *"
+    - cron: "0 20 * * *"
+    - cron: "0 22 * * *"    
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download & Merge Rules (Clean + Deduplicate + Conflict Remove)
+        id: merge
+        run: |
+          mkdir -p tmp dist
+          mapfile -t urls < ./urls.txt
+          echo "📥 开始下载规则（带重试）..."
+          for url in "${urls[@]}"; do
+            echo "Downloading $url"
+            curl -sSL --retry 3 --fail "$url" >> tmp/all_raw.txt || echo "Failed $url"
+            echo "" >> tmp/all_raw.txt
+          done
+          echo "✅ 下载完成，开始合并文件..."
+          # 清理注释和空行
+          grep -vE '^[[:space:]]*[!#]' tmp/all_raw.txt | sed '/^[[:space:]]*$/d' > tmp/all_cleaned_temp.txt
+          # 删除无效规则
+          echo "🧹 正在删除对 AdGuard Home 无效的规则..."
+          grep -vE '^\$\$div\[class="(-ad-|_ad_|-ads-|ad-banner-wrapper|ad-card|ad_bottom|ad_top|bannerBottom|id="Couple")"\]|\$ping,third-party|/\d{2,4}x\d{2,4}/' tmp/all_cleaned_temp.txt > tmp/all_cleaned.txt
+          # 去重并生成前20条重复规则日志
+          awk '
+          {
+              line_num=NR
+              content=$0
+              count[content]++
+              lines[content]=lines[content] ? lines[content] "\n " line_num "行: " content : " " line_num "行: " content
+              if(!seen[content]++) deduped[NR]=$0
+          }
+          END {
+              n=0
+              for(rule in count){
+                  if(count[rule]>1){
+                      print "规则: " rule "\n" lines[rule] "\n"
+                      n++
+                      if(n>=20) break
+                  }
+              }
+              for(i in deduped){
+                  print deduped[i] > "tmp/all_deduped.txt"
+              }
+          }
+          ' tmp/all_cleaned.txt > tmp/duplicate_rules.txt
+          RAW_COUNT=$(wc -l < tmp/all_cleaned.txt)
+          DEDUP_COUNT=$(wc -l < tmp/all_deduped.txt)
+          DUP_COUNT=$((RAW_COUNT - DEDUP_COUNT))
+          # 黑白名单冲突处理
+          grep '^@@||' tmp/all_deduped.txt > tmp/whitelist_tmp.txt
+          grep -v '^@@||' tmp/all_deduped.txt > tmp/blocklist_tmp.txt
+          sed 's/^@@||/||/' tmp/whitelist_tmp.txt > tmp/whitelist_core.txt
+          grep -Fxf tmp/whitelist_core.txt tmp/blocklist_tmp.txt > tmp/conflict_core.txt
+          grep -Fvxf tmp/conflict_core.txt tmp/blocklist_tmp.txt > tmp/blocklist.txt
+          grep -Fvxf tmp/conflict_core.txt tmp/whitelist_tmp.txt > tmp/whitelist.txt
+          CONFLICT_COUNT=$(wc -l < tmp/conflict_core.txt)
+          # 添加头部信息
+          TIMESTAMP=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')
+          WHITELIST_COUNT=$(wc -l < tmp/whitelist.txt)
+          BLACKLIST_COUNT=$(wc -l < tmp/blocklist.txt)
+          WHITELIST_HEADER="! =====================\n! AdGuardHome 白名单\n! 更新时间: $TIMESTAMP\n! 总条数: $WHITELIST_COUNT\n! =====================\n"
+          BLACKLIST_HEADER="! =====================\n! AdGuardHome 黑名单\n! 更新时间: $TIMESTAMP\n! 总条数: $BLACKLIST_COUNT\n! =====================\n"
+          echo -e "$WHITELIST_HEADER" > dist/whitelist.txt
+          LC_ALL=C sort -t'.' -k2,2 -k1,1 tmp/whitelist.txt >> dist/whitelist.txt
+          echo -e "$BLACKLIST_HEADER" > dist/blocklist.txt
+          LC_ALL=C sort -t'.' -k2,2 -k1,1 tmp/blocklist.txt >> dist/blocklist.txt
+          # 输出 step 变量
+          echo "raw_count=$RAW_COUNT" >> $GITHUB_OUTPUT
+          echo "dedup_count=$DEDUP_COUNT" >> $GITHUB_OUTPUT
+          echo "dup_count=$DUP_COUNT" >> $GITHUB_OUTPUT
+          echo "conflict_count=$CONFLICT_COUNT" >> $GITHUB_OUTPUT
+          echo "whitelist_count=$WHITELIST_COUNT" >> $GITHUB_OUTPUT
+          echo "blacklist_count=$BLACKLIST_COUNT" >> $GITHUB_OUTPUT
+
+      - name: Commit Changes
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          RAW_COUNT=${{ steps.merge.outputs.raw_count }}
+          DEDUP_COUNT=${{ steps.merge.outputs.dedup_count }}
+          DUP_COUNT=${{ steps.merge.outputs.dup_count }}
+          CONFLICT_COUNT=${{ steps.merge.outputs.conflict_count }}
+          NEW_ADDED=$((DEDUP_COUNT - RAW_COUNT + CONFLICT_COUNT))
+          [ $NEW_ADDED -lt 0 ] && NEW_ADDED=0
+          COMMIT_MSG="🧩 更新 AdGuardHome 规则 | 总数: ${DEDUP_COUNT} | 新增: ${NEW_ADDED} | 去重: ${DUP_COUNT} | 抵消: ${CONFLICT_COUNT}"
+          git add dist/whitelist.txt dist/blocklist.txt tmp/duplicate_rules.txt tmp/conflict_rules.txt
+          if git diff --cached --quiet; then
+            echo "no_change=true" >> $GITHUB_OUTPUT
+            echo "No new rules to commit"
+          else
+            echo "no_change=false" >> $GITHUB_OUTPUT
+            git commit -m "$COMMIT_MSG"
+            git pull --rebase origin main || true
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            echo "commit_message=$COMMIT_MSG" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Prepare Release Files
+        id: release_files
+        run: |
+          FILES="dist/whitelist.txt dist/blocklist.txt"
+          [ -s tmp/duplicate_rules.txt ] && FILES="$FILES tmp/duplicate_rules.txt"
+          [ -s tmp/conflict_rules.txt ] && FILES="$FILES tmp/conflict_rules.txt"
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+
+      - name: Create or Update Release
+        if: steps.commit.outputs.no_change == 'false'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "v${{ github.run_number }}"
+          name: "🧩 AdGuardHome Rules"
+          body: |
+            ${{ steps.commit.outputs.commit_message }}
+          files: ${{ steps.release_files.outputs.files }}
+
+      - name: Show Result
+        run: |
+          RAW_COUNT=${{ steps.merge.outputs.raw_count }}
+          DEDUP_COUNT=${{ steps.merge.outputs.dedup_count }}
+          DUP_COUNT=${{ steps.merge.outputs.dup_count }}
+          CONFLICT_COUNT=${{ steps.merge.outputs.conflict_count }}
+          WHITELIST_COUNT=${{ steps.merge.outputs.whitelist_count }}
+          BLACKLIST_COUNT=${{ steps.merge.outputs.blacklist_count }}
+
+          echo "================= ✅ 合并完成 ================="
+          echo "原始规则总数：$RAW_COUNT"
+          echo "去重后总数：$DEDUP_COUNT"
+          echo "重复规则数量：$DUP_COUNT"
+          echo "黑白名单冲突数量：$CONFLICT_COUNT"
+          echo "📝 前20条重复规则及行号："
+          head -n 20 tmp/duplicate_rules.txt
+          echo "📝 黑白名单冲突抵消规则（按域名显示，白名单和黑名单同一行）："
+          cat tmp/conflict_rules.txt
+          echo "📁 白名单文件：dist/whitelist.txt，行数：$WHITELIST_COUNT"
+          echo "📁 黑名单文件：dist/blocklist.txt，行数：$BLACKLIST_COUNT"
+          echo "============================================================"

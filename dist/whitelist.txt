@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-01 06:22:03 CST
-! 总条数: 3528
+! 更新时间: 2025-12-01 09:14:40 CST
+! 总条数: 3531
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2260,6 +2260,7 @@
 @@||konzolvilag.hu^*/click_tracking.js$~third-party
 @@||api.huangye.miui.com^
 @@||app.hubspot.com/api/ads/$~third-party
+@@||plans.humana.com/assets/analytics-events-$script,~third-party
 @@||app.hype.it/assets/packages/mixpanel_flutter/assets/mixpanel.js$~third-party
 @@||yesiget.i234.me^$generichide
 @@||id.i2i.jp^|
@@ -2597,6 +2598,8 @@
 @@||mbe.modelica.university/_next/static/*/pages/pageview.js$~third-party
 @@||smog.moja-ostroleka.pl/mapa/sensorsdata.json$~third-party
 @@||download.mokeedev.com^$genericblock,generichide
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMapping.json?$~third-party,xmlhttprequest
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMappingOverrides.json?$~third-party,xmlhttprequest
 @@||js.monitor.azure.com^|
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||stapewithadblock.monster^$generichide

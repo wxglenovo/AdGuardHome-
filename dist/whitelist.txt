@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-01 16:22:12 CST
+! 更新时间: 2025-12-01 18:24:34 CST
 ! 总条数: 3531
 ! =====================
 
@@ -1411,7 +1411,6 @@
 @@||shenyunshop.com^
 @@||shenzhoufilm.com^
 @@||siteadvisor.com^
-@@||sobot.com^
 @@||swjoy.com^
 @@||tianyinmusic.com^
 @@||virustotal.com^
@@ -2750,6 +2749,7 @@
 @@||uiadmin.net^$generichide
 @@||upxin.net^$generichide
 @@||urlgalleries.net^$generichide
+@@||zstatic.net^$script,domain=52niuyanks.org
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
 @@||online-metrix.net^$script,domain=eki-net.com

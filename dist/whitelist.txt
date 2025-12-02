@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-02 22:25:27 CST
-! 总条数: 3545
+! 更新时间: 2025-12-03 00:38:58 CST
+! 总条数: 3546
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1837,6 +1837,7 @@
 @@||acs-m.daraz.pk^|
 @@||c.data.mob.com^$app=com.sinovatech.unicom.ui
 @@||settings-win.data.microsoft.com^
+@@||www.datadoghq-browser-agent.com^|
 @@||api-js.datadome.co/js/$domain=sso.garena.com
 @@||js.datadome.co/tags.js$script,domain=monster.ca|sso.garena.com|thefork.at|thefork.be|thefork.ch|thefork.co.uk|thefork.com|thefork.de|thefork.es|thefork.fr|thefork.it|thefork.nl|thefork.pt|thefork.se|ugg.com
 @@||cmp.datasign.co^$script,domain=info.yomiuri.co.jp

@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-03 16:19:50 CST
+! 更新时间: 2025-12-03 18:24:54 CST
 ! 总条数: 3546
 ! =====================
 
@@ -1417,6 +1417,7 @@
 @@||shenyunshop.com^
 @@||shenzhoufilm.com^
 @@||siteadvisor.com^
+@@||sobot.com^
 @@||swjoy.com^
 @@||taobao.com^
 @@||tianyinmusic.com^
@@ -1833,7 +1834,6 @@
 @@||tdn.da-services.ch/libs/prebid8.$script,domain=20min.ch
 @@||admin.dable.io^|
 @@||acs-m.daraz.com.bd^|
-@@||acs-m.daraz.pk^
 @@||acs-m.daraz.pk^|
 @@||c.data.mob.com^$app=com.sinovatech.unicom.ui
 @@||settings-win.data.microsoft.com^

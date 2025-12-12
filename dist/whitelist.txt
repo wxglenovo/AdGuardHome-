@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-12 09:06:05 CST
-! 总条数: 3549
+! 更新时间: 2025-12-12 11:27:30 CST
+! 总条数: 3551
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2055,6 +2055,7 @@
 @@||players.fichub.com/plugins/adobe/$domain=24kitchen.pt
 @@||fdi.fiduciarydecisions.com/a/lib/gtag/gtag.js$script,~third-party
 @@||fdi.fiduciarydecisions.com/v/app/components/*/Analytics.js$script,~third-party
+@@||tracker.filemail.com^
 @@||otter.finance/assets/js/cookieconsent.js
 @@||ads.finance^$popup
 @@||shoonya.finvasia.com/fingerprint2.min.js$script,~third-party
@@ -2393,6 +2394,7 @@
 @@||a1.itc.cn/pv/js/spv.
 @@||analytics.itunes.apple.com^
 @@||analytics.itunes.apple.com^$~third-party
+@@||tracker4.itzmx.com^
 @@||securegames.iwin.com/data/gtm.json$~third-party,xmlhttprequest
 @@||create.jd.com/ad/
 @@||gias.jd.com/js/td.js

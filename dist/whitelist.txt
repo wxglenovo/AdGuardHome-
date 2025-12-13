@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-13 22:19:47 CST
-! 总条数: 3553
+! 更新时间: 2025-12-14 00:32:46 CST
+! 总条数: 3554
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -498,6 +498,7 @@
 @@||bigmotoringworld.co.uk^*/plugins/cookieconsent-292.js$~third-party
 @@||bihoku-minpou.co.jp/img/ad_top.jpg$~third-party
 @@||board-game.co.uk/cdn-cgi/zaraz/s.js$script,~third-party
+@@||bookoffonline.co.jp/files/tracking/ac/clicktag.js$~third-party
 @@||carandclassic.co.uk/images/free_advert/$image,~third-party
 @@||cdn-national-lottery.co.uk/c/js/cuk_core.min.js
 @@||centro.co.il^$generichide

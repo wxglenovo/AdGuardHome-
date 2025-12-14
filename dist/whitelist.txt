@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-15 04:01:45 CST
+! 更新时间: 2025-12-15 06:21:47 CST
 ! 总条数: 3557
 ! =====================
 
@@ -2647,7 +2647,7 @@
 @@||learner.mycreds.ca/assets/js/services/cookiesConsent.min.js$~third-party
 @@||learner.mycreds.ca/r/assets/*/cookiesConsent.json$~third-party
 @@||static.myfinance.com/widget/$domain=savingspro.org
-@@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|condor.com|furniturevillage.co.uk|luggagehero.com
+@@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|condor.com|corsair.com|furniturevillage.co.uk|luggagehero.com
 @@||widget.myrentacar.me^$script,subdocument
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|

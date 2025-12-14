@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-14 20:01:23 CST
-! 总条数: 3555
+! 更新时间: 2025-12-14 22:20:13 CST
+! 总条数: 3557
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -177,6 +177,7 @@
 @@||logging.apache.org^
 @@||logging.apache.org^$~third-party
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk
+@@||msedge.api.cdp.microsoft.com^
 @@||newver.api.dedecms.com/index.php$subdocument
 @@||api.apolomedia.com/static/libs/event-tracking.min.js$script
 @@||api.app.mobilelocker.eu/api/latest/application-environment/ahoy/events$~third-party
@@ -1882,6 +1883,7 @@
 @@||energy.de^*/ivw.js?$domain=energy.de
 @@||computerbase.de^*/scripttemplates/$script,xmlhttprequest
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
+@@||dl.delivery.mp.microsoft.com^
 @@||fe3cr.delivery.mp.microsoft.com^
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||sbs.demdex.net^|

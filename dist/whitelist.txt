@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-16 22:27:10 CST
-! 总条数: 3556
+! 更新时间: 2025-12-17 00:39:27 CST
+! 总条数: 3557
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1652,6 +1652,7 @@
 @@||siteapps.com^$script,domain=netcombo.com.br
 @@||f-tra.com^$script,domain=pokemoncenter-online.com
 @@||adobedtm.com^$script,domain=sonystyle.com.cn
+@@||howsmyssl.com^$script,domain=trenitalia.fr
 @@||unpkg.com^$script,domain=vidsrc.stream
 @@||iubenda.com^$script,stylesheet,subdocument,xmlhttprequest,domain=105.net|3bmeteo.com|all3dp.com|ansa.it|artribune.com|askanews.it|automoto.it|brutkasten.com|cagliaripad.it|capital.it|cdt.ch|centrometeoitaliano.it|cioccolatonippon.it|cookaround.com|darkhorizons.com|decugnanodeibarbi.com|deejay.it|delladio.it|gelocal.it|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ilsecoloxix.it|internazionale.it|kisskiss.it|lastampa.it|leanplayer.com|leggo.it|linkiesta.it|m2o.it|mediaset.it|mee6.xyz|meteo.it|moto.it|movieplayer.it|mowmag.com|multiplayer.it|onepodcast.it|player.boom973.com|r101.it|radiomontecarlo.net|repubblica.it|rockol.it|saratoga.it|skuola.net|today.it|tomshw.it|virginradio.it
 @@||truendo.com^$script,xmlhttprequest,domain=laola1.at

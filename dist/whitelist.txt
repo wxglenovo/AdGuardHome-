@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-18 12:34:43 CST
-! 总条数: 3558
+! 更新时间: 2025-12-18 14:38:43 CST
+! 总条数: 3561
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2022,7 +2022,8 @@
 @@||ec.europa.eu/eurostat/databrowser/assets/analytics/piwik.js$script,~third-party
 @@||browser.events.data.microsoft.com/onecollector/$script,xmlhttprequest,domain=microsoft.com
 @@||browser.events.data.microsoft.com^
-@@||functional.events.data.microsoft.com
+@@||functional.events.data.microsoft.com^
+@@||mobile.events.data.microsoft.com^
 @@||partner.everydays.de^|
 @@||cdn.evgnet.com/beacon/homedepotofcainc/engage/scripts/evergage.min.js$script,domain=homedepot.ca
 @@||onlineservice.ewr-gmbh.de/ui.components.extended/material/nli-cookie-banner/$script,~third-party
@@ -2588,11 +2589,13 @@
 @@||adsdk.microsoft.com/ast/ast.js$script,domain=prisjakt.no
 @@||blogs.microsoft.com/wp-content/plugins/microsoft-oembeds/cookie-consent.js$~third-party
 @@||definitionupdates.microsoft.com^
+@@||download.microsoft.com^
 @@||edge.microsoft.com^
 @@||go.microsoft.com^
 @@||insideruser.microsoft.com^
 @@||learn.microsoft.com^
 @@||news.microsoft.com/wp-content/plugins/microsoft-oembeds/$~third-party
+@@||officecdn.microsoft.com^
 @@||support.microsoft.com^
 @@||teams.microsoft.com/dialin-cdn-root/*/aria-web-telemetry-$~third-party
 @@||teams.microsoft.com^$generichide

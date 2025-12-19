@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-19 14:36:57 CST
-! 总条数: 3559
+! 更新时间: 2025-12-19 16:20:52 CST
+! 总条数: 3562
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1315,6 +1315,7 @@
 @@||bing.com/translator/api/Translate/TranslateArray?$third-party,xmlhttprequest
 @@||bytedance.com/ttwid/union/register/
 @@||joska.com/typo3conf/ext/dsgvo_manager/Resources/Public/javascript/cookie-consent.js
+@@||cookiebot.com/uc.js$domain=asket.com|bakingmad.com|cordaid.org|cosmohairshop.de|developer.opencv.fr|flughafen-zuerich.ch|gls-info.nl|lidl.gr|otto.fi|stock3.com|zuiderzeemuseum.nl
 @@||cookiebot.com/uc.js$domain=bakingmad.com|cordaid.org|cosmohairshop.de|developer.opencv.fr|flughafen-zuerich.ch|gls-info.nl|lidl.gr|otto.fi|stock3.com|zuiderzeemuseum.nl
 @@||yimg.com/ud/fp/js/Ads.*.min.js$domain=mobi.yahoo.com
 @@||att.com/ui/services_co_myatt_common/$script,~third-party
@@ -1810,6 +1811,8 @@
 @@||ads.console.aliyun.com^
 @@||logcg.content-delivery.top/wp-content/plugins/bwp-minify/min/?f=
 @@||rest.contextly.com/pagewidgets/$domain=inc-aus.com
+@@||consent.cookiebot.com/*/cc.js$domain=asket.com
+@@||consentcdn.cookiebot.com/consentconfig/$xmlhttprequest,domain=asket.com
 @@||policy.cookiereports.com^$script,domain=nordeafunds.com
 @@||cmpv2.cookist.it/embed2/rmi/1.2.5|$subdocument
 @@||5278.cool^$generichide

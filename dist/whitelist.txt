@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-19 11:27:35 CST
-! 总条数: 3561
+! 更新时间: 2025-12-19 12:34:45 CST
+! 总条数: 3559
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1126,7 +1126,6 @@
 @@||flyert.com/plug/socialShare/js/social-share.
 @@||reactandshare.com/plugin/rns.js$domain=maanmittauslaitos.fi|verkkouutiset.fi
 @@||cgmodel.com/plugin/share/
-@@||trbo.com/plugin/trbo_$script,domain=blau.de
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
 @@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=lenovo.com.cn
@@ -3343,7 +3342,6 @@
 @@||level.travel/tracker/tracker.js$script,~third-party
 @@||assets.travix.com/client/cookie-banner-$script
 @@||api-v*.trbo.com^|
-@@||api-v4.trbo.com/r.php?$script,domain=blau.de
 @@||static-v*.trbo.com^|
 @@||in.treasuredata.com/js/*?api_key$script,domain=retty.me
 @@||cdn.trustcommander.net/privacy/$script,domain=edeka.de|edf.fr|group.vig|tf1.fr|tf1info.fr

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-19 20:01:24 CST
-! 总条数: 3563
+! 更新时间: 2025-12-19 22:24:18 CST
+! 总条数: 3564
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3463,6 +3463,7 @@
 @@||cdn.viglink.com/api/vglnk.js$domain=9to5mac.com|electrek.co
 @@||chineseanime.vip^$generichide
 @@||laotiesao.vip^$generichide
+@@||content.viralize.tv^|
 @@||click.virt.exacttarget.com^|
 @@||click.virt.s*.exacttarget.com^|
 @@||ad.vivo.com.cn^

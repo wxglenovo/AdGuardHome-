@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-19 16:20:52 CST
-! 总条数: 3562
+! 更新时间: 2025-12-19 18:23:29 CST
+! 总条数: 3563
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1316,7 +1316,6 @@
 @@||bytedance.com/ttwid/union/register/
 @@||joska.com/typo3conf/ext/dsgvo_manager/Resources/Public/javascript/cookie-consent.js
 @@||cookiebot.com/uc.js$domain=asket.com|bakingmad.com|cordaid.org|cosmohairshop.de|developer.opencv.fr|flughafen-zuerich.ch|gls-info.nl|lidl.gr|otto.fi|stock3.com|zuiderzeemuseum.nl
-@@||cookiebot.com/uc.js$domain=bakingmad.com|cordaid.org|cosmohairshop.de|developer.opencv.fr|flughafen-zuerich.ch|gls-info.nl|lidl.gr|otto.fi|stock3.com|zuiderzeemuseum.nl
 @@||yimg.com/ud/fp/js/Ads.*.min.js$domain=mobi.yahoo.com
 @@||att.com/ui/services_co_myatt_common/$script,~third-party
 @@||linkstars.com/union/
@@ -1870,6 +1869,7 @@
 @@||frankonia.de/js/lib/smart-app-banner.js$~third-party
 @@||tipico.de/js/modules/fingerprintjs2/fingerprint2.min.js$script,~third-party
 @@||spiegel.de/layout/js/http/netmind-$script
+@@||spezialklinik-neukirchen.de/matomo/$~third-party
 @@||aussenrollo.de/out/dd_roxive/src/js/widgets/jquery.cookieBar.min.js$~third-party
 @@||carport-diagnose.de/script/cookieconsent.min.js$~third-party
 @@||sonnenverlauf.de/scripts/cookieconsent.min.js$~third-party
@@ -2195,6 +2195,7 @@
 @@||www.google.*/search?$xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||www.google.*/search?q=*&oq=*&aqs=chrome.*&sourceid=chrome&$popup,third-party
 @@||www.google.com/ads/preferences/$image,script,subdocument
+@@||www.googleadservices.com^
 @@||www.googleadservices.com^|
 @@||clouderrorreporting.googleapis.com^$domain=waze.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument

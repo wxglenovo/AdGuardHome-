@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-24 18:22:26 CST
-! 总条数: 3566
+! 更新时间: 2025-12-24 20:01:19 CST
+! 总条数: 3567
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2842,6 +2842,7 @@
 @@||wireless.ntnu.no^
 @@||s.ntv.io/serve/load.js$domain=titantv.com
 @@||ens.nzz.ch^$~third-party
+@@||link.nzz.ch^|
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
 @@||c.office.com^|
 @@||outlook.office.com^

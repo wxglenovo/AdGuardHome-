@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-25 06:23:35 CST
-! 总条数: 3567
+! 更新时间: 2025-12-25 09:05:15 CST
+! 总条数: 3568
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1002,6 +1002,7 @@
 @@||930mh.com/js/config.js
 @@||thefly.com/js/cookieConsent.js$~third-party
 @@||gamersgate.com/js/cookieconsent.js$script,~third-party
+@@||holmesmind.com/js/drawV2.$domain=bingfong.com
 @@||mediav.com/js/feed_ts.js$domain=china.com|mini.yyrtv.com
 @@||mediav.com/js/feed_ts.js$domain=toutiao.china.com
 @@||ganyancanavari.com/js/fingerprint2.min.js$~third-party

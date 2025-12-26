@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2025-12-26 22:22:44 CST
-! 总条数: 3569
+! 更新时间: 2025-12-27 00:33:27 CST
+! 总条数: 3570
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2374,6 +2374,7 @@
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||fm.ipinyou.$domain=ipinyou.com.cn
 @@||iwa.iplsc.com/iwa.js$script
+@@||aeradot.ismcdn.jp/resources/aeradigital/css/smartphone/ad.css?$domain=dot.asahi.com
 @@||internazionale.it/assets/js/cookies_gdpr.js?
 @@||rainews.it/common/assets/js/cookieBanner.js$script
 @@||raiplay.it/common/assets/js/cookieBanner.js

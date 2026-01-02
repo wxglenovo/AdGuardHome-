@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-01-02 06:23:54 CST
+! 更新时间: 2026-01-02 09:07:09 CST
 ! 总条数: 3574
 ! =====================
 
@@ -1445,7 +1445,6 @@
 @@||sovrn.com^$domain=mens1069.com
 @@||mxpnl.com^$domain=mixpanel.com
 @@||googleapis.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
-@@||browser-intake-datadoghq.com^$domain=pluto.tv
 @@||taplytics.com^$domain=royalbank.com
 @@||forexprostools.com^$domain=shougedui.com
 @@||alimama.com^$domain=tanx.com
@@ -1679,6 +1678,7 @@
 @@||xhwide5.com^$script,~third-party
 @@||forexprostools.com^$subdocument,domain=fx-rashinban.com
 @@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|metal-hammer.de|rollingstone.de|stylebook.de
+@@||browser-intake-datadoghq.com^$xmlhttprequest,domain=mightyape.co.nz
 @@||cookielawinfo.com^$~third-party
 @@||bugsnag.com^$~third-party,domain=app.bugsnag.com
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one

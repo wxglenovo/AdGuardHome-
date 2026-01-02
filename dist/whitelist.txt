@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-01-03 04:10:00 CST
+! 更新时间: 2026-01-03 06:24:10 CST
 ! 总条数: 3575
 ! =====================
 
@@ -1806,10 +1806,10 @@
 @@||martech.condenastdigital.com/lib/martech.js$script,domain=wired.com
 @@||s.confluency.site/*.com/4/js/$script
 @@||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=telegraph.co.uk|tf1.fr
-@@||api.consentframework.com/api/$xmlhttprequest,domain=gizmodo.com
-@@||cache.consentframework.com/js/*/cmp$domain=gizmodo.com
-@@||cache.consentframework.com/js/*/stub$domain=gizmodo.com
-@@||choices.consentframework.com^$domain=frandroid.com|numerama.com
+@@||api.consentframework.com/api/$xmlhttprequest,domain=01net.com|gizmodo.com
+@@||cache.consentframework.com/js/*/cmp$domain=01net.com|gizmodo.com
+@@||cache.consentframework.com/js/*/stub$domain=01net.com|gizmodo.com
+@@||choices.consentframework.com^$domain=01net.com|frandroid.com|numerama.com
 @@||ads.console.aliyun.com^
 @@||logcg.content-delivery.top/wp-content/plugins/bwp-minify/min/?f=
 @@||rest.contextly.com/pagewidgets/$domain=inc-aus.com

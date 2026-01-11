@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-01-11 06:23:33 CST
-! 总条数: 3575
+! 更新时间: 2026-01-11 09:14:05 CST
+! 总条数: 3574
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1866,7 +1866,6 @@
 @@||zoo-frankfurt.de/bundles/chcookieconsent/js/cookie_consent.js$~third-party
 @@||maloja.de/collection/js/bootstrap-cookie-consent-settings.js$~third-party
 @@||steuerberatung-berlin.de/cookiepolicynotification/javascript/jquery.cookie.policy.min.js$~third-party
-@@||kleinanzeigen.de/gdpr/$~third-party
 @@||adtipp.de/js/cookiebanner.js
 @@||kuechencenterweber.de/js/cookiebanner.js$~third-party
 @@||frankonia.de/js/lib/smart-app-banner.js$~third-party

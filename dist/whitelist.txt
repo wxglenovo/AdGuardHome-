@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-01-14 18:25:53 CST
-! 总条数: 3575
+! 更新时间: 2026-01-14 20:17:46 CST
+! 总条数: 3576
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3097,6 +3097,7 @@
 @@||point.rakuten.co.jp/img/crossuse/top_ad/$~third-party
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
 @@||widget.rave.office.net^
+@@||cdn.rawgit.com/dmauro/keypress/master/keypress.js$script,domain=dmauro.github.io
 @@||ref.rbauction.com^|
 @@||components2.rcsobjects.it/rcs_cpmt/v1/distro/youreporter_ct.js$domain=youreporter.it
 @@||tr.rdrtr.com^|

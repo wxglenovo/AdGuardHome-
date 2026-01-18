@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-01-18 12:42:00 CST
-! 总条数: 3583
+! 更新时间: 2026-01-18 14:36:35 CST
+! 总条数: 3584
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2439,6 +2439,7 @@
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
 @@||type.jp/common/js/clicktag.js
 @@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
+@@||dan-ball.jp/en/javagame/mine/data/d.gif$image,~third-party
 @@||guinnessworldrecords.jp/ezais/analytics$~third-party
 @@||sanyonews.jp/files/image/ad/okachoku.jpg$~third-party
 @@||howtonote.jp/google-analytics/$image,~third-party

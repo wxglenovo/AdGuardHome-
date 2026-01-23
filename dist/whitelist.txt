@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-01-23 20:01:12 CST
-! 总条数: 3585
+! 更新时间: 2026-01-23 22:28:11 CST
+! 总条数: 3587
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1546,6 +1546,7 @@
 @@||jsjiami.com^$generichide
 @@||kissjav.com^$generichide
 @@||ldxinyong.com^$generichide
+@@||linovelib.com^$generichide
 @@||luoxiadushu.com^$generichide
 @@||max.com^$generichide
 @@||mccc11.com^$generichide
@@ -2531,6 +2532,7 @@
 @@||xsc.lise.edu.cn/ad/
 @@||ads.listonic.com^
 @@||ads.listonic.com^$popup
+@@||src.litix.io/*/bitmovin-mux.js$domain=shoof.alkass.net
 @@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
 @@||src.litix.io/videojs/*/videojs-mux.js
 @@||login.live.com^

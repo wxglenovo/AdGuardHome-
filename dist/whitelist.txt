@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-02-01 13:21:50 CST
+! 更新时间: 2026-02-01 14:55:24 CST
 ! 总条数: 3550
 ! =====================
 
@@ -1662,7 +1662,7 @@
 @@||xhwide5.com^$script,~third-party
 @@||forexprostools.com^$subdocument,domain=fx-rashinban.com
 @@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|metal-hammer.de|rollingstone.de|stylebook.de
-@@||browser-intake-datadoghq.com^$xmlhttprequest,domain=mightyape.co.nz
+@@||browser-intake-datadoghq.com^$xmlhttprequest,domain=grubhub.com|mightyape.co.nz
 @@||cookielawinfo.com^$~third-party
 @@||bugsnag.com^$~third-party,domain=app.bugsnag.com
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one

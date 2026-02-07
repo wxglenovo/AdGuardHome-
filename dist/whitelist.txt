@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-02-07 16:22:35 CST
-! 总条数: 3554
+! 更新时间: 2026-02-07 18:26:47 CST
+! 总条数: 3553
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1413,7 +1413,6 @@
 @@||shenyunshop.com^
 @@||shenzhoufilm.com^
 @@||siteadvisor.com^
-@@||sobot.com^
 @@||swjoy.com^
 @@||taobao.com^
 @@||tianyinmusic.com^

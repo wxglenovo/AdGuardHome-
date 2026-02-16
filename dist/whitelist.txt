@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-02-17 04:16:03 CST
+! 更新时间: 2026-02-17 06:33:19 CST
 ! 总条数: 3554
 ! =====================
 
@@ -3030,7 +3030,7 @@
 @@||content.pouet.net/avatars/adx.gif$image,~third-party
 @@||app.powerbi.com^
 @@||pixel.prime.amazon.dev^
-@@||live.primis.tech^$script,domain=eurogamer.net|independent.co.uk|klaq.com|loudwire.com|screencrush.com|the-independent.com|vg247.com|xxlmag.com
+@@||live.primis.tech^$domain=eurogamer.net|gbnews.com|independent.co.uk|klaq.com|loudwire.com|screencrush.com|the-independent.com|vg247.com|xxlmag.com
 @@||live.primis.tech^$xmlhttprequest,domain=xxlmag.com
 @@||ads.privacy.qq.com^
 @@||ads.privacy.qq.com^$domain=privacy.qq.com

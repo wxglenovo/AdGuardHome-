@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-02-26 06:37:44 CST
+! 更新时间: 2026-02-26 09:20:36 CST
 ! 总条数: 3560
 ! =====================
 
@@ -220,7 +220,7 @@
 @@||clickskeks.at^$domain=wittmann-group.com
 @@||tag.aticdn.net/piano-analytics.js$script,domain=boerzoektvrouw.kro-ncrv.nl
 @@||tag.aticdn.net/piano-analytics.js$script,domain=toureiffel.paris
-@@||tag.aticdn.net^$script,domain=gouv.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
+@@||tag.aticdn.net^$script,domain=gouv.fr|openservices.enedis.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
 @@||valf.atm.youku.com/vf?site=1&rst=mp4&
 @@||cdn.atmedia.hu^|
 @@||ads.atmosphere.copernicus.eu^

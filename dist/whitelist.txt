@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-02-27 22:40:34 CST
+! 更新时间: 2026-02-28 00:50:54 CST
 ! 总条数: 3556
 ! =====================
 
@@ -2851,7 +2851,7 @@
 @@||sgqcvfjvr.onet.pl^
 @@||consent-api.onetrust.com/v1/preferences^$xmlhttprequest
 @@||geolocation.onetrust.com/cookieconsentpub/$script,domain=rackroomshoes.com
-@@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=airnewzealand.co.nz|bitbucket.org|cbsnews.com|cnbc.com|eksisozluk.com|ign.com|metacritic.com|salesforce.com|teenvogue.com|tntsports.co.uk|vogue.co.jp|vogue.co.uk|vogue.com|vogue.com.tw|vogue.de|vogue.es|vogue.fr|vogue.in|vogue.it|vogue.mx|vogue.ph
+@@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=airnewzealand.co.nz|bitbucket.org|cbsnews.com|cnbc.com|eksisozluk.com|ign.com|metacritic.com|salesforce.com|teenvogue.com|theverge.com|tntsports.co.uk|vogue.co.jp|vogue.co.uk|vogue.com|vogue.com.tw|vogue.de|vogue.es|vogue.fr|vogue.in|vogue.it|vogue.mx|vogue.ph
 @@||privacyportal-eu.onetrust.com/consent-embedded-forms/
 @@||privacyportal-eu.onetrust.com/webform/
 @@||privacyportal-eu-cdn.onetrust.com^*privacy-notices/

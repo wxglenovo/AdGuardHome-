@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-02-27 09:18:29 CST
-! 总条数: 3559
+! 更新时间: 2026-02-27 12:17:05 CST
+! 总条数: 3554
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -788,7 +788,6 @@
 @@||thegay.com/assets/jwplayer-*/jwplayer.js|$domain=thegay.com
 @@||thegay.com/assets/jwplayer-*/provider.hlsjs.js|$domain=thegay.com
 @@||nike.com/assets/measure/data-capture/analytics-client.min.js$script,~third-party
-@@||tygodniksiedlecki.com/assets/mobile/cookiebar/jquery.cookiebar.js
 @@||abcnews.com/assets/player/$script,~third-party
 @@||adnxs.com/ast/ast.js$domain=zone.msn.com
 @@||adnxs.com/ast/static/$domain=outlook.live.com
@@ -1036,7 +1035,6 @@
 @@||adobedtm.com/launch-$script,xmlhttprequest
 @@||nectar.com/lib/cookieBanner.js$~third-party
 @@||wesendit.com/lib/cookieconsent.min.js$~third-party
-@@||tefl.com/lib/jquery.cookiebar.js
 @@||traceparts.com/lib/piano-analytics/piano-analytics.js$script,~third-party
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
 @@||bdimg.com/libs/$domain=00ksw.com|147xiaoshuo.com|18xs.org|1biquge.com|23us.la|23xsw.cc|52biquge.com|b5200.net|biqiuge.com|biqiugexsw.com|biquge.lu|biquge.tv|biquge.tw|biquge5200.cc|biquge9.cc|biqugecd.com|biqugeg.com|biquger.com|biqugetv.com|biqugex.com|biquguan.com|biqukan.com|biqumo.com|biquw.com|bixia.org|boquge.com|bqg5.cc|bqg99.cc|ddbiquge.cc|didaxiaoshuo.cc|gdbzkz.com|gzbpi.com|huanyue123.com|iqksw.com|janpn.com|jx.la|ldks.cc|lindiankanshu.cc|m.sjtxt.la|malshenzu.com|maopuzw.com|meegoq.com|paoshu8.com|qianrenge.cc|shuquge.com|touxiang.la|ttzw.tv|txtwan.com|uu234.cc|x23us.me|xbiqugecc.com|xinxs.la|xshengyan.com|xshuyaya.com|xsw55.com|xwxguan.com|xxqb5200.com|xyangguiweihuo.com|ymxxs.com|yssm.tv|yuyouge.com|zanghaihuatxt.com|zbzw.la|ztv.la
@@ -1864,7 +1862,6 @@
 @@||tipico.de/js/modules/fingerprintjs2/fingerprint2.min.js$script,~third-party
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||spezialklinik-neukirchen.de/matomo/$~third-party
-@@||aussenrollo.de/out/dd_roxive/src/js/widgets/jquery.cookieBar.min.js$~third-party
 @@||carport-diagnose.de/script/cookieconsent.min.js$~third-party
 @@||sonnenverlauf.de/scripts/cookieconsent.min.js$~third-party
 @@||toggo.de/static/js/sourcepoint.js$domain=toggo.de
@@ -2390,7 +2387,6 @@
 @@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs-share.min.js?$script,~third-party
 @@||qds.it/wp-content/plugins/digistream/digiplayer/js/videojs-share.min.js?$script,~third-party
 @@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.huffingtonpost.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
-@@||prezzibenzina.it/www2/js/jquery.cookiebar.js$domain=prezzibenzina.it
 @@||heatmap.it^$domain=heatmap.com|heatmap.it|heatmap.me|heatmap.org
 @@||rai.it^*/cookie.pack.js$script
 @@||rainews.it^*/cookie.pack.js$script
@@ -2878,7 +2874,6 @@
 @@||falundafa.org.tw^
 @@||media.org.hk^*/ads_
 @@||moegirl.org.cn^$generichide
-@@||crossref.org//js/jquery.cookiebar.js$~third-party
 @@||givingassistant.org/Advertisers/$~third-party
 @@||archive.org/BookReader/$image,~third-party,xmlhttprequest
 @@||lncn.org/ad.json

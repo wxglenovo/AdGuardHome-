@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-02-28 06:27:32 CST
+! 更新时间: 2026-02-28 09:13:09 CST
 ! 总条数: 3556
 ! =====================
 
@@ -8,6 +8,7 @@
 @@||bcicl.*.evergage.com^|
 @@||email.*.skyeng.ru^|
 @@||mc.*.exacttarget.com^|
+@@||badgeland.*/cookie-consent.js$~third-party
 @@||kinepolis.*/js/smart-app-banner.js$~third-party
 @@||stickerland.*/static/*/cookie-consent.js$~third-party
 @@||tongji.*kuwo.cn^
@@ -2817,7 +2818,6 @@
 @@||hvemder.no/js/hitcount.min.js$~third-party
 @@||bien.no/marked-cookie-consent-web/$stylesheet
 @@||firkloveren.no/skin/$script,stylesheet
-@@||badgeland.no/static/*/cookie-consent.js$~third-party
 @@||thonhotels.no^
 @@||kjellmann.no^*/cookielaw/css/cookielaw.css$stylesheet
 @@||wikia.nocookie.net^$script,domain=fandom.com

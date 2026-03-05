@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-05 18:39:21 CST
+! 更新时间: 2026-03-05 20:29:40 CST
 ! 总条数: 3556
 ! =====================
 
@@ -384,7 +384,7 @@
 @@||portal.cityspark.com/PortalScripts/DailyCamera$domain=dailycamera.com
 @@||portal.cityspark.com/v1/event$domain=dailycamera.com
 @@||ad.cityu.edu.hk^
-@@||apikeys.civiccomputing.com^$xmlhttprequest,domain=insights.com|videogameschronicle.com
+@@||apikeys.civiccomputing.com^$xmlhttprequest,domain=gold.ac.uk|insights.com|videogameschronicle.com
 @@||cdn.clarip.com/frontier/cookieconsent/$domain=flyfrontier.com
 @@||app.clarity.so^$~third-party
 @@||guestportal.clasohlson.eu^
@@ -1711,7 +1711,7 @@
 @@||lacoste.com^*/cookie-consent.js
 @@||aliunicorn.com^*/cookie-info.js
 @@||vulcangas.com^*/cookie-notice/$script
-@@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|kit.co|marylebonevillage.com|msi.com|pilates.com|ram.ac.uk|romania-insider.com|shop.ordnancesurvey.co.uk|stagecoachbus.com|videogameschronicle.com
+@@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|gold.ac.uk|kit.co|marylebonevillage.com|msi.com|pilates.com|ram.ac.uk|romania-insider.com|shop.ordnancesurvey.co.uk|stagecoachbus.com|videogameschronicle.com
 @@||evbstatic.com^*/cookie_header.js
 @@||ceramtec-group.com^*/cookieconsent.min.js
 @@||cloudflare.com^*/cookieconsent.min.js$domain=bab.la|firkloveren.no|satkurier.pl

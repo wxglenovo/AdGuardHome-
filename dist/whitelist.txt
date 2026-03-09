@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-09 09:21:47 CST
+! 更新时间: 2026-03-09 12:21:53 CST
 ! 总条数: 3556
 ! =====================
 
@@ -853,6 +853,7 @@
 @@||oddschecker.com/cookie-policy-banner/$~third-party
 @@||superrichthailand.com/cookie-policy/cookie-policy.js
 @@||jimstatic.com/cookieControl.js$domain=msa-berlin.de|sahne-band.de
+@@||cookietractor.com/cookietractor.js$domain=proffsmagasinet.se|staypro.dk|staypro.fi|staypro.no
 @@||soufunimg.com/count/uvbforpc.js
 @@||chinatimes.com/css-main/ad.css
 @@||16668tu.com/css/ad.css
@@ -1144,7 +1145,6 @@
 @@||onetrust.com/privacy-notice-scripts/$script,stylesheet
 @@||superrichthailand.com/privacy-policy/privacy-policy.js
 @@||amazonaws.com/prod.iqdcontroller.iqdigital/cdn_iqdspiegel/live/iqadcontroller.js.gz$domain=spiegel.de
-@@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
 @@||newscgp.com/prod/prebid/nyp/pb.js$domain=nypost.com
 @@||manageengine.com/products/ad-manager/$~third-party
 @@||amebame.com/pub/ads/$image,domain=abema.tv|ameba.jp|ameblo.jp

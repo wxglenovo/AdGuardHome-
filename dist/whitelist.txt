@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-13 04:20:26 CST
-! 总条数: 3555
+! 更新时间: 2026-03-13 06:30:40 CST
+! 总条数: 3556
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2407,6 +2407,7 @@
 @@||wl.jd.com/wl.js
 @@||wl.jd.com^
 @@||www.jdoqocy.com^|
+@@||prod-backend.jls-sto1.elastx.net/graphql$domain=webcamcollections.com
 @@||widgets.jobbio.com^*/display.min.js$domain=interestingengineering.com
 @@||www.joesandbox.com^
 @@||copilog2.jp/*/webroot/ad_img/$domain=ikkaku.net

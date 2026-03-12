@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-12 16:34:02 CST
-! 总条数: 3556
+! 更新时间: 2026-03-12 18:38:57 CST
+! 总条数: 3555
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1418,7 +1418,6 @@
 @@||shenyunshop.com^
 @@||shenzhoufilm.com^
 @@||siteadvisor.com^
-@@||sobot.com^
 @@||swjoy.com^
 @@||taobao.com^
 @@||tianyinmusic.com^
@@ -1966,6 +1965,7 @@
 @@||f-gear.ec-optimizer.com^|
 @@||itoya.ec-optimizer.com^|
 @@||l.ecn-ldr.de/loader/loader.js$domain=braun-hamburg.com
+@@||trk.ecomm.lenovo.com^
 @@||trk.ecomm.lenovo.com^|
 @@||hinagiku-u.ed.jp/wp54/wp-content/themes/hinagiku/images/$image,~third-party
 @@||user.edenredplus.com/assets/packages/mixpanel_flutter/assets/mixpanel.js$script,~third-party
@@ -2455,7 +2455,6 @@
 @@||cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js$domain=zagreb.mozemo.hr
 @@||cdn.jsdelivr.net^$script,domain=35xss.com
 @@||cdn.jsdelivr.net^$script,domain=movieffm.net
-@@||cdn.jsdelivr.net^$script,domain=yemancomic.com
 @@||cdn.jsdelivr.net^*/cookie-consent.js$domain=fluentify.com|notdiamond.ai|webtic.it
 @@||cdn.jsdelivr.net^*/cookieconsent.min.js$domain=electrobueno.com|papekenworth.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io

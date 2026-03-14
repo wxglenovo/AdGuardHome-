@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-15 04:13:20 CST
-! 总条数: 3557
+! 更新时间: 2026-03-15 06:30:35 CST
+! 总条数: 3552
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1391,7 +1391,6 @@
 @@||chaturbate.com^
 @@||dafahao.com^
 @@||dajiyuan.com^
-@@||discord.com^
 @@||dongtaiwang.com^
 @@||ecitic.com^
 @@||epochweekly.com^
@@ -1613,7 +1612,6 @@
 @@||winwk.com^$generichide
 @@||x.com^$generichide
 @@||xbeibeix.com^$generichide
-@@||xfreehd.com^$generichide
 @@||xxxxx520.com^$generichide
 @@||yeeach.com^$generichide
 @@||yellowbridge.com^$generichide
@@ -2309,7 +2307,6 @@
 @@||crystalmark.info/wp-content/uploads/sites/$image,~third-party
 @@||btsax.info^$generichide
 @@||ekamus.info^$generichide
-@@||gaybeeg.info^$generichide
 @@||moneysave.info^$generichide
 @@||cookie-consent.ingatlancdn.com^$script,domain=immobilienungarn.net|ingatlan.com|realestatehungary.hu
 @@||content.ingbank.pl^
@@ -2766,10 +2763,8 @@
 @@||moyens.net^$generichide
 @@||renfei.net^$generichide
 @@||rosefile.net^$generichide
-@@||rule34hentai.net^$generichide
 @@||uiadmin.net^$generichide
 @@||upxin.net^$generichide
-@@||urlgalleries.net^$generichide
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
 @@||online-metrix.net^$script,domain=eki-net.com

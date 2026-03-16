@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-16 12:43:15 CST
-! 总条数: 3553
+! 更新时间: 2026-03-16 13:49:03 CST
+! 总条数: 3551
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -94,7 +94,6 @@
 @@||edge.activity.windows.com^
 @@||edge-enterprise.activity.windows.com^
 @@||c.ad6media.fr/l.js$domain=scan-manga.com
-@@||download.adblockultimate.net^
 @@||s7.addthis.com^*/addthis_widget.js$domain=mediamatters.org|politico.com
 @@||static.addtoany.com/menu/page.js$script,domain=suttonquebec.com
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
@@ -1809,7 +1808,6 @@
 @@||cmpv2.cookist.it/embed2/rmi/1.2.5|$subdocument
 @@||5278.cool^$generichide
 @@||image.coolapk.com^
-@@||coral.coralproject.net^
 @@||admin.corrata.com/console/dcconsolews/event-log?$~third-party
 @@||browser.covatic.io/sdk/v1/bauer.js$script,domain=hellorayo.co.uk
 @@||click.cptrack.de^|

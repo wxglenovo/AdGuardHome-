@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-22 16:26:14 CST
+! 更新时间: 2026-03-22 18:27:47 CST
 ! 总条数: 3551
 ! =====================
 
@@ -1831,6 +1831,7 @@
 @@||tdn.da-services.ch/libs/prebid8.$script,domain=20min.ch
 @@||admin.dable.io^|
 @@||acs-m.daraz.com.bd^|
+@@||acs-m.daraz.pk^
 @@||acs-m.daraz.pk^|
 @@||c.data.mob.com^$app=com.sinovatech.unicom.ui
 @@||settings-win.data.microsoft.com^
@@ -3184,7 +3185,6 @@
 @@||opto.sic.pt/didomi/didomi.js$script,~third-party
 @@||ad.siemens.com.cn^
 @@||cs.silverpop.com^|
-@@||click.simba.taobao.com^
 @@||click.simba.taobao.com^|
 @@||gk.sina.cn/v1/gkmatch?
 @@||sax.sina.com.cn/video/newimpress?

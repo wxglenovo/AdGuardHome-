@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-23 12:32:15 CST
-! 总条数: 3551
+! 更新时间: 2026-03-23 13:39:40 CST
+! 总条数: 3554
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -146,6 +146,7 @@
 @@||hb.afl.rakuten.co.jp^|
 @@||pt.afl.rakuten.co.jp^|
 @@||trinitymedia.ai/player/$script,subdocument
+@@||claude.ai^$generichide
 @@||securiti.ai^$script,domain=alaskaair.com|hertz.at|hertz.co.uk|hertz.de|hertz.es|hertz.fi|hertz.fr|hertz.ie|hertz.it|hertz.no|hertz.pt|hertz.se|michaels.com
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de|vip.de
 @@||login-sh.aki-game.com^
@@ -403,6 +404,7 @@
 @@||esko.cloud^*_300x600_$~third-party
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 @@||challenges.cloudflare.com/turnstile/$script
+@@||challenges.cloudflare.com^$generichide
 @@||d1jw64rotemwd9.cloudfront.net/js/cookieconsent-config.js$domain=istores.sk
 @@||d1jw64rotemwd9.cloudfront.net/js/cookieconsent.js$domain=istores.sk
 @@||d27rt3a60hh1lx.cloudfront.net/models/$domain=muse.place
@@ -2521,6 +2523,7 @@
 @@||camel3.live/lib/sensorsdata.full.min.js$~third-party
 @@||stream4free.live^$generichide
 @@||island.lk/userfiles/image/danweem/island.gif
+@@||proxmox.local^$generichide
 @@||l.logly.co.jp/lift$script,domain=sponichi.co.jp
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
 @@||img.logo.dev^$image,third-party

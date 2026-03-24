@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-24 16:42:07 CST
-! 总条数: 4407
+! 更新时间: 2026-03-24 18:52:36 CST
+! 总条数: 4406
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2510,7 +2510,6 @@
 @@||track.flexlinkspro.com^
 @@||ue.flipboard.com^
 @@||cdn.flowplayer.com^*/share.min.js
-@@||5471782.fls.doubleclick.net^
 @@||5471782.fls.doubleclick.net^|
 @@||riverside.fm^$generichide
 @@||player.fm^*/social-icons/$image

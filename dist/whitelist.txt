@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-31 09:44:57 CST
-! 总条数: 4412
+! 更新时间: 2026-03-31 12:39:10 CST
+! 总条数: 4414
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -930,6 +930,7 @@
 @@||weibo.com/api/weipan/getAds
 @@||evergage.com/api2/event/$domain=mbusa.com
 @@||betterworldbooks.com/app/components/cookienotice.js$script,~third-party
+@@||tradefixdirect.com/app/plugins/upperdog-analytics/assets/js/cookie-popup.js$script,~third-party
 @@||tcbk.com/application/files/4316/7521/1922/Q1-23-CD-Promo-Banner-Ad.png^$~third-party
 @@||sinopac.com/applyweb/OpenAccount/js/oas.
 @@||arcgis.com/apps/Nearby/app/components/Share/$~third-party
@@ -1035,6 +1036,7 @@
 @@||ibadual.com/design/ibadual/javascript/cookieconsent.min.js$~third-party
 @@||tt1069.com/dfp.
 @@||china.com/dianbo/adv1.xml
+@@||energie-aanbiedingen.com/dist/assets/cookiebar.js$script,~third-party
 @@||bauersecure.com/dist/js/prebid/$domain=carmagazine.co.uk
 @@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com
 @@||pngimg.com/distr/$image,~third-party

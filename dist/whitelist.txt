@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-03-31 23:04:25 CST
-! 总条数: 4413
+! 更新时间: 2026-04-01 01:09:05 CST
+! 总条数: 4414
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4283,6 +4283,7 @@
 @@||ad.vivo.com.cn^$~third-party
 @@||ads.vk.com^
 @@||ads.vk.com^$popup
+@@||ads.vk.ru^$popup
 @@||api.vk.com/method/statEvents.$~third-party
 @@||oauth.vk.com/authorize?
 @@||jump.votuya.com^

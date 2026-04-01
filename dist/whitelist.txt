@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-01 16:55:49 CST
-! 总条数: 4415
+! 更新时间: 2026-04-01 18:56:44 CST
+! 总条数: 4417
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1752,6 +1752,7 @@
 @@||smartclkdms.com^
 @@||smartmailboost.com^
 @@||smrtlnk.com^
+@@||sobot.com^
 @@||sp-trk.com^
 @@||srvto.com^
 @@||staticiv.com^
@@ -3236,6 +3237,7 @@
 @@||wnioski.mpips.gov.pl/ewnioski/js/common/privacyPolicy.js$script,~third-party
 @@||cj.mplxtms.com^
 @@||sdk.mrf.io/statics/marfeel-sdk.js$script,domain=autoplus.fr|computerhoy.20minutos.es|mundodeportivo.com
+@@||clarity.ms/tag/$script,domain=craiovaforum.ro
 @@||clarity.ms/tag/$script,domain=phileweb.com
 @@||www.msftconnecttest.com^
 @@||api.msn.com^

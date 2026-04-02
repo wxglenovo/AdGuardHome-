@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-02 12:33:02 CST
-! 总条数: 3564
+! 更新时间: 2026-04-02 13:41:38 CST
+! 总条数: 3565
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1814,6 +1814,7 @@
 @@||cmpv2.cookist.it/embed2/rmi/1.2.5|$subdocument
 @@||5278.cool^$generichide
 @@||image.coolapk.com^
+@@||coral.coralproject.net^
 @@||admin.corrata.com/console/dcconsolews/event-log?$~third-party
 @@||browser.covatic.io/sdk/v1/bauer.js$script,domain=hellorayo.co.uk
 @@||click.cptrack.de^|

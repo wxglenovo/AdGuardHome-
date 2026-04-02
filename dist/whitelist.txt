@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-02 16:47:39 CST
-! 总条数: 3565
+! 更新时间: 2026-04-02 18:51:12 CST
+! 总条数: 3566
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1471,6 +1471,7 @@
 @@||artnet.com^$generichide
 @@||assbbs.com^$generichide
 @@||battlecats-db.com^$generichide
+@@||bing.com^$generichide
 @@||brighteon.com^$generichide
 @@||canva.com^$generichide
 @@||carbuzz.com^$generichide
@@ -1838,7 +1839,6 @@
 @@||tdn.da-services.ch/libs/prebid8.$script,domain=20min.ch
 @@||admin.dable.io^|
 @@||acs-m.daraz.com.bd^|
-@@||acs-m.daraz.pk^
 @@||acs-m.daraz.pk^|
 @@||c.data.mob.com^$app=com.sinovatech.unicom.ui
 @@||settings-win.data.microsoft.com^
@@ -1970,6 +1970,7 @@
 @@||f-gear.ec-optimizer.com^|
 @@||itoya.ec-optimizer.com^|
 @@||l.ecn-ldr.de/loader/loader.js$domain=braun-hamburg.com
+@@||trk.ecomm.lenovo.com^
 @@||trk.ecomm.lenovo.com^|
 @@||hinagiku-u.ed.jp/wp54/wp-content/themes/hinagiku/images/$image,~third-party
 @@||user.edenredplus.com/assets/packages/mixpanel_flutter/assets/mixpanel.js$script,~third-party

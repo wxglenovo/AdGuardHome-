@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-03 16:43:08 CST
+! 更新时间: 2026-04-03 18:43:17 CST
 ! 总条数: 3582
 ! =====================
 
@@ -2970,7 +2970,7 @@
 @@||xiuren.org^$generichide
 @@||discretemath.org^$image,stylesheet
 @@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com|uphold.com
-@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|amp-lasexta-com.cdn.ampproject.org|connectthewatts.com|dronedj.com|electrek.co|lelum.pl|martdroid.de|spaceexplored.com|www-history-com.cdn.ampproject.org
+@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|amp-lasexta-com.cdn.ampproject.org|connectthewatts.com|dronedj.com|electrek.co|lelum.pl|martdroid.de|ringsidenews.com|spaceexplored.com|www-history-com.cdn.ampproject.org
 @@||bibblio.org^*/bib-related-content.min.js$script,domain=hindawi.com
 @@||lightningmaps.org^*/cookieconsent.$script,stylesheet
 @@||leechers-paradise.org^|

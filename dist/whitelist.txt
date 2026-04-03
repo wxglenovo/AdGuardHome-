@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-03 18:43:17 CST
-! 总条数: 3582
+! 更新时间: 2026-04-03 20:32:27 CST
+! 总条数: 3583
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -578,6 +578,7 @@
 @@||costco.com.tw/jsps/website/zh/images/location/AD
 @@||countrygarden.com.cn/ad/
 @@||cruisecenter.com.tw/data/ad/
+@@||curiositystream.com.first-party-js.datadome.co^$script,domain=curiositystream.com
 @@||cyrk-zalewski.com.pl^*/CookieInfo.js$script
 @@||dnbus.com.tw/AD/tab_route.html
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com

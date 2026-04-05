@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-05 15:12:45 CST
+! 更新时间: 2026-04-05 16:35:03 CST
 ! 总条数: 3584
 ! =====================
 
@@ -2449,7 +2449,7 @@
 @@||2chmatome2.jp/images/sp/320x250.png$~third-party
 @@||ascii.jp/img/ad/$image,~third-party
 @@||h1g.jp/img/ad/ad_heigu.html$~third-party
-@@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
+@@||snva.jp/javascripts/reco/$script,domain=abc-mart.net|store.charle.co.jp
 @@||webpush.jp/js/browserpushv3.js$domain=zakzak.co.jp
 @@||ncsoft.jp/js/common/jws/socialBar.js$~third-party
 @@||xfolio.jp/lu_assets/cookie-popup.$~third-party

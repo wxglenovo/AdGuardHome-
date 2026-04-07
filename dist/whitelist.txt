@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-07 09:45:47 CST
-! 总条数: 3584
+! 更新时间: 2026-04-07 12:36:37 CST
+! 总条数: 3585
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2200,6 +2200,7 @@
 @@||mail.google.com^$generichide
 @@||meet.google.com^$generichide
 @@||myaccount.google.com^$generichide
+@@||notebooklm.google.com^$generichide
 @@||photos.google.com^$generichide
 @@||safebrowsing.google.com^
 @@||support.google.com^$domain=support.google.com

@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-08 16:53:35 CST
+! 更新时间: 2026-04-08 18:56:33 CST
 ! 总条数: 3585
 ! =====================
 
@@ -858,7 +858,7 @@
 @@||53kf.com/company.php?arg=51fanli
 @@||openai.com/compliance/cookie_consent/$~third-party
 @@||imrworldwide.com/conf/$script,domain=nbcolympics.com
-@@||onetrust.com/consent/$domain=airnewzealand.co.nz|bt.com|groceries.asda.com|konami.com|nintendolife.com|panasonic.com|paramountplus.com|posti.fi|pushsquare.com|technics.com|timeextension.com|uw.co.uk
+@@||onetrust.com/consent/$domain=airnewzealand.co.nz|bt.com|groceries.asda.com|konami.com|nectar.com|nintendolife.com|panasonic.com|paramountplus.com|posti.fi|pushsquare.com|technics.com|timeextension.com|uw.co.uk
 @@||theautopian.com/content/plugins/complianz-gdpr/core/assets/js/cookieconsent.min.js
 @@||strava.com/cookie-banner.js$~third-party
 @@||oddschecker.com/cookie-policy-banner/$~third-party
@@ -1216,7 +1216,7 @@
 @@||schwab.com/scripts/appdynamic/adrum-ext.$script,~third-party
 @@||forbo.com/scripts/cookieconsent.min.js$~third-party
 @@||piaotia.com/scripts/readindex/tongji.js
-@@||onetrust.com/scripttemplates/$domain=airnewzealand.co.nz|bt.com|groceries.asda.com|konami.com|milliescookies.com|nintendolife.com|panasonic.com|paramountplus.com|posti.fi|pushsquare.com|technics.com|timeextension.com
+@@||onetrust.com/scripttemplates/$domain=airnewzealand.co.nz|bt.com|groceries.asda.com|konami.com|milliescookies.com|nectar.com|nintendolife.com|panasonic.com|paramountplus.com|posti.fi|pushsquare.com|technics.com|timeextension.com
 @@||cleverpush.com/sdk/$script,domain=heise.de
 @@||tsyndicate.com/sdk/v1/n.js$domain=hpjav.tv
 @@||feilusw.com/search.html$genericblock,generichide

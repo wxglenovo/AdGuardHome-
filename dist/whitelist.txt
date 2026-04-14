@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-14 20:51:53 CST
-! 总条数: 3587
+! 更新时间: 2026-04-14 23:15:19 CST
+! 总条数: 3592
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1439,6 +1439,7 @@
 @@||vulners.com^
 @@||wujieliulan.com^
 @@||zbj.com^
+@@||succeedscene.com^$badfilter
 @@||52xiyou.com^$domain=9377.com|52guoguo.cn
 @@||cookiebot.com^$domain=apetro.pt|apoteket.se|asambeauty.com|bankia.es|bergbauernmilch.de|berlingske.dk|biomarkt.de|bondekompaniet.no|bt.dk|caisse-epargne.fr|cajamar.es|cineplex.de|coinshares.com|dailybreak.com|danbolig.dk|dasinvestment.com|derivate.bnpparibas.com|digimon.kochfilms.de|digitaltrends.com|dimensione.com|dr.dk|egmont.com|ekstrabladet.dk|elmzell.se|euroatla.pt|fidelityhouse.eu|finanzmarktwelt.de|fof.se|formule1.nl|golf.nl|harzwasserwerke.de|hoyavision.com|kino.dk|login.nos.pt|mein-grundeinkommen.de|mineralstech.com|neue.at|nngroup.com|nordiskfilm.com|plaion.com|portofoonwinkel.nl|quandoo.it|refinery29.com|rhein-ruhr.stadtmobil.de|rmg.co.uk|robertsspaceindustries.com|scubadiving.com|sportdiver.com|stern.de|storyhouseegmont.dk|storyhouseegmont.no|storyhouseegmont.se|swspremberg.de|tfl.gov.uk|tme.com|toyota-forklifts.se|vcg.de|vikingline.com|vn.at|volunteer.digitalboost.org.uk|warscrap.io|web.ub.edu|wells.pt|werder.de|werkenbijlidl.nl|wero-wallet.eu|woo.pt|wwf.fi|xn--myeblttle-z2a.de|zugspitze.de
 @@||leanplum.com^$domain=arkadium.com
@@ -1637,6 +1638,7 @@
 @@||adtraction.com^$image,domain=ebjudande.se
 @@||valuecommerce.com^$image,domain=pointtown.com
 @@||ezsoftwarestorage.com^$image,media,domain=ezfunnels.com
+@@||vporn.com^$important
 @@||lulustream.com^$popup,domain=luluvdo.com
 @@||streamtape.com^$popup,domain=streamtape.to
 @@||succeedscene.com^$script
@@ -2304,6 +2306,7 @@
 @@||id.i2i.jp^|
 @@||grp07.ias.rakuten.co.jp^|
 @@||metrics.icloud.com^
+@@||assets.id.me/cookie-consent/$script,domain=api.id.me
 @@||gtm.idealo.*/gtm.js?$domain=idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it
 @@||virginmediatelevision.ie/*/cookienotice.js$script,~third-party
 @@||omniplex.ie/script/modules/cookiecuttr.js$~third-party
@@ -2770,6 +2773,7 @@
 @@||xinsheng.net^
 @@||xmxing.net^
 @@||yuanming.net^
+@@||consentmanager.net^$badfilter
 @@||optimove.net^$domain=app.touchnote.com
 @@||go-mpulse.net^$domain=costcobusinessdelivery.com
 @@||9zvip.net^$elemhide
@@ -3573,6 +3577,7 @@
 @@||biz.yelp.com/ads?$popup
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
+@@||ad.yieldlab.net^$badfilter
 @@||s.yimg.com/ja/ap/*/jquery.$domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 @@||s.yimg.jp/images/listing/tool/cv/ytag.js$domain=redstoneonline.jp|store-jp.nintendo.com
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp

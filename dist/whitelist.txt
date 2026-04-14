@@ -1,11 +1,10 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-14 23:15:19 CST
-! 总条数: 3592
+! 更新时间: 2026-04-15 01:18:55 CST
+! 总条数: 3575
 ! =====================
 
 @@||*/assets/js/common/juqery/
-@@||dns-clientinfo.
 @@||bcicl.*.evergage.com^|
 @@||email.*.skyeng.ru^|
 @@||mc.*.exacttarget.com^|
@@ -67,7 +66,6 @@
 @@||cdnb.4strokemedia.com/carousel/v4/comscore-JS-$script
 @@||video.520cc.cc/ad.php|
 @@||video.520cc.cc^$generichide
-@@||app2.522.com.cn
 @@||tracklog.58.com/referrer$~third-party
 @@||tracklog.58.com/referrer_ershouche_m_Now.js$domain=m.renrenche.com
 @@||117.60.146.16:8089/images/
@@ -271,7 +269,6 @@
 @@||ecma.bdimg.com/holmes/*.svg
 @@||dgss0.bdstatic.com^
 @@||dss2.bdstatic.com^
-@@||ss0.bdstatic.com
 @@||tb1.bdstatic.com/??/tb/_/*/ad_$script
 @@||newpharma.be/dist/cookie_policy.$~third-party
 @@||rtlplay.be/oneTrust-$~third-party
@@ -560,7 +557,6 @@
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
 @@||adobe.com.ssl.d1.sc.omtrdc.net^$xmlhttprequest,domain=www.adobe.com
 @@||airchina.com.cn/dynamicAd/
-@@||al-aqsanews.com
 @@||am730.com.hk^$generichide
 @@||appledaily.com.hk/admedia/
 @@||appledaily.com.tw^*_ad_logo.
@@ -598,7 +594,6 @@
 @@||kfcclub.com.tw/web/*/ad
 @@||kfcorder.com.tw/web/Script/Analytics.js
 @@||kfcorder.com.tw^*/Advert
-@@||krebsonsecurity.com
 @@||lager.com.tw/images/layer6_adbanner/
 @@||landtop.com.tw/images/ad/
 @@||masterkong.com.cn/adimages/
@@ -1439,7 +1434,6 @@
 @@||vulners.com^
 @@||wujieliulan.com^
 @@||zbj.com^
-@@||succeedscene.com^$badfilter
 @@||52xiyou.com^$domain=9377.com|52guoguo.cn
 @@||cookiebot.com^$domain=apetro.pt|apoteket.se|asambeauty.com|bankia.es|bergbauernmilch.de|berlingske.dk|biomarkt.de|bondekompaniet.no|bt.dk|caisse-epargne.fr|cajamar.es|cineplex.de|coinshares.com|dailybreak.com|danbolig.dk|dasinvestment.com|derivate.bnpparibas.com|digimon.kochfilms.de|digitaltrends.com|dimensione.com|dr.dk|egmont.com|ekstrabladet.dk|elmzell.se|euroatla.pt|fidelityhouse.eu|finanzmarktwelt.de|fof.se|formule1.nl|golf.nl|harzwasserwerke.de|hoyavision.com|kino.dk|login.nos.pt|mein-grundeinkommen.de|mineralstech.com|neue.at|nngroup.com|nordiskfilm.com|plaion.com|portofoonwinkel.nl|quandoo.it|refinery29.com|rhein-ruhr.stadtmobil.de|rmg.co.uk|robertsspaceindustries.com|scubadiving.com|sportdiver.com|stern.de|storyhouseegmont.dk|storyhouseegmont.no|storyhouseegmont.se|swspremberg.de|tfl.gov.uk|tme.com|toyota-forklifts.se|vcg.de|vikingline.com|vn.at|volunteer.digitalboost.org.uk|warscrap.io|web.ub.edu|wells.pt|werder.de|werkenbijlidl.nl|wero-wallet.eu|woo.pt|wwf.fi|xn--myeblttle-z2a.de|zugspitze.de
 @@||leanplum.com^$domain=arkadium.com
@@ -1638,7 +1632,6 @@
 @@||adtraction.com^$image,domain=ebjudande.se
 @@||valuecommerce.com^$image,domain=pointtown.com
 @@||ezsoftwarestorage.com^$image,media,domain=ezfunnels.com
-@@||vporn.com^$important
 @@||lulustream.com^$popup,domain=luluvdo.com
 @@||streamtape.com^$popup,domain=streamtape.to
 @@||succeedscene.com^$script
@@ -1907,7 +1900,6 @@
 @@||g1.dfcfw.com^
 @@||gbres.dfcfw.com^
 @@||j4.dfcfw.com^
-@@||2345jsllq.dftoutiao.co
 @@||webtrack.dhlglobalmail.com^
 @@||www.digikey.*/cookie-notice.css$stylesheet,~third-party
 @@||data.digital.costco.ca^|
@@ -2507,7 +2499,6 @@
 @@||livew.l.qq.com/livemsg?pf=H5&ad$domain=m.v.qq.com
 @@||pagead.l.doubleclick.net^
 @@||pagead.l.doubleclick.net^|
-@@||v.l.ykimg.com
 @@||vd.l.qq.com^
 @@||mmy.la^*300*250
 @@||api.lab.amplitude.com/v1/vardata?$domain=gaiagps.com
@@ -2555,7 +2546,6 @@
 @@||topocentras.lt/js/CookieConsent-$~third-party
 @@||jurga.lt/vendor/orestbida/cookieconsent/dist/cookieconsent.umd.js$~third-party
 @@||c.lytics.io/api/tag/$script,domain=time.com
-@@||acs.m.taobao.com
 @@||center-h5api.m.taobao.com^
 @@||thecity.m24.ru/css/ya-share.css
 @@||api-analytics.magstimconnect.net^$~third-party
@@ -2773,7 +2763,6 @@
 @@||xinsheng.net^
 @@||xmxing.net^
 @@||yuanming.net^
-@@||consentmanager.net^$badfilter
 @@||optimove.net^$domain=app.touchnote.com
 @@||go-mpulse.net^$domain=costcobusinessdelivery.com
 @@||9zvip.net^$elemhide
@@ -3049,7 +3038,6 @@
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||skydrivesync.policies.live.net^
 @@||friends.ponta.jp/app/assets/images/$~third-party
-@@||cdn*.porn300.com^
 @@||pics.porn300.com^
 @@||pics.porndroids.com^
 @@||configurator.porsche.com/public/adobe-analytics-$~third-party
@@ -3058,7 +3046,6 @@
 @@||gdh.postcodeloterij.nl/gdltm.js$domain=vriendenloterij.nl
 @@||content.pouet.net/avatars/adx.gif$image,~third-party
 @@||app.powerbi.com^
-@@||asimgs.pplive.cn
 @@||pixel.prime.amazon.dev^
 @@||live.primis.tech^$domain=eurogamer.net|gbnews.com|independent.co.uk|klaq.com|loudwire.com|screencrush.com|the-independent.com|vg247.com|xxlmag.com
 @@||live.primis.tech^$xmlhttprequest,domain=xxlmag.com
@@ -3381,7 +3368,6 @@
 @@||photovms.tv.sohu.com/*/*_hor_small_1.jpg$app=com.sohu.sohuvideo,important
 @@||photovms.tv.sohu.com/*/-*_1.jpg$app=com.sohu.sohuvideo,important
 @@||photovms.tv.sohu.com/*/-*_hor_small_1.jpg$app=com.sohu.sohuvideo,important
-@@||smartpixel.tv
 @@||4gtv.tv/4gtv/Data/GetAD.ashx
 @@||litv.tv/ads/ads.js
 @@||camerabay.tv/ads/entry/camerabay/fullbk/bg.jpg
@@ -3538,7 +3524,6 @@
 @@||client.wns.windows.com^
 @@||belgium.wolterskluwer.com^|
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
-@@||s-plugins.wordpress.org
 @@||adsense.woso.cn^$~third-party
 @@||s1.wp.com^
 @@||stats.wp.com/w.js$script,domain=wordpress.com
@@ -3573,11 +3558,9 @@
 @@||yjtag.yahoo.co.jp/tag?$script,domain=bousai.yahoo.co.jp
 @@||mc.yandex.ru/metrika/tag.js$script,domain=auto.yandex|coddyschool.com
 @@||assets.yasno.live/packs/assets/analytics-events-$script,~third-party
-@@||auto-api.yelp.com
 @@||biz.yelp.com/ads?$popup
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
-@@||ad.yieldlab.net^$badfilter
 @@||s.yimg.com/ja/ap/*/jquery.$domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 @@||s.yimg.jp/images/listing/tool/cv/ytag.js$domain=redstoneonline.jp|store-jp.nintendo.com
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp

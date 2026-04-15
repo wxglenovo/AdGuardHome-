@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-15 12:48:41 CST
-! 总条数: 8303
+! 更新时间: 2026-04-15 14:00:23 CST
+! 总条数: 8299
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -572,7 +572,6 @@
 @@||europeanclassiccomic.blogspot.com^
 @@||filmes-torrent-baixar.blogspot.com^
 @@||freeapps4y.blogspot.com^
-@@||freeserial-keys.blogspot.com^
 @@||freesoftpdfdownload.blogspot.com^
 @@||funnymadworld.blogspot.com^
 @@||game-kentang.blogspot.com^
@@ -2871,7 +2870,6 @@
 @@||inspsearchapi.com^
 @@||instagram.com^
 @@||instapundit.com^
-@@||intercelestial.com^
 @@||inven.com^
 @@||investing.com^
 @@||invodo.com^
@@ -3715,7 +3713,6 @@
 @@||turkleech.com^
 @@||tutorialescomo.com^
 @@||tuttosport.com^
-@@||tv-onlinehd.com^
 @@||tv3monde.com^
 @@||tvappapk.com^
 @@||tvbanywherena.com^
@@ -6371,7 +6368,6 @@
 @@||mxcontent.net^
 @@||mypapercraft.net^
 @@||naruto-arena.net^
-@@||nb-music.net^
 @@||nensaysubs.net^
 @@||neowin.net^
 @@||netnordic.net^

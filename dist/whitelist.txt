@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-17 18:56:11 CST
-! 总条数: 8299
+! 更新时间: 2026-04-17 20:46:01 CST
+! 总条数: 8300
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -349,6 +349,7 @@
 @@||events.appsflyer.com^
 @@||inapps.appsflyer.com^
 @@||t.appsflyer.com^
+@@||conversions.appsflyersdk.com^
 @@||wxhepz-inapps.appsflyersdk.com^
 @@||wxhepz-launches.appsflyersdk.com^
 @@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party

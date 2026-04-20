@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-20 17:52:18 CST
-! 总条数: 8305
+! 更新时间: 2026-04-20 19:18:42 CST
+! 总条数: 8303
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4562,7 +4562,6 @@
 @@||cmp.dmgmediaprivacy.co.uk^
 @@||banner.dna.fi^
 @@||ad-block.dns.adguard.com^
-@@||www.dobreprogramy.pl^
 @@||api.docodoco.jp^
 @@||api.docodoco.jp^|
 @@||faucet.dog^
@@ -4605,6 +4604,7 @@
 @@||static.doubleclick.net^
 @@||pub.doubleverify.com/dvtag/$script,domain=time.com
 @@||www.douglas.*/public/cookieconsent.
+@@||wan.douyu.com^
 @@||cs-op.douyucdn.cn/dycatr^
 @@||cs-op.douyucdn.cn/vod-cover^
 @@||cs-op.douyucdn.cn/vod-index^
@@ -4641,7 +4641,6 @@
 @@||f-gear.ec-optimizer.com^|
 @@||itoya.ec-optimizer.com^|
 @@||l.ecn-ldr.de/loader/loader.js$domain=braun-hamburg.com
-@@||trk.ecomm.lenovo.com^
 @@||trk.ecomm.lenovo.com^|
 @@||hinagiku-u.ed.jp/wp54/wp-content/themes/hinagiku/images/$image,~third-party
 @@||user.edenredplus.com/assets/packages/mixpanel_flutter/assets/mixpanel.js$script,~third-party
@@ -8153,7 +8152,6 @@
 @@||adsense.woso.cn^$~third-party
 @@||1login.wp.pl^
 @@||kobieta.wp.pl^
-@@||pilot.wp.pl^
 @@||s1.wp.com^
 @@||stats.wp.com/w.js$script,domain=wordpress.com
 @@||stats.wp.com^

@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-21 14:02:40 CST
+! 更新时间: 2026-04-21 15:58:45 CST
 ! 总条数: 8303
 ! =====================
 
@@ -6892,7 +6892,7 @@
 @@||api.os.fressnapf.com^
 @@||cmp.osano.com^
 @@||cmp.osano.com^$script,domain=account.bhvr.com|everand.com|guidepoint.com|lucidchart.com|midnight.gd|scribd.com|sonesta.com
-@@||cmp.osano.com^*/osano.js$domain=stltoday.com
+@@||cmp.osano.com^*/osano.js$domain=alltrails.com|stltoday.com
 @@||chsi-zyghds.oss-cn-beijing.aliyuncs.com^
 @@||ibeta-www.oss-cn-beijing.aliyuncs.com^
 @@||api.ott.kinopoisk.ru^

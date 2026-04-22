@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-22 15:55:24 CST
-! 总条数: 8303
+! 更新时间: 2026-04-22 17:12:58 CST
+! 总条数: 8302
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3518,7 +3518,6 @@
 @@||sneakernews.com^
 @@||snigelweb.com^
 @@||snopes.com^
-@@||sobot.com^
 @@||socialblade.com^
 @@||society6.com^
 @@||soft8ware.com^

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-22 14:00:12 CST
-! 总条数: 8302
+! 更新时间: 2026-04-22 15:55:24 CST
+! 总条数: 8303
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1510,6 +1510,7 @@
 @@||shreemaruticourier.com/banners/$~third-party
 @@||cloudflareinsights.com/beacon.min.js$script,domain=app.uniswap.org
 @@||scorecardresearch.com/beacon.js$domain=hktvmall.com
+@@||salesforce.com/beacon/$script,domain=safeway.ca
 @@||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js
 @@||bitauto.com/bglogpostlog.js
 @@||nypost.com/blaize/datalayer$~third-party

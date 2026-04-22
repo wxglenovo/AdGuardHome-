@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-22 23:15:50 CST
-! 总条数: 8301
+! 更新时间: 2026-04-23 01:10:51 CST
+! 总条数: 8302
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4801,6 +4801,7 @@
 @@||cmp.faktor.mgr.consensu.org^
 @@||client.falixnodes.net^
 @@||star.fallback.c10r.facebook.com^
+@@||community.fandom.com^
 @@||cmpv2.fanpage.it/embed2/rmi/1.2.5|$subdocument
 @@||hikari.faq.rakuten.net^
 @@||upload.far7net.com^

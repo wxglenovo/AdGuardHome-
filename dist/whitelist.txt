@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-22 17:12:58 CST
-! 总条数: 8302
+! 更新时间: 2026-04-22 19:05:24 CST
+! 总条数: 8301
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -7043,7 +7043,6 @@
 @@||queer.pl^
 @@||radioplus.pl^
 @@||radiosupernova.pl^
-@@||realmadryt.pl^
 @@||rmfon.pl^
 @@||roland-gazeta.pl^
 @@||se.pl^

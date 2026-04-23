@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-23 12:53:15 CST
+! 更新时间: 2026-04-23 14:06:06 CST
 ! 总条数: 8300
 ! =====================
 
@@ -2468,6 +2468,7 @@
 @@||dayoadetiloye.com^
 @@||dayzrp.com^
 @@||dcdirtylaundry.com^
+@@||dcinside.com^
 @@||debridup.com^
 @@||deezer.com^
 @@||defconlevel.com^
@@ -7713,7 +7714,6 @@
 @@||c.tmyzer.com^
 @@||cdn-fck.tnaflix.com^
 @@||data.tnlycdn.com^
-@@||go.tnshort.net^
 @@||waaw.to/adv/ads/popunder.js$script
 @@||abstream.to^
 @@||akw.to^

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-25 04:32:48 CST
-! 总条数: 8308
+! 更新时间: 2026-04-25 06:42:31 CST
+! 总条数: 8310
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1366,6 +1366,7 @@
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js
 @@||ujinbi.com/UpLoadFile/guanggao/
 @@||dqzsteel.com/Website/Image/guanggao/
+@@||gstatic.com/_/mss/boq-ads-privacy-consumer-frontend$domain=googleads.g.doubleclick.net
 @@||retailmenot.com/__wsm.gif$ping,~third-party,xmlhttprequest
 @@||honoku.com/_app/immutable/chunks/cookiebanner.$~third-party
 @@||malighting.com/_assets/*-cookie-banner.json$~third-party
@@ -4939,6 +4940,7 @@
 @@||video.fyber.com^
 @@||assets.fyers.in/Lib/analytics/Analytics.js$~third-party
 @@||banking.fyrst.de/translations/*-cookiedisclaimer$~third-party,xmlhttprequest
+@@||googleads.g.doubleclick.net/ads/controlcookies/getcookies$domain=adssettings.google.com
 @@||googleads.g.doubleclick.net/ads/preferences/$domain=googleads.g.doubleclick.net
 @@||googleads.g.doubleclick.net/pagead/html/*/zrt_lookup_$subdocument,domain=ycp.synk-casualgames.com
 @@||googleads.g.doubleclick.net^

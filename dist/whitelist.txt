@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-27 16:31:36 CST
-! 总条数: 8309
+! 更新时间: 2026-04-27 18:08:03 CST
+! 总条数: 8311
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4845,6 +4845,7 @@
 @@||gate.first-id.fr^|
 @@||widget.fitanalytics.com/widget.js$script,domain=pullandbear.com
 @@||cdn.flowplayer.com^*/share.min.js
+@@||5471782.fls.doubleclick.net^
 @@||5471782.fls.doubleclick.net^|
 @@||data.flurry.com^
 @@||hunter.fm^
@@ -4938,6 +4939,7 @@
 @@||engine.fyber.com^
 @@||video.fyber.com^
 @@||assets.fyers.in/Lib/analytics/Analytics.js$~third-party
+@@||play.fyi.tv^
 @@||banking.fyrst.de/translations/*-cookiedisclaimer$~third-party,xmlhttprequest
 @@||googleads.g.doubleclick.net/ads/controlcookies/getcookies$domain=adssettings.google.com
 @@||googleads.g.doubleclick.net/ads/preferences/$domain=googleads.g.doubleclick.net

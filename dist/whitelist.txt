@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-29 19:27:59 CST
-! 总条数: 8310
+! 更新时间: 2026-04-29 21:12:31 CST
+! 总条数: 8311
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5198,6 +5198,7 @@
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||health.halodoc.com^|
 @@||tools.halpas.com^
+@@||hisnet.handong.edu^
 @@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
 @@||www.hao123.com^
 @@||widget.happyfoxchat.com^

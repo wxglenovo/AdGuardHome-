@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-04-30 21:11:57 CST
-! 总条数: 8317
+! 更新时间: 2026-04-30 23:47:51 CST
+! 总条数: 8318
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1615,6 +1615,7 @@
 @@||tanx.com/ex?i=mm_$domain=www.hao123.com
 @@||thdstatic.com/experiences/local-ad/$domain=homedepot.com
 @@||adobedtm.com/extensions/$domain=antena3.com|apple.com|atresmedia.com|atresplayer.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|lasexta.com|telus.com|verizon.com|xfinity.com
+@@||gelbooru.com/extras/howtosearch/
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
 @@||taboolanews.com/feed/summary?publisherId=Taboola_samsung-carnival-us&key=Taboola&viewID=$generichide
 @@||epstore.com/file_includes.php?path=*/pageview.js$script,~third-party

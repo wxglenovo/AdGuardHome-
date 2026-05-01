@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-01 19:05:59 CST
+! 更新时间: 2026-05-01 20:45:25 CST
 ! 总条数: 8317
 ! =====================
 
@@ -7919,7 +7919,7 @@
 @@||use.typekit.net^
 @@||meltyblood.typelumina.com/resources/img/common/$image,~third-party
 @@||wf.typesquare.com^
-@@||wf.typesquare.com^$font,domain=morisawafonts.com
+@@||wf.typesquare.com^$font,domain=app.studio.design|morisawafonts.com
 @@||news.u17i.com/advert/
 @@||privatbank.ua/content/*/fp2.min.js$~third-party
 @@||mafia.ua/js/jquery.smartbanner.js$script,~third-party

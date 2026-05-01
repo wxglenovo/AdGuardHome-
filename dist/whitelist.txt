@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-01 16:17:25 CST
-! 总条数: 8318
+! 更新时间: 2026-05-01 17:27:05 CST
+! 总条数: 8317
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -7469,7 +7469,6 @@
 @@||ad.siemens.com.cn^
 @@||hugo.sieradz.com.pl^
 @@||cs.silverpop.com^|
-@@||click.simba.taobao.com^
 @@||click.simba.taobao.com^|
 @@||iframe.simplex-affiliates.com^
 @@||gk.sina.cn/v1/gkmatch?

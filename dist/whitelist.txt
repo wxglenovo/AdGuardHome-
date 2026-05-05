@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-05 23:58:10 CST
-! 总条数: 8322
+! 更新时间: 2026-05-06 01:44:04 CST
+! 总条数: 8323
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5002,6 +5002,7 @@
 @@||st.getsitecontrol.com/main/runtime/$script,domain=beaconclimbing.com
 @@||widgets.getsitecontrol.com^
 @@||widgets.getsitecontrol.com^$script,domain=beaconclimbing.com
+@@||shop.getthefuturist.com^
 @@||auth.gfx.ms^
 @@||adv.gg^
 @@||emoji.gg^

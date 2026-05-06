@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-07 00:01:57 CST
-! 总条数: 8328
+! 更新时间: 2026-05-07 01:47:53 CST
+! 总条数: 8329
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2861,6 +2861,7 @@
 @@||ifttt.com^
 @@||igg-games.com^
 @@||ign.com^
+@@||iherb.com^
 @@||ilpuntotecnico.com^
 @@||imgtmo.com^
 @@||imydl.com^

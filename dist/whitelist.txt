@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-07 18:15:10 CST
-! 总条数: 8332
+! 更新时间: 2026-05-07 19:47:10 CST
+! 总条数: 8330
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2709,7 +2709,6 @@
 @@||fruitlab.com^
 @@||fs2017mod.com^
 @@||funimation.com^
-@@||funtastic-vids.com^
 @@||futbin.com^
 @@||fuyufs.com^
 @@||fxporn69.com^
@@ -5955,7 +5954,6 @@
 @@||mycdn.me^
 @@||myshows.me^
 @@||nfhost.me^
-@@||omuzaani.me^
 @@||parzibyte.me^
 @@||proton.me^
 @@||shrinke.me^

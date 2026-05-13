@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-13 21:55:14 CST
-! 总条数: 8340
+! 更新时间: 2026-05-14 00:20:25 CST
+! 总条数: 8341
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -7131,6 +7131,7 @@
 @@||gdh.postcodeloterij.nl/gdltm.js$domain=vriendenloterij.nl
 @@||content.pouet.net/avatars/adx.gif$image,~third-party
 @@||app.powerbi.com^
+@@||user-profile.pr.sbsod.com^
 @@||apim.prd.natlot.be^
 @@||pixel.prime.amazon.dev^
 @@||live.primis.tech^

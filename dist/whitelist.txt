@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-14 03:49:21 CST
-! 总条数: 8341
+! 更新时间: 2026-05-14 05:12:52 CST
+! 总条数: 8342
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4501,6 +4501,7 @@
 @@||ticketonline.de^
 @@||tvtoday.de^
 @@||volksfreund.de^
+@@||welt.de^
 @@||whiskypreisvergleich.de^
 @@||wittich.de^
 @@||wiwo.de^

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-13 20:03:49 CST
-! 总条数: 8339
+! 更新时间: 2026-05-13 21:55:14 CST
+! 总条数: 8340
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4352,6 +4352,7 @@
 @@||banner.customer.kyruus.com^
 @@||banner.customer.kyruus.com^$domain=doctors.bannerhealth.com
 @@||e.customeriomail.com^|
+@@||content-thumbnail.cxpublic.com^
 @@||content-thumbnail.cxpublic.com^$image,domain=hochi.news
 @@||csm.cxpublic.com/Shueisha.js$domain=wpb.shueisha.co.jp
 @@||csm.cxpublic.com^

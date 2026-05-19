@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-19 15:45:31 CST
-! 总条数: 8346
+! 更新时间: 2026-05-19 17:52:22 CST
+! 总条数: 8345
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5337,7 +5337,6 @@
 @@||foodtechnos.in^
 @@||freebitco.in^
 @@||goodreturns.in^
-@@||itdmusic.in^
 @@||loanoffering.in^
 @@||luciferdonghua.in^
 @@||majhinaukri.in^
@@ -5352,7 +5351,6 @@
 @@||vinaurl.in^
 @@||xmod.in^
 @@||xup.in^
-@@||yupptv.in^
 @@||js-sec.indexww.com^
 @@||api.individual.githubcopilot.com^
 @@||learn.inesdi.com/webapps/privacy-disclosure/js/cookieconsent.js$~third-party
@@ -8070,6 +8068,7 @@
 @@||laotiesao.vip^
 @@||oldskool.vip^
 @@||turbovid.vip^
+@@||xcandid.vip^
 @@||chineseanime.vip^$generichide
 @@||laotiesao.vip^$generichide
 @@||content.viralize.tv^|

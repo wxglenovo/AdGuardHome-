@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-21 00:52:57 CST
-! 总条数: 8348
+! 更新时间: 2026-05-21 02:25:55 CST
+! 总条数: 8349
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2357,6 +2357,7 @@
 @@||cdn-cookieyes.com^
 @@||cdn-manga.com^
 @@||cdnads.com^
+@@||cdncmk.com^
 @@||cdndm5.com^
 @@||cdniptvpotok.com^
 @@||cdntvmedia.com^

@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-22 10:37:27 CST
+! 更新时间: 2026-05-22 14:12:18 CST
 ! 总条数: 8353
 ! =====================
 
@@ -864,7 +864,7 @@
 @@||tui.click^
 @@||tui.click^$generichide
 @@||adv.clickadu.com^
-@@||app.clickfunnels.com/assets/lander.js$script,domain=propanefitness.com
+@@||app.clickfunnels.com/assets/lander.js$script,domain=painprophet.com|propanefitness.com
 @@||feedback-pa.clients6.google.com^
 @@||grimoireoss-pa.clients6.google.com^
 @@||static.clmbtech.com^

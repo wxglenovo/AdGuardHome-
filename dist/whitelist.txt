@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-25 19:45:51 CST
+! 更新时间: 2026-05-25 21:29:05 CST
 ! 总条数: 8361
 ! =====================
 
@@ -4276,7 +4276,7 @@
 @@||vivocha.com^*/vivocha.js?$script,domain=kartell.com
 @@||bilibili.com^*/web_page_view?$domain=message.bilibili.com
 @@||bostonherald.com^*/webpush.js$script,~third-party
-@@||ziffstatic.com^*/zdconsent.js$domain=humblebundle.com|ign.com|nintendolife.com|purexbox.com|pushsquare.com|speedtest.net|timeextension.com
+@@||ziffstatic.com^*/zdconsent.js$domain=humblebundle.com|ign.com|nintendolife.com|pcmag.com|purexbox.com|pushsquare.com|speedtest.net|timeextension.com
 @@||360buyimg.com^*??
 @@||qq.com^*?ADTAG=
 @@||tenpay.com^*?ADTAG=

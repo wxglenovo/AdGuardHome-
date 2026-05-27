@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-27 16:04:39 CST
-! 总条数: 8362
+! 更新时间: 2026-05-27 17:59:16 CST
+! 总条数: 8361
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -6414,7 +6414,6 @@
 @@||notebookcheck.net^
 @@||nq-api.net^
 @@||nr-data.net^
-@@||nuggad.net^
 @@||nullpress.net^
 @@||nyaa.net^
 @@||omtrdc.net^

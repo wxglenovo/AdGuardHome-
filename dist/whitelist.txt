@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-29 02:40:03 CST
+! 更新时间: 2026-05-29 04:13:41 CST
 ! 总条数: 8359
 ! =====================
 
@@ -5356,6 +5356,7 @@
 @@||megaurl.in^
 @@||primeos.in^
 @@||speakingtree.in^
+@@||techypopat.in^
 @@||thizissam.in^
 @@||tirumalatirupatiyatra.in^
 @@||ujjivansfb.in^
@@ -6292,7 +6293,6 @@
 @@||definitions.net^
 @@||descargaranimes.net^
 @@||descargaspcpro.net^
-@@||desirecourse.net^
 @@||dictionnaire-medical.net^
 @@||direct-link.net^
 @@||dizzylab.net^

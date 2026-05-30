@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-05-30 07:16:07 CST
-! 总条数: 8352
+! 更新时间: 2026-05-30 10:26:06 CST
+! 总条数: 8353
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -6212,6 +6212,7 @@
 @@||aticdn.net/piano-analytics.js$domain=stuttgarter-nachrichten.de
 @@||ipip.net/ping.php?
 @@||azureedge.net/prod/smi/loader-config.json$domain=pressdemocrat.com
+@@||blackbaud.net/proxy/api/track/
 @@||dnsgom.net/public/$domain=jingwubook.com|xwdsc.com
 @@||recaptcha.net/recaptcha/$script
 @@||deteql.net/recommend/provision?$xmlhttprequest,domain=t-fashion.jp

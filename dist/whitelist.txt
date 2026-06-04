@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-05 02:25:05 CST
+! 更新时间: 2026-06-05 04:00:20 CST
 ! 总条数: 8361
 ! =====================
 
@@ -5317,7 +5317,7 @@
 @@||independent.ie^
 @@||rte.ie^
 @@||mpsnare.iesnare.com^
-@@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|secure.coventrybuildingsociety.co.uk|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
+@@||mpsnare.iesnare.com^$script,domain=aswbe.ana.co.jp|citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|secure.coventrybuildingsociety.co.uk|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
 @@||visitor.if.eu^
 @@||x2.ifengimg.com^
 @@||www.ifon.ca^

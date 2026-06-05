@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-05 16:07:12 CST
-! 总条数: 8360
+! 更新时间: 2026-06-05 17:57:33 CST
+! 总条数: 8359
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5486,7 +5486,6 @@
 @@||cryptowin.io^
 @@||deadshot.io^
 @@||digworm.io^
-@@||eztv.io^
 @@||facepunch.io^
 @@||filesharing.io^
 @@||finalboss.io^

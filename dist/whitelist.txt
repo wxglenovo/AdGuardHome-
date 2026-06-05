@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-05 19:19:05 CST
+! 更新时间: 2026-06-05 20:37:15 CST
 ! 总条数: 8359
 ! =====================
 
@@ -7758,7 +7758,7 @@
 @@||analytics.tiktok.com^
 @@||analytics-ipv6.tiktokw.us^
 @@||img.tile.expert/*/*_300x600_$image,~third-party
-@@||tags.tiqcdn.com/utag/*/utag.sync.js$domain=bankofamerica.com|hsbc.co.uk|samsung.com|sony.jp|visible.com|vmware.com
+@@||tags.tiqcdn.com/utag/*/utag.sync.js$domain=10.com.au|bankofamerica.com|hsbc.co.uk|samsung.com|sony.jp|visible.com|vmware.com
 @@||games.tiscali.cz^
 @@||dammu.tk^
 @@||faucetbr.tk^

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-06 19:26:02 CST
-! 总条数: 8360
+! 更新时间: 2026-06-06 20:59:32 CST
+! 总条数: 8361
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -7588,6 +7588,7 @@
 @@||api-secure.solvemedia.com^
 @@||cdn.sophi.io/assets/$script,domain=nationalpost.com
 @@||cdn.sophi.io^
+@@||dwt.soundcloud.com.first-party-js.datadome.co^
 @@||dwt.soundcloud.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=soundcloud.com
 @@||join.southerncross.co.nz/quote/_assets/js/sx/app/helpers/gtm.js
 @@||img.soutula.com^

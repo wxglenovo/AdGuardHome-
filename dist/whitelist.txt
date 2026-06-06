@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-07 01:21:49 CST
-! 总条数: 8361
+! 更新时间: 2026-06-07 03:15:48 CST
+! 总条数: 8362
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -275,6 +275,7 @@
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||aax.amazon-adsystem.com^
 @@||rcm-na.amazon-adsystem.com^
+@@||s.amazon-adsystem.com^
 @@||s3.amazonaws.com^
 @@||docs.amd.com^
 @@||assure.ameli.fr^*/smart-app-banner.js$~third-party

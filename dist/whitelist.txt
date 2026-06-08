@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-08 20:22:56 CST
-! 总条数: 8363
+! 更新时间: 2026-06-08 22:06:11 CST
+! 总条数: 8364
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3435,6 +3435,7 @@
 @@||sacheats.com^
 @@||sadeempc.com^
 @@||safeku.com^
+@@||safelinku.com^
 @@||samapkstore.com^
 @@||samfw.com^
 @@||samnaprawiam.com^

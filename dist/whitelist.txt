@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-10 00:31:36 CST
-! 总条数: 8366
+! 更新时间: 2026-06-10 02:14:34 CST
+! 总条数: 8367
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3391,6 +3391,7 @@
 @@||railwayoperationsimulator.com^
 @@||rakuna-seikatsu.com^
 @@||rangerboard.com^
+@@||ranker.com^
 @@||raphsonbd.com^
 @@||rapidrar.com^
 @@||ratatype.com^

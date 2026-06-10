@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-11 02:35:14 CST
+! 更新时间: 2026-06-11 04:24:20 CST
 ! 总条数: 8372
 ! =====================
 
@@ -4774,6 +4774,7 @@
 @@||cheatnetwork.eu^
 @@||cookie-bar.eu^
 @@||cookiebot.eu^
+@@||ewybory.eu^
 @@||fiatclub.eu^
 @@||fordclub.eu^
 @@||forzearmate.eu^
@@ -8218,7 +8219,6 @@
 @@||texte.work^
 @@||vacation-et.work^
 @@||poring.world^
-@@||easy.worldthunder.net^
 @@||adsense.woso.cn^
 @@||adsense.woso.cn^$~third-party
 @@||1login.wp.pl^

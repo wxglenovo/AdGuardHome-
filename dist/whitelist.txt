@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-12 01:36:45 CST
-! 总条数: 8373
+! 更新时间: 2026-06-12 02:51:23 CST
+! 总条数: 8374
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3457,6 +3457,7 @@
 @@||satoshiquiz.com^
 @@||savetolink.com^
 @@||saveur.com^
+@@||sazwe.com^
 @@||sberbank.com^
 @@||sc2casts.com^
 @@||scaleya.com^

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-12 07:26:18 CST
-! 总条数: 8374
+! 更新时间: 2026-06-12 10:46:12 CST
+! 总条数: 8373
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2519,7 +2519,6 @@
 @@||disqus.com^
 @@||disquscdn.com^
 @@||ditchthecarbs.com^
-@@||diysideas.com^
 @@||dizhi99.com^
 @@||dlkoo.com^
 @@||dloady.com^

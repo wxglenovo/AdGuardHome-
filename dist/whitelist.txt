@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-13 18:28:18 CST
-! 总条数: 8375
+! 更新时间: 2026-06-13 19:53:27 CST
+! 总条数: 8396
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -217,6 +217,7 @@
 @@||data.adxcel-ec2.com^
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||checkoutshopper-live-us.adyen.com^
+@@||amazon.ae^$generichide
 @@||camera.aeonax.com^
 @@||minigame.aeriagames.jp/*/ae-tpgs-$~third-party
 @@||minigame.aeriagames.jp/css/videoad.css
@@ -741,6 +742,7 @@
 @@||tripcentral.ca^
 @@||tvanouvelles.ca^
 @@||virginplus.ca^
+@@||amazon.ca^$generichide
 @@||blackcircles.ca^$script,~third-party
 @@||adsninja.ca^$stylesheet,xmlhttprequest,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@||remembering.ca^|
@@ -998,6 +1000,7 @@
 @@||10086.cn^$generichide
 @@||1991421.cn^$generichide
 @@||adoi.cn^$generichide
+@@||amazon.cn^$generichide
 @@||liumingye.cn^$generichide
 @@||mcbar.cn^$generichide
 @@||nvidia.cn^*-300x250-
@@ -1025,6 +1028,8 @@
 @@||ahaan.co.uk^$~third-party,xmlhttprequest
 @@||akashiro.co.id^
 @@||allabout.co.jp/mtx_cnt.js$script,~third-party
+@@||amazon.co.jp^$generichide
+@@||amazon.co.uk^$generichide
 @@||aquarium.co.jp^
 @@||asb.co.nz.ssl.d2.sc.omtrdc.net^
 @@||asb.co.nz.ssl.d2.sc.omtrdc.net^$xmlhttprequest,domain=asb.co.nz
@@ -1190,6 +1195,10 @@
 @@||albyatirim.com.tr^
 @@||am730.com.hk^
 @@||am730.com.hk^$generichide
+@@||amazon.com.au^$generichide
+@@||amazon.com.br^$generichide
+@@||amazon.com.mx^$generichide
+@@||amazon.com.tr^$generichide
 @@||amtonline.com.br^
 @@||andek.com.pl^
 @@||androidtunado.com.br^
@@ -3964,6 +3973,7 @@
 @@||affyun.com^$generichide
 @@||ahhhhfs.com^$generichide
 @@||akashio.com^$generichide
+@@||amazon.com^$generichide
 @@||anyknew.com^$generichide
 @@||apkmirror.com^$generichide
 @@||apple.com^$generichide
@@ -4519,6 +4529,7 @@
 @@||wittich.de^
 @@||wiwo.de^
 @@||zeit.de^
+@@||amazon.de^$generichide
 @@||jetzt.de^$generichide
 @@||computerbase.de^*/consent/$script,xmlhttprequest
 @@||kalaydo.de^*/cookie-consent.jsc.js$domain=kalaydo.de
@@ -4701,6 +4712,7 @@
 @@||ralli.ee^
 @@||swedbank.ee^
 @@||gaus.ee^$generichide
+@@||amazon.eg^$generichide
 @@||videos.eispop.com^
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||ads.elevateplatform.co.uk^
@@ -4745,6 +4757,7 @@
 @@||telecinco.es^
 @@||theolivepress.es^
 @@||yoututosjeff.es^
+@@||amazon.es^$generichide
 @@||addicted.es^*/ad728-$image,~third-party
 @@||adsatt.espn.starwave.com^
 @@||forms.esputnik.com^
@@ -4930,6 +4943,7 @@
 @@||toplien.fr^
 @@||toutes-les-solutions.fr^
 @@||worldaide.fr^
+@@||amazon.fr^$generichide
 @@||service-public.fr^*/assets/js/eulerian/eulerian.js$~third-party
 @@||caf.fr^*/smarttag.js$script,~third-party
 @@||gouvernement.fr^*/tarteaucitron/$~third-party
@@ -5372,6 +5386,7 @@
 @@||vinaurl.in^
 @@||xmod.in^
 @@||xup.in^
+@@||amazon.in^$generichide
 @@||js-sec.indexww.com^
 @@||api.individual.githubcopilot.com^
 @@||learn.inesdi.com/webapps/privacy-disclosure/js/cookieconsent.js$~third-party
@@ -5636,6 +5651,7 @@
 @@||vivereurbino.it^
 @@||wizblog.it^
 @@||heatmap.it^$domain=heatmap.com|heatmap.it|heatmap.me|heatmap.org
+@@||amazon.it^$generichide
 @@||rai.it^*/cookie.pack.js$script
 @@||rainews.it^*/cookie.pack.js$script
 @@||ciaopeople.it^*/gdpr.min.js$script,domain=cookist.com|cookist.it|fanpage.it|geopop.it|ohga.it
@@ -6612,6 +6628,7 @@
 @@||oisd.nl^
 @@||ov-chipkaart.nl^
 @@||vattenfall.nl^
+@@||amazon.nl^$generichide
 @@||oisd.nl^$generichide
 @@||budgetthuis.nl^*/cookieBar-$script,~third-party
 @@||el-vidas.nl^*/phpcuong_newsletter/$script
@@ -7123,6 +7140,7 @@
 @@||wujek-gadzet.pl^
 @@||xboxforum.pl^
 @@||yafud.pl^
+@@||amazon.pl^$generichide
 @@||filmweb.pl^$important
 @@||integration.plarium.com^
 @@||portal-frontend.plarium.com/client/cookiesbanner.js$script,~third-party
@@ -7414,6 +7432,7 @@
 @@||abt.s3.yandex.net/expjs/latest/exp.js$script,domain=some.porn
 @@||public-image-upload.s3.amazonaws.com^
 @@||content.s8bbs.com/ad/bbs/*.jpg
+@@||amazon.sa^$generichide
 @@||web.saavncdn.com^
 @@||media.sailthru.com^
 @@||chan.sankakucomplex.com^
@@ -7447,6 +7466,7 @@
 @@||hitta.se^
 @@||mitti.se^
 @@||thelocal.se^
+@@||amazon.se^$generichide
 @@||dictionary.search.yahoo.com/beacon/sc?&ajaxdd=tabsCard&
 @@||secureimage.securedataimages.com^|
 @@||csc-captcha-dre.security.dbankcloud.cn^
@@ -7483,6 +7503,7 @@
 @@||my.sevdesk.de/shared/components/CookieConsent/CookieConsentModal.html$xmlhttprequest
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
 @@||prod.sfm.geforcenow.nvidiagrid.net^
+@@||amazon.sg^$generichide
 @@||aii.sh^
 @@||dood.sh^
 @@||mexa.sh^

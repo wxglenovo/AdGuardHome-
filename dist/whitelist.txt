@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-13 21:15:08 CST
-! 总条数: 8396
+! 更新时间: 2026-06-13 23:43:00 CST
+! 总条数: 8417
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -217,6 +217,7 @@
 @@||data.adxcel-ec2.com^
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||checkoutshopper-live-us.adyen.com^
+@@||amazon.ae^
 @@||amazon.ae^$generichide
 @@||camera.aeonax.com^
 @@||minigame.aeriagames.jp/*/ae-tpgs-$~third-party
@@ -726,6 +727,7 @@
 @@||curos.ca/res/*/resources/scripts/lib/fingerprint.js$~third-party
 @@||sportsnet.ca/wp-content/plugins/bwp-minify/$domain=sportsnet.ca
 @@||adsninja.ca^
+@@||amazon.ca^
 @@||bellmts.ca^
 @@||bigbrothercanada.ca^
 @@||blackcircles.ca^
@@ -983,6 +985,7 @@
 @@||10086.cn^
 @@||1991421.cn^
 @@||adoi.cn^
+@@||amazon.cn^
 @@||analysys.cn^
 @@||csdnimg.cn^
 @@||flyme.cn^
@@ -1028,7 +1031,9 @@
 @@||ahaan.co.uk^$~third-party,xmlhttprequest
 @@||akashiro.co.id^
 @@||allabout.co.jp/mtx_cnt.js$script,~third-party
+@@||amazon.co.jp^
 @@||amazon.co.jp^$generichide
+@@||amazon.co.uk^
 @@||amazon.co.uk^$generichide
 @@||aquarium.co.jp^
 @@||asb.co.nz.ssl.d2.sc.omtrdc.net^
@@ -1195,9 +1200,13 @@
 @@||albyatirim.com.tr^
 @@||am730.com.hk^
 @@||am730.com.hk^$generichide
+@@||amazon.com.au^
 @@||amazon.com.au^$generichide
+@@||amazon.com.br^
 @@||amazon.com.br^$generichide
+@@||amazon.com.mx^
 @@||amazon.com.mx^$generichide
+@@||amazon.com.tr^
 @@||amazon.com.tr^$generichide
 @@||amtonline.com.br^
 @@||andek.com.pl^
@@ -2207,6 +2216,7 @@
 @@||almezoryae.com^
 @@||alt-torrent.com^
 @@||alwingulla.com^
+@@||amazon.com^
 @@||amazon-adsystem.com^
 @@||amazonaws.com^
 @@||amc.com^
@@ -4466,6 +4476,7 @@
 @@||pruefernavi.de/vendor/elasticsearch/elastic-apm-rum.umd.min.js$~third-party
 @@||1000ps.de^
 @@||aktion-holz.de^
+@@||amazon.de^
 @@||ariva.de^
 @@||arkforum.de^
 @@||arthromed.de^
@@ -4712,6 +4723,7 @@
 @@||ralli.ee^
 @@||swedbank.ee^
 @@||gaus.ee^$generichide
+@@||amazon.eg^
 @@||amazon.eg^$generichide
 @@||videos.eispop.com^
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
@@ -4736,6 +4748,7 @@
 @@||ing.es/wc/ing-cms-component-library/es6/packages/core/utils/cookiesmanager.js$script,domain=www.ing.es
 @@||caib.es/webgoib/o/goib-theme/js/klaro-config.js$~third-party
 @@||20minutos.es^
+@@||amazon.es^
 @@||arquitecturaydiseno.es^
 @@||decomaniacos.es^
 @@||diariodenavarra.es^
@@ -4923,6 +4936,7 @@
 @@||google.fr/translate_$media,third-party,xmlhttprequest
 @@||mediateurfevad.fr/wp-content/plugins/CookieInfo/js/CookieInfo.js$~third-party
 @@||letocard.fr/wp-content/uploads/$image,~third-party
+@@||amazon.fr^
 @@||capital.fr^
 @@||chuppito.fr^
 @@||closermag.fr^
@@ -5362,6 +5376,7 @@
 @@||it-developer.in.ua^
 @@||dishtv.in/scripts/adobeAnalytics.js$~third-party
 @@||adrinolinks.in^
+@@||amazon.in^
 @@||blisseyhusband.in^
 @@||crazyblog.in^
 @@||cryptomoneyco.in^
@@ -5604,6 +5619,7 @@
 @@||qds.it/wp-content/plugins/digistream/digiplayer/js/videojs-share.min.js?$script,~third-party
 @@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.huffingtonpost.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||adshrink.it^
+@@||amazon.it^
 @@||animeunity.it^
 @@||bolognatoday.it^
 @@||brocardi.it^
@@ -6616,6 +6632,7 @@
 @@||ecookie.nl/build/$domain=anwbvignetten.nl|playseatstore.com
 @@||hvcgroep.nl/themes/custom/hvcgroep_theme/assets/cookie-consent.json$~third-party
 @@||ad.nl^
+@@||amazon.nl^
 @@||an1me.nl^
 @@||aquafora.nl^
 @@||autoweek.nl^
@@ -7060,6 +7077,7 @@
 @@||3obieg.pl/wp-content/themes/sowe/css/content/$image
 @@||przegladpiaseczynski.pl/wp-content/uploads/*-300x250-$image,~third-party
 @@||abczdrowie.pl^
+@@||amazon.pl^
 @@||androidowy.pl^
 @@||anime-odcinki.pl^
 @@||animezone.pl^
@@ -7432,6 +7450,7 @@
 @@||abt.s3.yandex.net/expjs/latest/exp.js$script,domain=some.porn
 @@||public-image-upload.s3.amazonaws.com^
 @@||content.s8bbs.com/ad/bbs/*.jpg
+@@||amazon.sa^
 @@||amazon.sa^$generichide
 @@||web.saavncdn.com^
 @@||media.sailthru.com^
@@ -7461,6 +7480,7 @@
 @@||arbetsgivarverket.se/js/cookieconsent.js$script,~third-party
 @@||mjhobbymassan.se/r/annonser/$image,~third-party
 @@||aftonbladet.se^
+@@||amazon.se^
 @@||di.se^
 @@||eurosport.se^
 @@||hitta.se^
@@ -7503,6 +7523,7 @@
 @@||my.sevdesk.de/shared/components/CookieConsent/CookieConsentModal.html$xmlhttprequest
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
 @@||prod.sfm.geforcenow.nvidiagrid.net^
+@@||amazon.sg^
 @@||amazon.sg^$generichide
 @@||aii.sh^
 @@||dood.sh^

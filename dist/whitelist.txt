@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-17 10:52:51 CST
-! 总条数: 8417
+! 更新时间: 2026-06-17 15:15:58 CST
+! 总条数: 8418
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4703,6 +4703,7 @@
 @@||analytics.edgesuite.net^
 @@||rest.edit.site/geoip-service/geoip$domain=systemshouse.com
 @@||preview.editmysite.com^
+@@||image.edm.cba.com.au^|
 @@||anadolu.edu.tr/assets/js/jquery.smartbanner.js$~third-party
 @@||nthu.edu.tw^*ad
 @@||ntou.edu.tw/bin/showads.

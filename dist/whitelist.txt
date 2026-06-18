@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-19 02:31:02 CST
-! 总条数: 8417
+! 更新时间: 2026-06-19 04:21:03 CST
+! 总条数: 8416
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2979,7 +2979,6 @@
 @@||kfc.com^
 @@||khohieu.com^
 @@||kickcharm.com^
-@@||kickedface.com^
 @@||kingofdown.com^
 @@||kingofshrink.com^
 @@||kiplinger.com^

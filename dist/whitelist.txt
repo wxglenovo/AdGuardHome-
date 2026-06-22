@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-22 20:10:11 CST
-! 总条数: 8415
+! 更新时间: 2026-06-22 21:28:08 CST
+! 总条数: 8418
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3115,7 +3115,6 @@
 @@||mentalflare.com^
 @@||mentalmars.com^
 @@||meracalculator.com^
-@@||merlininkazani.com^
 @@||mertcangokgoz.com^
 @@||messenger.com^
 @@||metabase.com^
@@ -4560,6 +4559,7 @@
 @@||xhamster.desi^$script,~third-party
 @@||xhamster1.desi^$script,~third-party
 @@||media-consumer365.desigual.com^|
+@@||a2zapk.dev^
 @@||boot.dev^
 @@||csm.dev^
 @@||ftuapps.dev^
@@ -7576,6 +7576,7 @@
 @@||ifsaembed.site^
 @@||kaystls.site^
 @@||keneono.site^
+@@||ksdpictures.site^
 @@||promo-visits.site^
 @@||tubeland.site^
 @@||vidload.site^
@@ -7661,6 +7662,7 @@
 @@||vid.speedtodayz.site^
 @@||battlecats.spica-net.com^
 @@||sams.spiegel.de/ee/irl1/v1/interact?$domain=spiegel.de
+@@||pictures.spordunyasi.site^
 @@||stats.sports.bellmedia.ca^
 @@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
 @@||ads.spotify.com^
@@ -8261,6 +8263,7 @@
 @@||texte.work^
 @@||vacation-et.work^
 @@||poring.world^
+@@||access.worldpay.com^
 @@||adsense.woso.cn^
 @@||adsense.woso.cn^$~third-party
 @@||1login.wp.pl^

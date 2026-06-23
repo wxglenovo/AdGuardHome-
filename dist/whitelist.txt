@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-24 02:05:50 CST
+! 更新时间: 2026-06-24 03:55:57 CST
 ! 总条数: 8417
 ! =====================
 
@@ -2208,6 +2208,7 @@
 @@||aipebel.com^
 @@||airbnbhell.com^
 @@||aircanada.com^
+@@||airfind.com^
 @@||akashio.com^
 @@||alexgoldcheidt.com^
 @@||alicdn.com^
@@ -4654,6 +4655,7 @@
 @@||www3.doubleclick.net^
 @@||pub.doubleverify.com/dvtag/$script,domain=time.com
 @@||www.douglas.*/public/cookieconsent.
+@@||wan.douyu.com^
 @@||cs-op.douyucdn.cn/dycatr^
 @@||cs-op.douyucdn.cn/vod-cover^
 @@||cs-op.douyucdn.cn/vod-index^
@@ -5352,7 +5354,6 @@
 @@||mpsnare.iesnare.com^
 @@||mpsnare.iesnare.com^$script,domain=aswbe.ana.co.jp|citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|secure.coventrybuildingsociety.co.uk|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
 @@||visitor.if.eu^
-@@||x2.ifengimg.com^
 @@||www.ifon.ca^
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|enoteca.co.jp|goodwillfinds.com|samash.com|viajeguanabara.com.br|vitalsource.com|wilsonparking.com.au
 @@||collect.igodigital.com^
@@ -7553,7 +7554,6 @@
 @@||ad.siemens.com.cn^
 @@||hugo.sieradz.com.pl^
 @@||cs.silverpop.com^|
-@@||click.simba.taobao.com^
 @@||click.simba.taobao.com^|
 @@||iframe.simplex-affiliates.com^
 @@||gk.sina.cn/v1/gkmatch?

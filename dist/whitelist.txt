@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-06-28 15:51:30 CST
-! 总条数: 8425
+! 更新时间: 2026-06-28 16:56:56 CST
+! 总条数: 8426
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -8115,6 +8115,7 @@
 @@||vcentry2.valuecommerce.ne.jp^|
 @@||vcentry3.valuecommerce.ne.jp^|
 @@||streamdata.vaplayer.ru^
+@@||a.vdo.ai/core/v-m-timesofindia-v3/vdo.ai.js$domain=timesofindia.indiatimes.com
 @@||ebok.vectra.pl/components/layout/cookie-bar/
 @@||app.veggly.net/plugins/cordova-plugin-admobpro/www/AdMob.js$script,~third-party
 @@||app.veggly.net/plugins/cordova-plugin-x-socialsharing/$script,~third-party

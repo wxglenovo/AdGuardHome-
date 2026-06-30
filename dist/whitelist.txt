@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-01 00:23:25 CST
-! 总条数: 8431
+! 更新时间: 2026-07-01 02:05:02 CST
+! 总条数: 8433
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5915,6 +5915,7 @@
 @@||stream4free.live^
 @@||yasno.live^
 @@||stream4free.live^$generichide
+@@||vast.livejasmin.com^
 @@||lptag.liveperson.net^
 @@||ad4.liverail.com^
 @@||island.lk/userfiles/image/danweem/island.gif
@@ -7459,6 +7460,7 @@
 @@||amazon.sa^
 @@||amazon.sa^$generichide
 @@||web.saavncdn.com^
+@@||video.sacdnssedge.com^
 @@||journals.sagepub.com^
 @@||media.sailthru.com^
 @@||chan.sankakucomplex.com^

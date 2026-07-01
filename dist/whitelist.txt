@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-01 21:57:58 CST
-! 总条数: 8433
+! 更新时间: 2026-07-02 00:27:26 CST
+! 总条数: 8430
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3692,7 +3692,6 @@
 @@||thgss.com^
 @@||thisav.com^
 @@||thisisfutbol.com^
-@@||thoaimedia.com^
 @@||thuglink.com^
 @@||thumpertalk.com^
 @@||thuthuatjb.com^
@@ -3778,7 +3777,6 @@
 @@||unofficialtwrp.com^
 @@||unpkg.com^
 @@||up4load.com^
-@@||upbitcoin.com^
 @@||uploadex.com^
 @@||uploadmall.com^
 @@||uploadmx.com^
@@ -6540,7 +6538,6 @@
 @@||visionias.net^
 @@||wargaming.net^
 @@||watchanimesub.net^
-@@||watchhouseonline.net^
 @@||watchparksandrecreation.net^
 @@||watchpsychonline.net^
 @@||watchsmallvilleonline.net^

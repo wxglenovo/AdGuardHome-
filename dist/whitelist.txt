@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-03 20:08:38 CST
-! 总条数: 8431
+! 更新时间: 2026-07-03 21:24:42 CST
+! 总条数: 8432
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -8414,6 +8414,7 @@
 @@||tv.youtube.com^$generichide
 @@||www.youtube.com^
 @@||www.youtube.com^$generichide
+@@||wp.youtube-anime.com^
 @@||dood.yt^
 @@||res.yyets.com/ads/mediav-250.js
 @@||txws.yyzb456.top^

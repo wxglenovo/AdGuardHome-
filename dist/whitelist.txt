@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-08 02:07:25 CST
+! 更新时间: 2026-07-08 03:49:11 CST
 ! 总条数: 8440
 ! =====================
 
@@ -377,6 +377,7 @@
 @@||campus.arte.tv/js/components/cookie-banner.js
 @@||adv.asahi.com^
 @@||adv.asahi.com^$popup
+@@||cdn.asdasdhg.com^
 @@||clk.asia^
 @@||playcloud1.asia^
 @@||web1s.asia^
@@ -4811,7 +4812,6 @@
 @@||gls-group.eu^
 @@||jpopsingles.eu^
 @@||livenewschat.eu^
-@@||magesy.eu^
 @@||pornxp.eu^
 @@||s-kip.eu^
 @@||scubidu.eu^

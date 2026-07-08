@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-09 00:02:14 CST
-! 总条数: 8440
+! 更新时间: 2026-07-09 01:46:09 CST
+! 总条数: 8441
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1126,6 +1126,7 @@
 @@||sheee.co.il^
 @@||sheffieldforum.co.uk^
 @@||shikoku-np.co.jp/img/ad/$~third-party
+@@||southernwater.co.uk^
 @@||spacecentre.co.uk^*/uk-cookie-consent-js
 @@||spark.co.nz/content/*/utag.sync.js$domain=skinny.co.nz
 @@||standard.co.uk/js/third-party/prebid8.$~third-party
@@ -3780,6 +3781,7 @@
 @@||unofficialtwrp.com^
 @@||unpkg.com^
 @@||up4load.com^
+@@||upfilesgo.com^
 @@||uploadex.com^
 @@||uploadmall.com^
 @@||uploadmx.com^
@@ -3827,7 +3829,6 @@
 @@||vkcdn5.com^
 @@||vnhax.com^
 @@||vnjpclub.com^
-@@||vpnjantit.com^
 @@||vstplugs.com^
 @@||vulners.com^
 @@||vviruslove.com^

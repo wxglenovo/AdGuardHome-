@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-09 22:18:53 CST
-! 总条数: 8430
+! 更新时间: 2026-07-10 00:28:06 CST
+! 总条数: 8429
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -559,6 +559,7 @@
 @@||3dscias.blogspot.com^
 @@||adobeactivators.blogspot.com^
 @@||ads-ti9ni4.blogspot.com^
+@@||allinonerebornvip.blogspot.com^
 @@||android-hilfe-down.blogspot.com^
 @@||androidescomplicado.blogspot.com^
 @@||animerikosuper.blogspot.com^
@@ -7182,7 +7183,6 @@
 @@||skydrivesync.policies.live.net^
 @@||media.polsatnews.pl^
 @@||friends.ponta.jp/app/assets/images/$~third-party
-@@||serve.popads.net^
 @@||pics.porn300.com^
 @@||cartoon.porn^
 @@||videos.porndig.com^
@@ -7314,7 +7314,6 @@
 @@||ref.rbauction.com^|
 @@||components2.rcsobjects.it/rcs_cpmt/v1/distro/youreporter_ct.js$domain=youreporter.it
 @@||tr.rdrtr.com^|
-@@||adsco.re^
 @@||dood.re^
 @@||two.re^
 @@||cdn.readdetectiveconan.com^

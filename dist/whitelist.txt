@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-09 10:08:34 CST
-! 总条数: 8429
+! 更新时间: 2026-07-09 14:09:14 CST
+! 总条数: 8430
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1594,6 +1594,7 @@
 @@||stcaimcu.com/data/attachment/common/cf/stc_logo_
 @@||iconfinder.com/data/icons/$~third-party
 @@||beyondsoft.com/dataservice/img/ad_
+@@||fastly-analytics.com/debug_resolver$xmlhttprequest,domain=fastly-debug.com
 @@||criteo.com/delivery/$domain=canadiantire.ca
 @@||criteo.com/delivery/ajs.php?zoneid=$script,domain=gaus.ee
 @@||caixabank.com/deployedfiles/common/JavaScript/aplnr/cookie/$~third-party

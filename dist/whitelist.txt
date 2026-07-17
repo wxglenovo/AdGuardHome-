@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-17 17:49:30 CST
-! 总条数: 8443
+! 更新时间: 2026-07-17 19:20:50 CST
+! 总条数: 8415
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -205,7 +205,6 @@
 @@||content.adunity.com/aulib.js$script,domain=b1tv.ro
 @@||stream.adunity.com^
 @@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
-@@||ace.advertising.com^
 @@||guce.advertising.com/collectIdentifiers$~third-party
 @@||guce.advertising.com^|
 @@||cdn.advertserve.com^
@@ -471,7 +470,6 @@
 @@||ads2.banaraswap.in^
 @@||homebanking.bancoctt.pt^
 @@||metrics.bangbros.com/tk.js$~third-party
-@@||lib.baomitu.com^
 @@||web.basemark.com^
 @@||web.basemark.com^$generichide
 @@||mail-www.baynote.net^
@@ -794,7 +792,6 @@
 @@||dlkoo.cc^
 @@||ero18.cc^
 @@||fullmatchsports.cc^
-@@||getrelax.cc^
 @@||images4u.cc^
 @@||jav-nonix.cc^
 @@||juduo.cc^
@@ -806,7 +803,6 @@
 @@||rota.cc^
 @@||steampiay.cc^
 @@||streanplay.cc^
-@@||ymso.cc^
 @@||dlkoo.cc^$generichide
 @@||juduo.cc^$generichide
 @@||lnk2.cc^$generichide
@@ -818,7 +814,6 @@
 @@||clientlogin.cdn.skype.com^
 @@||hao123-static.cdn.bcebos.com^
 @@||iknow-pic.cdn.bcebos.com^
-@@||piaotian5www.cdn.bcebos.com^
 @@||solutions.cdn.optable.co/ezoic/sdk.js$domain=open.video
 @@||turnip.cdn.turner.com^
 @@||rsc.cdn77.org^
@@ -931,7 +926,6 @@
 @@||pokemonsleep.club^
 @@||qpython.club^
 @@||sektedoujin.club^
-@@||sexylove.club^
 @@||thealloha.club^
 @@||trip.cmbchina.com^
 @@||trip.cmbchina.com^$generichide
@@ -1005,7 +999,6 @@
 @@||tongji.cn^
 @@||tuhu.cn^
 @@||wpscdn.cn^
-@@||xianzhenyuan.cn^
 @@||jpush.cn^$domain=jiguang.cn
 @@||10086.cn^$generichide
 @@||1991421.cn^$generichide
@@ -2324,7 +2317,6 @@
 @@||billiongraves.com^
 @@||bing.com^
 @@||biochemden.com^
-@@||biqupai.com^
 @@||bitcoinker.com^
 @@||bizpacreview.com^
 @@||blockadblock.com^
@@ -2483,7 +2475,6 @@
 @@||d0000d.com^
 @@||d000d.com^
 @@||d0o0d.com^
-@@||d1-dm.com^
 @@||daemon-hentai.com^
 @@||dafahao.com^
 @@||dafideff.com^
@@ -2950,7 +2941,6 @@
 @@||jgvcdn.com^
 @@||jiav000.com^
 @@||jigsawplanet.com^
-@@||jin10.com^
 @@||jinritemai.com^
 @@||jinyongci.com^
 @@||jiocinema.com^
@@ -2964,7 +2954,6 @@
 @@||jpost.com^
 @@||jrocknews.com^
 @@||jsjiami.com^
-@@||jsqsjn.com^
 @@||judicialcaselaw.com^
 @@||justlightnovels.com^
 @@||k12reader.com^
@@ -3156,7 +3145,6 @@
 @@||mkto-sj250060.com^
 @@||mm-syringe.com^
 @@||mmee04.com^
-@@||mmff30.com^
 @@||mmo-population.com^
 @@||mmo69.com^
 @@||moatads.com^
@@ -3203,7 +3191,6 @@
 @@||mylifetime.com^
 @@||mylivesignature.com^
 @@||myqcloud.com^
-@@||myqqjd.com^
 @@||myrtlebeachonline.com^
 @@||mysemakan.com^
 @@||myshrinker.com^
@@ -3405,7 +3392,6 @@
 @@||quizlet.com^
 @@||quoteacademy.com^
 @@||r34anim.com^
-@@||r3sub.com^
 @@||racedepartment.com^
 @@||racevpn.com^
 @@||racingsportscars.com^
@@ -3859,12 +3845,10 @@
 @@||webex.com^
 @@||webfail.com^
 @@||webgains.com^
-@@||websetnet.com^
 @@||webtvhd.com^
 @@||wenxuecity.com^
 @@||whatsapp.com^
 @@||whentostream.com^
-@@||wholehk.com^
 @@||wikigain.com^
 @@||wikirise.com^
 @@||wikitechy.com^
@@ -3916,11 +3900,9 @@
 @@||xhvid.com^
 @@||xhwide2.com^
 @@||xhwide5.com^
-@@||xia1ge.com^
 @@||xiaomifirmwareupdater.com^
 @@||xiaomitoday.com^
 @@||xiaomitools.com^
-@@||xilinjie.com^
 @@||xn--nbkw38mlu2a.com^
 @@||xozilla.com^
 @@||xxxdao.com^
@@ -3930,7 +3912,6 @@
 @@||yandexcdn.com^
 @@||yeeach.com^
 @@||yellowbridge.com^
-@@||ygodl.com^
 @@||yibada.com^
 @@||yilmaztv.com^
 @@||yoemigro.com^
@@ -5077,7 +5058,6 @@
 @@||api.github.com^
 @@||cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js$domain=orteil.dashnet.org
 @@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video$domain=ulifestyle.com.hk
-@@||panjiachen.github.io^
 @@||raw.githubusercontent.com^
 @@||raw.githubusercontent.com^$domain=viewscreen.githubusercontent.com
 @@||morosedog.gitlab.io^
@@ -5869,7 +5849,6 @@
 @@||forecast.lemonde.fr/p/event/pageview?$image,~third-party
 @@||lestore.lenovo.com^
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
-@@||shop.letv.com^
 @@||player.letvcdn.com*/newplayer/*.swf
 @@||player.letvcdn.com/*/letvPlayer.swf
 @@||stromerdgas.leuendorff.de/js/lib/cookieconsent.js$~third-party
@@ -5960,7 +5939,6 @@
 @@||cloud.mail.ru^$image,~third-party
 @@||dl.mail.com/permission/oneTrust/consent/$~third-party,xmlhttprequest
 @@||e.mail.ru^
-@@||newad.mail.wo.cn^
 @@||player-smotri.mail.ru^
 @@||portal.mail.ru^
 @@||swa.mail.ru/cgi-bin/counters?$script
@@ -6291,7 +6269,6 @@
 @@||2o7.net^
 @@||4download.net^
 @@||7sim.net^
-@@||85porn.net^
 @@||8tm.net^
 @@||9zvip.net^
 @@||adnade.net^
@@ -6560,7 +6537,6 @@
 @@||yourlifeupdated.net^
 @@||yuanming.net^
 @@||ziyu.net^
-@@||zmtt.net^
 @@||zqtk.net^
 @@||zstatic.net^
 @@||optimove.net^$domain=app.touchnote.com
@@ -6919,7 +6895,6 @@
 @@||ntdtv.org^
 @@||organismes.org^
 @@||pastepvp.org^
-@@||pixelexperience.org^
 @@||porkyfap.org^
 @@||privacy-center.org^
 @@||rwaag.org^
@@ -8001,9 +7976,7 @@
 @@||ibf.tw/user/plugins/webtech-topbar/fuckadblock.js
 @@||cmoney.tw/vt/js/google_analytics.js
 @@||izo.tw/wp-content/advert1.js
-@@||012.tw^
 @@||apk.tw^
-@@||bingfeng.tw^
 @@||easylife.tw^
 @@||ez3c.tw^
 @@||goodinfo.tw^
@@ -8329,7 +8302,6 @@
 @@||chaintv.xyz/homestatic/js/adjs.js
 @@||yunduanxin.xyz/static/js/banger.js
 @@||000714.xyz^
-@@||939394.xyz^
 @@||adblockdetect.xyz^
 @@||ahcdn.xyz^
 @@||allfaucet.xyz^

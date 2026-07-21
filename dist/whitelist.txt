@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-21 19:45:58 CST
-! 总条数: 8445
+! 更新时间: 2026-07-21 21:06:22 CST
+! 总条数: 8446
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -7737,6 +7737,7 @@
 @@||reklama.studio^
 @@||telemetry.stytch.com/submit$domain=play.pixels.xyz
 @@||captcha.su.baidu.com^
+@@||next-box.su^
 @@||stalker-mods.su^
 @@||faq.subaru.jp^
 @@||dd.subito.it.first-party-js.datadome.co^

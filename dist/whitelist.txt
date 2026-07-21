@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-21 09:54:10 CST
-! 总条数: 8437
+! 更新时间: 2026-07-21 13:24:21 CST
+! 总条数: 8445
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -748,6 +748,7 @@
 @@||lapresse.ca^
 @@||lso.ca^
 @@||tripcentral.ca^
+@@||tvanouvelles.ca^
 @@||virginplus.ca^
 @@||amazon.ca^$generichide
 @@||blackcircles.ca^$script,~third-party
@@ -928,6 +929,7 @@
 @@||nevcoins.club^
 @@||online-courses.club^
 @@||pokemonsleep.club^
+@@||qpython.club^
 @@||sektedoujin.club^
 @@||sexylove.club^
 @@||thealloha.club^
@@ -2623,6 +2625,7 @@
 @@||enciclopediaonline.com^
 @@||encoretvb.com^
 @@||encurtandourl.com^
+@@||ency-educ.com^
 @@||endesaclientes.com^
 @@||enfsolar.com^
 @@||ensonhaber.com^
@@ -3923,6 +3926,7 @@
 @@||xozilla.com^
 @@||xxxdao.com^
 @@||xxxxx520.com^
+@@||yacine-app.com^
 @@||yacine-tv.com^
 @@||yandexcdn.com^
 @@||yeeach.com^
@@ -4956,10 +4960,12 @@
 @@||lemondeinformatique.fr^
 @@||lequipe.fr^
 @@||melty.fr^
+@@||mon-maire.fr^
 @@||neko-sama.fr^
 @@||ps3-infos.fr^
 @@||sdv.fr^
 @@||tf1.fr^
+@@||toplien.fr^
 @@||toutes-les-solutions.fr^
 @@||worldaide.fr^
 @@||amazon.fr^$generichide
@@ -6050,6 +6056,7 @@
 @@||api.mercari.jp^
 @@||app.message.sonicwall.com^
 @@||action.metaffiliation.com^|
+@@||jeux.meteocity.com^
 @@||dashboard.mgid.com^
 @@||dashboard.mgid.com^$popup
 @@||clickio.mgr.consensu.org^
@@ -6415,6 +6422,7 @@
 @@||kuramu.net^
 @@||laftel.net^
 @@||lamitadmas1.net^
+@@||lecrabeinfo.net^
 @@||leechpremium.net^
 @@||lghellovision.net^
 @@||link-to.net^

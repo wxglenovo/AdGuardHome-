@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-22 18:17:43 CST
-! 总条数: 8446
+! 更新时间: 2026-07-22 19:46:18 CST
+! 总条数: 8375
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -119,7 +119,6 @@
 @@||try.abtasty.com^
 @@||try.abtasty.com^$script,domain=tickpick.com
 @@||news-app.abumedia.yql.yahoo.com^
-@@||ads.abusinessforsellingyouthingsthatareniceandyoulikethem.info^
 @@||gakushuin.ac.jp/ad/common/$~third-party
 @@||rgu.ac.uk/media/mod_cookieconsent/js/cookieconsent.js$~third-party
 @@||dodo.ac/np/images/$image,domain=nookipedia.com
@@ -133,7 +132,6 @@
 @@||mikesca.activehosted.com/f/embed.php$script,domain=concoursultimesousmaringourmiam.ca
 @@||edge.activity.windows.com^
 @@||edge-enterprise.activity.windows.com^
-@@||ads.ad-center.com^
 @@||c.ad6media.fr/l.js$domain=scan-manga.com
 @@||eticaret.adawall.com.tr^
 @@||download.adblockultimate.net^
@@ -679,7 +677,6 @@
 @@||community.brave.app/t/$xmlhttprequest
 @@||search.brave.com/search$xmlhttprequest
 @@||talk.brave.com^
-@@||admin.brightcove.com^
 @@||stats.britishbaseball.org.uk^
 @@||api.browser.miui.com^
 @@||brm-core-*.brsrvr.com^|
@@ -1158,7 +1155,6 @@
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
 @@||thomas.co/sites/default/files/google_tag/primary/google_tag.script.js$script,~third-party
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
-@@||adk2.co^
 @@||aiarticlespinner.co^
 @@||aphim.co^
 @@||apkmaza.co^
@@ -1171,14 +1167,12 @@
 @@||droplink.co^
 @@||eusouandroid.co^
 @@||extraimage.co^
-@@||fullstuff.co^
 @@||imperiofilmes.co^
 @@||inwepo.co^
 @@||jagledam.co^
 @@||mixdrop.co^
 @@||onepiece-streaming.co^
 @@||onle.co^
-@@||openload.co^
 @@||remixsearch.co^
 @@||romsforever.co^
 @@||rulu.co^
@@ -2162,7 +2156,6 @@
 @@||9cache.com^
 @@||9sblog.com^
 @@||aasarchitecture.com^
-@@||abcmalayalam.com^
 @@||abema-tv.com^
 @@||aboluowang.com^
 @@||accaii.com^
@@ -2181,18 +2174,13 @@
 @@||addthiscdn.com^
 @@||adguard.com^
 @@||adguardpartner.com^
-@@||adhexa.com^
-@@||adhood.com^
 @@||adjectives-for.com^
 @@||adligature.com^
-@@||adnxs.com^
 @@||adobe.com^
 @@||adobedtm.com^
 @@||adobelogin.com^
 @@||adobetag.com^
 @@||adonisfansub.com^
-@@||adpdx.com^
-@@||adshexa.com^
 @@||adshnk.com^
 @@||adsrt.com^
 @@||adswizz.com^
@@ -2250,7 +2238,6 @@
 @@||apkgezegeni.com^
 @@||apkmb.com^
 @@||apkmirror.com^
-@@||apkmos.com^
 @@||apple.com^
 @@||applosungen.com^
 @@||appnee.com^
@@ -2385,7 +2372,6 @@
 @@||ccthesims.com^
 @@||cdn-cookieyes.com^
 @@||cdn-manga.com^
-@@||cdnads.com^
 @@||cdncmk.com^
 @@||cdndm5.com^
 @@||cdniptvpotok.com^
@@ -2406,7 +2392,6 @@
 @@||cheatglobal.com^
 @@||cheatography.com^
 @@||check-plagiarism.com^
-@@||checkm8.com^
 @@||chemicalbook.com^
 @@||chiaseapk.com^
 @@||chicksonright.com^
@@ -2450,7 +2435,6 @@
 @@||cookielawinfo.com^
 @@||cookiepro.com^
 @@||coolinet.com^
-@@||coolkora.com^
 @@||copypastecharacter.com^
 @@||corneey.com^
 @@||corvusrom.com^
@@ -2565,7 +2549,6 @@
 @@||dotomi.com^
 @@||douban.com^
 @@||doubibackup.com^
-@@||doubleclickbygoogle.com^
 @@||downloadgeral.com^
 @@||downsub.com^
 @@||dozenofelites.com^
@@ -2640,7 +2623,6 @@
 @@||etsy.com^
 @@||eu4cn.com^
 @@||euconfesso.com^
-@@||eurosolidaire.com^
 @@||eurosport.com^
 @@||evernote.com^
 @@||exacttarget.com^
@@ -2988,7 +2970,6 @@
 @@||kickcharm.com^
 @@||kingofdown.com^
 @@||kingofshrink.com^
-@@||kiplinger.com^
 @@||kissjav.com^
 @@||kizlarsoruyor.com^
 @@||knshow.com^
@@ -3032,7 +3013,6 @@
 @@||lgthinq.com^
 @@||lgtwins.com^
 @@||lifeblogid.com^
-@@||liliputing.com^
 @@||limontec.com^
 @@||linemarlin.com^
 @@||lingolex.com^
@@ -3053,7 +3033,6 @@
 @@||localizaagencia.com^
 @@||loginradius.com^
 @@||logitech.com^
-@@||loi1901.com^
 @@||lookimg.com^
 @@||los40.com^
 @@||loudersound.com^
@@ -3073,7 +3052,6 @@
 @@||magdyman.com^
 @@||magesypro.com^
 @@||magicvalley.com^
-@@||maisgasolina.com^
 @@||majalahikan.com^
 @@||majesy.com^
 @@||maketoss.com^
@@ -3143,7 +3121,6 @@
 @@||milfnut.com^
 @@||milfzr.com^
 @@||minecraft-schematics.com^
-@@||minecraftbuildinginc.com^
 @@||minecraftpocket-servers.com^
 @@||minghui.com^
 @@||ministryofsolutions.com^
@@ -3216,7 +3193,6 @@
 @@||myvidster.com^
 @@||myviptuto.com^
 @@||myxclip.com^
-@@||naasongs.com^
 @@||namechk.com^
 @@||nartag.com^
 @@||nascar.com^
@@ -3255,7 +3231,6 @@
 @@||novelmultiverse.com^
 @@||novelpia.com^
 @@||nrl.com^
-@@||nsongs.com^
 @@||ntdtv.com^
 @@||nu6i-bg-net.com^
 @@||nulledteam.com^
@@ -3315,8 +3290,6 @@
 @@||oxygenmag.com^
 @@||ozabc.com^
 @@||ozy.com^
-@@||padsdel.com^
-@@||padstm.com^
 @@||palcurr.com^
 @@||pallok.com^
 @@||pandora.com^
@@ -3440,11 +3413,9 @@
 @@||restorbio.com^
 @@||retweetpicker.com^
 @@||reuters.com^
-@@||rhtag.com^
 @@||rhymes-with.com^
 @@||ricasaude.com^
 @@||richmond.com^
-@@||ridediriddim.com^
 @@||rightwingtribune.com^
 @@||rizonesoft.com^
 @@||roanoke.com^
@@ -3472,7 +3443,6 @@
 @@||sarapbabe.com^
 @@||sarapbeh.com^
 @@||sarkarinaukry.com^
-@@||sascdn.com^
 @@||sat-universe.com^
 @@||satgobmx.com^
 @@||satoshihero.com^
@@ -3544,9 +3514,7 @@
 @@||siteapps.com^
 @@||skincarie.com^
 @@||slack.com^
-@@||slacker.com^
 @@||smallseotools.com^
-@@||smartadserver.com^
 @@||smartnews-ads.com^
 @@||smartphonehrvatska.com^
 @@||smashresume.com^
@@ -3581,7 +3549,6 @@
 @@||sovrn.com^
 @@||sozcukbul.com^
 @@||spanishdict.com^
-@@||spaste.com^
 @@||speaker-test.com^
 @@||speedtestcustom.com^
 @@||squidssh.com^
@@ -3611,7 +3578,6 @@
 @@||submitclimb.com^
 @@||succeedscene.com^
 @@||sumberpendidikan.com^
-@@||sumeronline.com^
 @@||sumo.com^
 @@||sumologic.com^
 @@||sumome.com^
@@ -3627,7 +3593,6 @@
 @@||surrit.com^
 @@||svipvids.com^
 @@||svtrd.com^
-@@||swagbucks.com^
 @@||swift4claim.com^
 @@||swjoy.com^
 @@||synonymbog.com^
@@ -3795,7 +3760,6 @@
 @@||uptobox.com^
 @@||uptodate.com^
 @@||uptostream.com^
-@@||urbeez.com^
 @@||urldefense.com^
 @@||uruploads.com^
 @@||usabilla.com^
@@ -3936,7 +3900,6 @@
 @@||yilmaztv.com^
 @@||yoemigro.com^
 @@||yogajournal.com^
-@@||yospace.com^
 @@||yourbittorrent2.com^
 @@||yourdictionary.com^
 @@||yoursavegames.com^
@@ -3945,7 +3908,6 @@
 @@||ytlarge.com^
 @@||yuki0918kw.com^
 @@||yygsz.com^
-@@||zahitvstation.com^
 @@||zaixianjisuan.com^
 @@||zbj.com^
 @@||zegtrends.com^
@@ -4330,7 +4292,6 @@
 @@||np.community.playstation.net^
 @@||seguridad.compensar.com/lib/js/fingerprint2.js$~third-party
 @@||siteanalytics.compete.com^
-@@||hackintosh.computer^
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
 @@||app.conceptboard.com^*/SocialIcons.js$xmlhttprequest
 @@||ads-static.conde.digital^
@@ -4502,7 +4463,6 @@
 @@||cherrymx.de^
 @@||cinemaxxl.de^
 @@||cx30-forum.de^
-@@||dbzog.de^
 @@||dein-ort.de^
 @@||deutsches-museum.de^
 @@||dkb.de^
@@ -4613,11 +4573,9 @@
 @@||ekstrabladet.dk^
 @@||eurosport.dk^
 @@||ku.dk^
-@@||mmm.dk^
 @@||newz.dk^
 @@||soefart.dk^
 @@||sol.dk^
-@@||tv3sport.dk^
 @@||kanalfrederikshavn.dk^*/jquery.openx.js?
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
@@ -4713,7 +4671,6 @@
 @@||analytics.edgekey.net/config/beacon-$xmlhttprequest,domain=raiplay.it
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=br.de
 @@||analytics.edgekey.net/ma_library/html5/html5_malibrary.js$script,domain=mxplayer.in
-@@||analytics.edgesuite.net^
 @@||rest.edit.site/geoip-service/geoip$domain=systemshouse.com
 @@||preview.editmysite.com^
 @@||anadolu.edu.tr/assets/js/jquery.smartbanner.js$~third-party
@@ -4788,7 +4745,6 @@
 @@||forms.esputnik.com^
 @@||secure.esputnik.com^
 @@||appgw.ess.tencent.cn^
-@@||lggautotrasporti.esy.es^
 @@||gva.et-gv.fr^
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||riverlink.etcchosted.com/widgets/com/mendix/widget/web/googletag/GoogleTag.js$~third-party
@@ -5253,8 +5209,6 @@
 @@||gnar.grammarly.com/events$xmlhttprequest,domain=account.grammarly.com
 @@||api-gtm.grubhub.com^
 @@||mclo.gs/js/logview.js$~third-party
-@@||j.gs^
-@@||q.gs^
 @@||bbc.gscontxt.net^
 @@||bbc.gscontxt.net^$script,domain=bbc.com
 @@||connectivitycheck.gstatic.com^
@@ -5265,7 +5219,6 @@
 @@||cp.gutefrage.net^
 @@||ad-putting.gw.zt-express.com^
 @@||digitale-sammlungen.gwlb.de^*/pageview.js$script,domain=digitale-sammlungen.gwlb.de
-@@||ay.gy^
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||health.halodoc.com^|
 @@||tools.halpas.com^
@@ -5417,7 +5370,6 @@
 @@||js-sec.indexww.com^
 @@||api.individual.githubcopilot.com^
 @@||learn.inesdi.com/webapps/privacy-disclosure/js/cookieconsent.js$~third-party
-@@||doubleclick.infineoncorp.com^
 @@||glookup.info/api/json/$domain=grabify.link
 @@||19iiii.info/js/logo$script
 @@||crystalmark.info/wp-content/uploads/*-300x250.$image,~third-party
@@ -5549,7 +5501,6 @@
 @@||material.io^
 @@||neads.io^
 @@||oii.io^
-@@||openload.io^
 @@||paraphraser.io^
 @@||playcode.io^
 @@||powr.io^
@@ -5928,7 +5879,6 @@
 @@||stream4free.live^$generichide
 @@||vast.livejasmin.com^
 @@||lptag.liveperson.net^
-@@||ad4.liverail.com^
 @@||island.lk/userfiles/image/danweem/island.gif
 @@||card.llsif.moe^
 @@||proxmox.local^
@@ -5948,7 +5898,6 @@
 @@||jurga.lt/vendor/orestbida/cookieconsent/dist/cookieconsent.umd.js$~third-party
 @@||topzone.lt^
 @@||kuku.lu^
-@@||adf.ly^
 @@||c.lytics.io/api/tag/$script,domain=time.com
 @@||center-h5api.m.taobao.com^
 @@||thecity.m24.ru/css/ya-share.css
@@ -6383,7 +6332,6 @@
 @@||generacionretro.net^
 @@||globalssh.net^
 @@||globaltvapp.net^
-@@||gmads.net^
 @@||go-links.net^
 @@||go-mpulse.net^
 @@||graphicdesignresources.net^
@@ -6393,8 +6341,6 @@
 @@||hala-tube.net^
 @@||hanjuwang.net^
 @@||haxnode.net^
-@@||haxoff.net^
-@@||heavenly-blue.net^
 @@||hes-goal.net^
 @@||hightechbuzz.net^
 @@||hisse.net^
@@ -6404,7 +6350,6 @@
 @@||htnovo.net^
 @@||hwcdn.net^
 @@||hyperdebrid.net^
-@@||hypixel.net^
 @@||illink.net^
 @@||imgair.net^
 @@||inforge.net^
@@ -6426,7 +6371,6 @@
 @@||leechpremium.net^
 @@||lghellovision.net^
 @@||link-to.net^
-@@||linkdrop.net^
 @@||liriklaguindonesia.net^
 @@||live-video.net^
 @@||logos-world.net^
@@ -6885,7 +6829,6 @@
 @@||gamebrew.org^
 @@||gamedrive.org^
 @@||gennarino.org^
-@@||goalsarena.org^
 @@||gotunnel.org^
 @@||guangming.org^
 @@||hbr.org^
@@ -7174,7 +7117,6 @@
 @@||wspinanie.pl^
 @@||wujek-gadzet.pl^
 @@||xboxforum.pl^
-@@||yafud.pl^
 @@||amazon.pl^$generichide
 @@||filmweb.pl^$important
 @@||integration.plarium.com^
@@ -7192,7 +7134,6 @@
 @@||faucet.plus^
 @@||episode.pmcontent.com^
 @@||google.pn/translate_$media,third-party,xmlhttprequest
-@@||zeta.pokemon-vortex.com^
 @@||cdn.polarbyte.com^
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||skydrivesync.policies.live.net^
@@ -7490,7 +7431,6 @@
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|caminteresse.fr|capital.fr|geo.fr|voici.fr
 @@||api.schale.network^
 @@||auth.schale.network^
-@@||b.scorecardresearch.com^
 @@||go.scorptec.com.au^|
 @@||languagecloud.sdl.com/node_modules/fingerprintjs2/dist/fingerprint2.min.js$~third-party
 @@||profile*.se.360.cn^
@@ -7501,7 +7441,6 @@
 @@||mjhobbymassan.se/r/annonser/$image,~third-party
 @@||aftonbladet.se^
 @@||amazon.se^
-@@||di.se^
 @@||eurosport.se^
 @@||hitta.se^
 @@||mitti.se^
@@ -7573,7 +7512,6 @@
 @@||tv.sibbo.net/v2/sibbo-cmp-core.js$script,domain=atresplayer.com
 @@||opto.sic.pt/didomi/didomi.js$script,~third-party
 @@||ad.siemens.com.cn^
-@@||hugo.sieradz.com.pl^
 @@||cs.silverpop.com^|
 @@||click.simba.taobao.com^
 @@||click.simba.taobao.com^|
@@ -7843,7 +7781,6 @@
 @@||img.tile.expert/*/*_300x600_$image,~third-party
 @@||tags.tiqcdn.com/utag/*/utag.sync.js$domain=10.com.au|bankofamerica.com|hsbc.co.uk|samsung.com|sony.jp|visible.com|vmware.com
 @@||games.tiscali.cz^
-@@||dammu.tk^
 @@||faucetbr.tk^
 @@||cbsapi.tkgm.gov.tr^
 @@||openstartup.tm^
@@ -7963,13 +7900,11 @@
 @@||mmacore.tv^
 @@||my5.tv^
 @@||nebula.tv^
-@@||openload.tv^
 @@||pipocas.tv^
 @@||popler.tv^
 @@||rakuten.tv^
 @@||roya.tv^
 @@||serieslatinoamerica.tv^
-@@||skiplimite.tv^
 @@||stream4free.tv^
 @@||strimek.tv^
 @@||topflix.tv^
@@ -7977,7 +7912,6 @@
 @@||twitch.tv^
 @@||uflash.tv^
 @@||ustv247.tv^
-@@||videoplaza.tv^
 @@||viu.tv^
 @@||wakanim.tv^
 @@||wco.tv^
@@ -8005,7 +7939,6 @@
 @@||cmoney.tw/vt/js/google_analytics.js
 @@||izo.tw/wp-content/advert1.js
 @@||012.tw^
-@@||apk.tw^
 @@||bingfeng.tw^
 @@||easylife.tw^
 @@||ez3c.tw^
@@ -8104,7 +8037,6 @@
 @@||freecoursesonline.us^
 @@||freetutorials.us^
 @@||freevpn.us^
-@@||haveyoueverfartedinamovietheaterandhadtoleaveitwassobad.us^
 @@||mitly.us^
 @@||now.us^
 @@||onehack.us^
@@ -8190,7 +8122,6 @@
 @@||win10.vn^
 @@||static.vocstatic.com^
 @@||auth.vodafone.hu^
-@@||images.voyageforum.com^
 @@||tn.voyeurhit.com^
 @@||3voor12.vpro.nl^*/streamsense.min.js$~third-party
 @@||metrics.vrch.at^
@@ -8283,7 +8214,6 @@
 @@||login.wmtransfer.com^
 @@||stats.wnba.com/templates/angular/tables/events/$~third-party
 @@||client.wns.windows.com^
-@@||go.wolfram-client.tk^
 @@||belgium.wolterskluwer.com^|
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
 @@||texte.work^
@@ -8333,7 +8263,6 @@
 @@||yunduanxin.xyz/static/js/banger.js
 @@||000714.xyz^
 @@||939394.xyz^
-@@||adblockdetect.xyz^
 @@||ahcdn.xyz^
 @@||allfaucet.xyz^
 @@||altyazili13.xyz^

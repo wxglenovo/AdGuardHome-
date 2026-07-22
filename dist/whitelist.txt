@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-22 23:43:12 CST
-! 总条数: 8447
+! 更新时间: 2026-07-23 01:26:20 CST
+! 总条数: 8448
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5828,6 +5828,7 @@
 @@||tongji.koowo.cn^
 @@||apis.kostprice.com/fapi/$script,domain=gadgets.ndtv.com
 @@||fastag.kotak.com^
+@@||vidtub.kotocdn.site^
 @@||mijn.kpn.com^
 @@||omsc.kpn.com^|
 @@||secure.kps-payment.de^

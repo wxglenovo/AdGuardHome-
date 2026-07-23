@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-24 04:46:54 CST
-! 总条数: 8449
+! 更新时间: 2026-07-24 06:58:41 CST
+! 总条数: 8446
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3100,7 +3100,6 @@
 @@||mccm88.com^
 @@||mealcold.com^
 @@||meanwell.com^
-@@||medallia.com^
 @@||medeberiya1.com^
 @@||medevel.com^
 @@||media-imdb.com^
@@ -3242,7 +3241,6 @@
 @@||nibbits.com^
 @@||nicecarsinfo.com^
 @@||nichepcgamer.com^
-@@||nimiq.com^
 @@||niotv.com^
 @@||nobugin.com^
 @@||nocorspolicy.com^
@@ -4745,7 +4743,6 @@
 @@||hs.eloqua.com^
 @@||t.eloqua.com^
 @@||pilet.elron.ee^
-@@||click.email.wbez.org^
 @@||ads.emarketer.com/redirect.spark?$popup,domain=emarketer.com
 @@||portal.energie-graz.at/kundenportal/css/cookieconsent/$~third-party
 @@||portal.energie-graz.at/kundenportal/js/lib/cookieconsent.js$~third-party

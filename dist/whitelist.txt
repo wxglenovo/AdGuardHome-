@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-23 07:07:28 CST
+! 更新时间: 2026-07-23 10:00:35 CST
 ! 总条数: 8448
 ! =====================
 
@@ -232,7 +232,7 @@
 @@||securiti.ai^
 @@||shedevrum.ai^
 @@||claude.ai^$generichide
-@@||securiti.ai^$script,domain=alaskaair.com|hertz.at|hertz.co.uk|hertz.de|hertz.es|hertz.fi|hertz.fr|hertz.ie|hertz.it|hertz.no|hertz.pt|hertz.se|michaels.com
+@@||securiti.ai^$script,xmlhttprequest,domain=alaskaair.com|hertz.at|hertz.co.uk|hertz.de|hertz.es|hertz.fi|hertz.fr|hertz.ie|hertz.it|hertz.no|hertz.pt|hertz.se|michaels.com
 @@||core.airbridge.io^
 @@||img.ak.impact-ad.jp^
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de|vip.de

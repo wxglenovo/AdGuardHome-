@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-26 09:59:53 CST
+! 更新时间: 2026-07-26 13:35:37 CST
 ! 总条数: 8451
 ! =====================
 
@@ -4335,7 +4335,7 @@
 @@||app.conceptboard.com^*/SocialIcons.js$xmlhttprequest
 @@||ads-static.conde.digital^
 @@||ads-static.conde.digital^$domain=wired.com
-@@||martech.condenastdigital.com/lib/martech.js$script,domain=wired.com
+@@||martech.condenastdigital.com/lib/martech.js$script,domain=cntraveler.com|wired.com
 @@||s.confluency.site/*.com/4/js/$script
 @@||vid.connatix.com^
 @@||mgr.consensu.org^

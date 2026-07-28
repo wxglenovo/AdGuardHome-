@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-28 18:26:39 CST
-! 总条数: 8451
+! 更新时间: 2026-07-28 19:57:24 CST
+! 总条数: 8452
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2137,6 +2137,7 @@
 @@||1trackapp.com^
 @@||1warie.com^
 @@||24playerhd.com^
+@@||2ipcore.com^
 @@||320volt.com^
 @@||360haven.com^
 @@||360kora.com^

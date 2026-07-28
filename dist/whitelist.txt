@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-28 13:18:22 CST
-! 总条数: 8453
+! 更新时间: 2026-07-28 14:26:33 CST
+! 总条数: 8454
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5718,6 +5718,7 @@
 @@||adfurikun.jp/adfurikun/images/$~third-party
 @@||aiasahi.jp/ads/$image,domain=japan.zdnet.com
 @@||bloominc.jp/adtool/$~third-party
+@@||fate-go.jp/anniv_11th_sns/assets/js/services/gtm.js$~third-party
 @@||doda.jp/brand/ad/img/icon_play.png
 @@||doda.jp/cmn_web/img/brand/ad/ad_text_
 @@||doda.jp/cmn_web/img/brand/ad/ad_top_3.mp4

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-28 16:38:39 CST
-! 总条数: 8454
+! 更新时间: 2026-07-28 18:26:39 CST
+! 总条数: 8451
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3919,7 +3919,6 @@
 @@||xhwide2.com^
 @@||xhwide5.com^
 @@||xia1ge.com^
-@@||xiaomifirmwareupdater.com^
 @@||xiaomitoday.com^
 @@||xiaomitools.com^
 @@||xilinjie.com^
@@ -6021,7 +6020,6 @@
 @@||apnetv.me^
 @@||bigad.me^
 @@||contentx.me^
-@@||freecoursesonline.me^
 @@||ipalibrary.me^
 @@||keyvdowallet.me^
 @@||linkpoi.me^
@@ -6409,7 +6407,6 @@
 @@||homegrownfreaks.net^
 @@||htnovo.net^
 @@||hwcdn.net^
-@@||hyperdebrid.net^
 @@||hypixel.net^
 @@||illink.net^
 @@||imgair.net^

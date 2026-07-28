@@ -1,115 +1,112 @@
-规则: ||target.footlocker.se^
- 80992行: ||target.footlocker.se^
- 193239行: ||target.footlocker.se^
- 380339行: ||target.footlocker.se^
- 585297行: ||target.footlocker.se^
- 684153行: ||target.footlocker.se^
- 1301838行: ||target.footlocker.se^
- 1616227行: ||target.footlocker.se^
+规则: ||data.email.nabtrade.com.au^
+ 72275行: ||data.email.nabtrade.com.au^
+ 1054148行: ||data.email.nabtrade.com.au^
 
-规则: ||lqzoyqvbjkzqm.top^
- 31489行: ||lqzoyqvbjkzqm.top^
- 211344行: ||lqzoyqvbjkzqm.top^
- 282762行: ||lqzoyqvbjkzqm.top^
- 433591行: ||lqzoyqvbjkzqm.top^
- 604303行: ||lqzoyqvbjkzqm.top^
- 702258行: ||lqzoyqvbjkzqm.top^
- 1195368行: ||lqzoyqvbjkzqm.top^
- 1582370行: ||lqzoyqvbjkzqm.top^
+规则: ||rvo-cohesion.healthline.com^
+ 198912行: ||rvo-cohesion.healthline.com^
+ 367875行: ||rvo-cohesion.healthline.com^
+ 518627行: ||rvo-cohesion.healthline.com^
+ 591820行: ||rvo-cohesion.healthline.com^
+ 690882行: ||rvo-cohesion.healthline.com^
+ 1197319行: ||rvo-cohesion.healthline.com^
+ 1539359行: ||rvo-cohesion.healthline.com^
 
-规则: |online-drank-bestellen.nl###cookiewall
- 1475406行: |online-drank-bestellen.nl###cookiewall
- 1518245行: |online-drank-bestellen.nl###cookiewall
+规则: ||simg.interhome.pl^
+ 70494行: ||simg.interhome.pl^
+ 203598行: ||simg.interhome.pl^
+ 376320行: ||simg.interhome.pl^
+ 596736行: ||simg.interhome.pl^
+ 695568行: ||simg.interhome.pl^
+ 1211424行: ||simg.interhome.pl^
+ 1542790行: ||simg.interhome.pl^
 
-规则: |wineandmore.co.il##[class^="cookiesPopup"]
- 1492579行: |wineandmore.co.il##[class^="cookiesPopup"]
- 1524496行: |wineandmore.co.il##[class^="cookiesPopup"]
+规则: |bastingart.com^
+ 1381497行: |bastingart.com^
+ 1465785行: |bastingart.com^
 
-规则: ||sst.bibione.com^
- 110355行: ||sst.bibione.com^
- 1282938行: ||sst.bibione.com^
+规则: |doncasterfreepress.co.uk##[data-type="AdRowBillboard"]
+ 326657行: |doncasterfreepress.co.uk##[data-type="AdRowBillboard"]
+ 477501行: |doncasterfreepress.co.uk##[data-type="AdRowBillboard"]
 
-规则: ||nvekimjufdbfx.site^
- 35254行: ||nvekimjufdbfx.site^
- 219532行: ||nvekimjufdbfx.site^
- 286542行: ||nvekimjufdbfx.site^
- 437375行: ||nvekimjufdbfx.site^
- 541688行: ||nvekimjufdbfx.site^
- 613091行: ||nvekimjufdbfx.site^
- 710446行: ||nvekimjufdbfx.site^
- 1220201行: ||nvekimjufdbfx.site^
- 1592441行: ||nvekimjufdbfx.site^
+规则: zmiksowani.pl###holdon-overlay
+ 1429227行: zmiksowani.pl###holdon-overlay
+ 1461150行: zmiksowani.pl###holdon-overlay
 
-规则: |kiro7.com##.arcad_feature
- 319706行: |kiro7.com##.arcad_feature
- 470541行: |kiro7.com##.arcad_feature
+规则: ||topilube.la-carafe.fr^
+ 112351行: ||topilube.la-carafe.fr^
+ 1246721行: ||topilube.la-carafe.fr^
 
-规则: ||console.informingnews.com^
- 2463行: ||console.informingnews.com^
- 1085669行: ||console.informingnews.com^
+规则: ||fdsd11.com^
+ 150300行: ||fdsd11.com^
+ 1075123行: ||fdsd11.com^
 
-规则: ||kiemtienmomo.online^
- 150876行: ||kiemtienmomo.online^
- 1173544行: ||kiemtienmomo.online^
+规则: ||tremolodeckles.cfd^
+ 47703行: ||tremolodeckles.cfd^
+ 299540行: ||tremolodeckles.cfd^
+ 450383行: ||tremolodeckles.cfd^
+ 1252596行: ||tremolodeckles.cfd^
 
-规则: ||ss.le-metre-carre.fr^
- 109690行: ||ss.le-metre-carre.fr^
- 1279859行: ||ss.le-metre-carre.fr^
+规则: ||wttbup.novasol.de^
+ 86760行: ||wttbup.novasol.de^
+ 219352行: ||wttbup.novasol.de^
+ 392183行: ||wttbup.novasol.de^
+ 613453行: ||wttbup.novasol.de^
+ 711322行: ||wttbup.novasol.de^
+ 1271836行: ||wttbup.novasol.de^
+ 1564892行: ||wttbup.novasol.de^
 
-规则: ||load.sst.acesheets.com^
- 121404行: ||load.sst.acesheets.com^
- 1190172行: ||load.sst.acesheets.com^
+规则: ||zismc.trygoomz.com^
+ 89257行: ||zismc.trygoomz.com^
+ 1285095行: ||zismc.trygoomz.com^
 
-规则: |soneksbilgisayar.com##.cookie-agreement-module
- 1494997行: |soneksbilgisayar.com##.cookie-agreement-module
- 1526914行: |soneksbilgisayar.com##.cookie-agreement-module
+规则: |georgjensen.com##CookieConsent
+ 1431350行: |georgjensen.com##CookieConsent
+ 1463273行: |georgjensen.com##CookieConsent
 
-规则: ||asia.interface.com^
- 203371行: ||asia.interface.com^
- 392592行: ||asia.interface.com^
- 595941行: ||asia.interface.com^
- 694285行: ||asia.interface.com^
- 1056006行: ||asia.interface.com^
- 1543852行: ||asia.interface.com^
+规则: ||logzh.dantocmiennui.vn^
+ 148839行: ||logzh.dantocmiennui.vn^
+ 1143074行: ||logzh.dantocmiennui.vn^
 
-规则: ||zhbvngnzljaqb.website^
- 54559行: ||zhbvngnzljaqb.website^
- 254948行: ||zhbvngnzljaqb.website^
- 305939行: ||zhbvngnzljaqb.website^
- 456774行: ||zhbvngnzljaqb.website^
- 650771行: ||zhbvngnzljaqb.website^
- 745862行: ||zhbvngnzljaqb.website^
- 1348533行: ||zhbvngnzljaqb.website^
- 1632619行: ||zhbvngnzljaqb.website^
+规则: ||immoderatescarsheer.com^
+ 26834行: ||immoderatescarsheer.com^
+ 202481行: ||immoderatescarsheer.com^
+ 278568行: ||immoderatescarsheer.com^
+ 429411行: ||immoderatescarsheer.com^
+ 595572行: ||immoderatescarsheer.com^
+ 694451行: ||immoderatescarsheer.com^
+ 1111353行: ||immoderatescarsheer.com^
+ 1509453行: ||immoderatescarsheer.com^
 
-规则: worldsoccertalk.com##[id*="primis_"]
- 329481行: worldsoccertalk.com##[id*="primis_"]
- 480317行: worldsoccertalk.com##[id*="primis_"]
+规则: /i/npage/*$script,third-party
+ 257427行: /i/npage/*$script,third-party
+ 408270行: /i/npage/*$script,third-party
 
-规则: ||zkggtossfobzd.space^
- 54691行: ||zkggtossfobzd.space^
- 255252行: ||zkggtossfobzd.space^
- 306071行: ||zkggtossfobzd.space^
- 456906行: ||zkggtossfobzd.space^
- 651080行: ||zkggtossfobzd.space^
- 746166行: ||zkggtossfobzd.space^
- 1349203行: ||zkggtossfobzd.space^
- 1632835行: ||zkggtossfobzd.space^
+规则: ||atwxrp.bibloo.cz^
+ 81983行: ||atwxrp.bibloo.cz^
+ 1016115行: ||atwxrp.bibloo.cz^
 
-规则: "
- 492659行: "
- 493856行: "
- 494960行: "
+规则: ||pms.mb.qq.com^
+ 227980行: ||pms.mb.qq.com^
+ 622600行: ||pms.mb.qq.com^
+ 719950行: ||pms.mb.qq.com^
+ 1386788行: ||pms.mb.qq.com^
+ 1533295行: ||pms.mb.qq.com^
 
-规则: |azolifesciences.com##.sidebar-sponsored-content
- 324366行: |azolifesciences.com##.sidebar-sponsored-content
- 475201行: |azolifesciences.com##.sidebar-sponsored-content
+规则: ||incompetencesorting.com^
+ 26974行: ||incompetencesorting.com^
+ 202673行: ||incompetencesorting.com^
+ 278708行: ||incompetencesorting.com^
+ 429551行: ||incompetencesorting.com^
+ 595766行: ||incompetencesorting.com^
+ 694643行: ||incompetencesorting.com^
+ 1111754行: ||incompetencesorting.com^
+ 1509653行: ||incompetencesorting.com^
 
-规则: ||stape-colorlife.shelai.com.bd^
- 131144行: ||stape-colorlife.shelai.com.bd^
- 1288205行: ||stape-colorlife.shelai.com.bd^
+规则: ||s.keired.com.au^
+ 123332行: ||s.keired.com.au^
+ 1198045行: ||s.keired.com.au^
 
-规则: ||dsgdsgdsg.nordicoil.nl^
- 115405行: ||dsgdsgdsg.nordicoil.nl^
- 1107516行: ||dsgdsgdsg.nordicoil.nl^
+规则: ||sparrow.uitvaartzorg-vanraemdonck.be^
+ 4422行: ||sparrow.uitvaartzorg-vanraemdonck.be^
+ 1219947行: ||sparrow.uitvaartzorg-vanraemdonck.be^
 

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-30 09:43:35 CST
-! 总条数: 8453
+! 更新时间: 2026-07-30 13:12:19 CST
+! 总条数: 8455
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5005,6 +5005,7 @@
 @@||engine.fyber.com^
 @@||video.fyber.com^
 @@||assets.fyers.in/Lib/analytics/Analytics.js$~third-party
+@@||play.fyi.tv/vendor/VisitorAPI.js
 @@||play.fyi.tv^
 @@||banking.fyrst.de/translations/*-cookiedisclaimer$~third-party,xmlhttprequest
 @@||googleads.g.doubleclick.net/ads/controlcookies/getcookies$domain=adssettings.google.com
@@ -5291,6 +5292,7 @@
 @@||static.hentai.direct^
 @@||maps.hereapi.com^
 @@||data-*.herz-fuer-tiere.de^|
+@@||play.history.com/vendor/VisitorAPI.js
 @@||play.history.com^
 @@||ia.hit.interia.pl^
 @@||ia.hit.interia.pl^|

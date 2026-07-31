@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-07-31 21:21:00 CST
-! 总条数: 8454
+! 更新时间: 2026-08-01 00:01:43 CST
+! 总条数: 8455
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2269,6 +2269,7 @@
 @@||artnet.com^
 @@||as.com^
 @@||ashemaletube.com^
+@@||ashrafidoria.com^
 @@||aspdotnet-suresh.com^
 @@||assbbs.com^
 @@||aston-martin-club.com^

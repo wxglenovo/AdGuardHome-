@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-03 22:06:25 CST
-! 总条数: 8454
+! 更新时间: 2026-08-04 00:26:53 CST
+! 总条数: 8457
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -821,6 +821,8 @@
 @@||rsc.cdn77.org^
 @@||cb.cdnid.win^
 @@||redone.cdnserver1.online^
+@@||gw.cds.amcn.com^
+@@||user-gw.cds.amcn.com^
 @@||c-web.cedyna.co.jp/customer/img/spacer.gif?$~third-party
 @@||line-mode.cern.ch^
 @@||cdn.cervell.io^
@@ -6764,6 +6766,7 @@
 @@||cookiemanager.onm.de^$domain=eurobaustoff.com
 @@||log.onmas.kt.com^
 @@||i.onthe.io^
+@@||shield-drm.onvesper.com^
 @@||my.onvista.de^
 @@||payment.opay.tw^
 @@||tagger.opecloud.com^

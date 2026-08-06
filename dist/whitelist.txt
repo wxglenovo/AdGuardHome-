@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-06 13:20:23 CST
-! 总条数: 8458
+! 更新时间: 2026-08-06 14:29:57 CST
+! 总条数: 8454
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3814,7 +3814,6 @@
 @@||vegetariantimes.com^
 @@||vegrecetas.com^
 @@||veo-hentai.com^
-@@||verdirectotv.com^
 @@||verteleseriesonline.com^
 @@||veuclips.com^
 @@||victor-mochere.com^
@@ -5999,7 +5998,6 @@
 @@||plugins.matomo.org^$image,~third-party
 @@||tracker.mattel.com^
 @@||taiga.maven.io^|
-@@||free-premium.maxidbr.com^
 @@||mm.maxthon.cn/ad/
 @@||hydro.mb.ca^
 @@||sentry.mba^
@@ -6326,7 +6324,6 @@
 @@||belezaedieta.net^
 @@||bi-girl.net^
 @@||biopills.net^
-@@||bituniverse.net^
 @@||blackmod.net^
 @@||blograffo.net^
 @@||boardgamesonline.net^
@@ -8113,7 +8110,6 @@
 @@||cdn.us*.exponea.com^|
 @@||animeland.us^
 @@||erovoice.us^
-@@||freecoursesonline.us^
 @@||freetutorials.us^
 @@||freevpn.us^
 @@||haveyoueverfartedinamovietheaterandhadtoleaveitwassobad.us^

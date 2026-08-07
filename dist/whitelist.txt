@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-07 16:48:12 CST
-! 总条数: 8451
+! 更新时间: 2026-08-07 18:51:23 CST
+! 总条数: 8450
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4301,7 +4301,6 @@
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl|zeam.com
 @@||vivocha.com^*/vivocha.js?$script,domain=kartell.com
 @@||bilibili.com^*/web_page_view?$domain=message.bilibili.com
-@@||bostonherald.com^*/webpush.js$script,~third-party
 @@||ziffstatic.com^*/zdconsent.js$domain=humblebundle.com|ign.com|nintendolife.com|pcmag.com|purexbox.com|pushsquare.com|speedtest.net|timeextension.com
 @@||360buyimg.com^*??
 @@||qq.com^*?ADTAG=
@@ -5365,7 +5364,6 @@
 @@||mpsnare.iesnare.com^
 @@||mpsnare.iesnare.com^$script,domain=aswbe.ana.co.jp|citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|secure.coventrybuildingsociety.co.uk|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
 @@||visitor.if.eu^
-@@||x2.ifengimg.com^
 @@||www.ifon.ca^
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|enoteca.co.jp|goodwillfinds.com|samash.com|viajeguanabara.com.br|vitalsource.com|wilsonparking.com.au
 @@||collect.igodigital.com^
@@ -7088,6 +7086,7 @@
 @@||gildia.pl/static/*/Smile_ElasticsuiteTracker/js/tracking.min.js$~third-party
 @@||tiom.pl/static/js/cookieconsent.min.js$~third-party
 @@||niezawodny.pl/templates/js/cookie-consent.js$~third-party
+@@||budzetobywatelski.pl/themes/site/js/webpush.js$~third-party
 @@||google.pl/translate_$media,third-party,xmlhttprequest
 @@||wavepc.pl/wp-content/*-500x100.png$image,~third-party
 @@||topschool.pl/wp-content/plugins/CookieInfo/js/CookieInfo.js$script

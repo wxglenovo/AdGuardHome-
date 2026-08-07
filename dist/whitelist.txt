@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-07 12:27:56 CST
+! 更新时间: 2026-08-07 13:39:38 CST
 ! 总条数: 8451
 ! =====================
 
@@ -148,9 +148,9 @@
 @@||injections.adguard.org^
 @@||local.adguard.org^
 @@||reports.adguard.com^
-@@||api.adinplay.com/libs/aiptag/$script,domain=bigescapegames.com|brofist.io|cuberealm.io|findcat.io|geotastic.net|lordz.io
+@@||api.adinplay.com/libs/aiptag/$script,domain=2v2.io|bigescapegames.com|brofist.io|cuberealm.io|findcat.io|geotastic.net|lordz.io
 @@||api.adinplay.com/libs/aiptag/pub/$domain=geotastic.net
-@@||api.adinplay.com/v4/live/aip/ad-manager.js$script,domain=cuberealm.io
+@@||api.adinplay.com/v4/live/aip/ad-manager.js$script,domain=2v2.io|cuberealm.io
 @@||egun.adj.st^
 @@||app.adjust.com^
 @@||app.adjust.com^|

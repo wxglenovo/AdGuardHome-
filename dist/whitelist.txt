@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-10 15:46:22 CST
-! 总条数: 8452
+! 更新时间: 2026-08-10 17:09:23 CST
+! 总条数: 8451
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -378,7 +378,6 @@
 @@||adv.asahi.com^$popup
 @@||cdn.asdasdhg.com^
 @@||clk.asia^
-@@||playcloud1.asia^
 @@||web1s.asia^
 @@||ws-na.assoc-amazon.com^
 @@||dlcdnimgs.asus.com/vendor/cookie-banner/$~third-party

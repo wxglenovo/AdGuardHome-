@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-12 22:58:23 CST
-! 总条数: 8452
+! 更新时间: 2026-08-13 01:03:22 CST
+! 总条数: 8453
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -7833,6 +7833,7 @@
 @@||pdk.theplatform.com^
 @@||obituaries.therecord.com^|
 @@||obituaries.thestar.com^|
+@@||dd.thetrainline.com.first-party-js.datadome.co^
 @@||dd.thetrainline.com.first-party-js.datadome.co^$domain=thetrainline.com
 @@||catchup.thisisdax.com^|
 @@||ad.thsi.cn/siteHome/

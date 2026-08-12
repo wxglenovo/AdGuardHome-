@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-12 15:36:31 CST
-! 总条数: 8450
+! 更新时间: 2026-08-12 17:03:56 CST
+! 总条数: 8438
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -711,12 +711,6 @@
 @@||sportpari.by^
 @@||tvr.by^
 @@||microapp.bytedance.com/docs/page-data/$~third-party
-@@||lf-normal-gr-sourcecdn.bytegecko.com^$important,app=com.dragon.read
-@@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read
-@@||p*-novel-sign.byteimg.com/novel-pic/$important,app=com.dragon.read
-@@||p3-novel1-sign.byteimg.com^$app=com.dragon.read,important
-@@||p6-novel1-sign.byteimg.com^$app=com.dragon.read,important
-@@||p9-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||met.bz^
 @@||onl.bz^
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
@@ -4925,10 +4919,6 @@
 @@||media.foundit.*/trex/public/theme_3/dist/js/userTracking.js$script,~third-party
 @@||my.foxnews.com^
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
-@@||api*-normal-sinfonline*.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
-@@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
-@@||api5-normal-sinfonlinec.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
-@@||lf-fe.fqnovelstatic.com^$important,app=com.dragon.read
 @@||mynexity.fr/App_Themes/V3/js/Didomi.js$~third-party
 @@||franceinfo.fr/assets/*/piano-analytics/piano-analytics-$script,~third-party
 @@||cafedelapaix.fr/assets/plugins/bwp-minify/min/$script,~third-party
@@ -7645,8 +7635,6 @@
 @@||bcee.snet.lu^
 @@||adsales.snidigital.com/*/ads-config.min.js$script
 @@||carrefourpl.snrpage.com^
-@@||reading.snssdk.com^$important,app=com.dragon.read
-@@||security.snssdk.com^$important,app=com.dragon.read
 @@||google.so/translate_$media,third-party,xmlhttprequest
 @@||dood.so^
 @@||notion.so^

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-12 13:36:56 CST
-! 总条数: 8453
+! 更新时间: 2026-08-12 15:36:31 CST
+! 总条数: 8450
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1179,7 +1179,6 @@
 @@||openload.co^
 @@||remixsearch.co^
 @@||romsforever.co^
-@@||rulu.co^
 @@||tech5s.co^
 @@||tellmehow.co^
 @@||tuborstb.co^
@@ -3133,7 +3132,6 @@
 @@||mewe.com^
 @@||mghubcdn.com^
 @@||mgkomik.com^
-@@||miauscan.com^
 @@||michezoafrika.com^
 @@||microsoft.com^
 @@||microsoftazuresponsorships.com^
@@ -6453,7 +6451,6 @@
 @@||moviesunuss.net^
 @@||moyens.net^
 @@||mp3cut.net^
-@@||mx-sh.net^
 @@||mxcontent.net^
 @@||mypapercraft.net^
 @@||naruto-arena.net^

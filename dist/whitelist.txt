@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-13 17:04:10 CST
+! 更新时间: 2026-08-13 18:59:48 CST
 ! 总条数: 8453
 ! =====================
 
@@ -4511,6 +4511,7 @@
 @@||herz-fuer-tiere.de^
 @@||hood.de^
 @@||i8086.de^
+@@||immobilienscout24.de^
 @@||inside-digital.de^
 @@||it-times.de^
 @@||jetzt.de^
@@ -5469,7 +5470,6 @@
 @@||clk.ink^
 @@||dragontea.ink^
 @@||moex.ink^
-@@||sfl.ink^
 @@||work.ink^
 @@||xploit.ink^
 @@||dragontea.ink^$generichide

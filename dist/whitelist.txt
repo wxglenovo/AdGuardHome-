@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-14 17:00:10 CST
-! 总条数: 8452
+! 更新时间: 2026-08-14 18:56:51 CST
+! 总条数: 8449
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3549,7 +3549,6 @@
 @@||smscodeonline.com^
 @@||smslisten.com^
 @@||smsnumbersonline.com^
-@@||smsreceiveonline.com^
 @@||smstome.com^
 @@||smtcaw.com^
 @@||sna3talaflam.com^
@@ -3782,7 +3781,6 @@
 @@||unpkg.com^
 @@||up4load.com^
 @@||upfilesgo.com^
-@@||uploadex.com^
 @@||uploadmall.com^
 @@||uploadmx.com^
 @@||uppit.com^
@@ -7968,7 +7966,6 @@
 @@||karwan.tv^
 @@||kphim.tv^
 @@||landofhope.tv^
-@@||mmacore.tv^
 @@||my5.tv^
 @@||nebula.tv^
 @@||openload.tv^

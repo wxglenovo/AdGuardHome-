@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-20 22:37:29 CST
-! 总条数: 8453
+! 更新时间: 2026-08-21 00:41:40 CST
+! 总条数: 8454
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -407,6 +407,7 @@
 @@||ad.atown.jp/adserver/$domain=ad.atown.jp
 @@||xp.audience.io/sdk.js$script,domain=foxla.com
 @@||dd.auspost.com.au/tags.js$script,~third-party
+@@||api.authsignal.com^
 @@||portal.autotrader.co.uk/advert/$~third-party
 @@||player.avplayer.com^
 @@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com|tiz-cycling-live.io

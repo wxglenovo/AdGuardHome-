@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-20 20:17:54 CST
-! 总条数: 8452
+! 更新时间: 2026-08-20 22:37:29 CST
+! 总条数: 8453
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -6995,6 +6995,7 @@
 @@||cmp.osano.com^
 @@||cmp.osano.com^$script,domain=account.bhvr.com|everand.com|guidepoint.com|lucidchart.com|midnight.gd|scribd.com|sonesta.com
 @@||cmp.osano.com^*/osano.js$domain=alltrails.com|stltoday.com
+@@||cmp.osano.com^|
 @@||chsi-zyghds.oss-cn-beijing.aliyuncs.com^
 @@||ibeta-www.oss-cn-beijing.aliyuncs.com^
 @@||api.ott.kinopoisk.ru^

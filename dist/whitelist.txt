@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-24 02:21:51 CST
-! 总条数: 8454
+! 更新时间: 2026-08-24 04:07:14 CST
+! 总条数: 8455
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3730,6 +3730,7 @@
 @@||tp-link.com^
 @@||tracklib.com^
 @@||tradedoubler.com^
+@@||tradingref.com^
 @@||tradingview.com^
 @@||traductionjeux.com^
 @@||trailrunnermag.com^

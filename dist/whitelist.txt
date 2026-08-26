@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-27 00:52:14 CST
+! 更新时间: 2026-08-27 03:42:51 CST
 ! 总条数: 8459
 ! =====================
 
@@ -2313,6 +2313,7 @@
 @@||best-shopme.com^
 @@||besthealthyguide.com^
 @@||bestlistofporn.com^
+@@||bet365.com^
 @@||betaprofiles.com^
 @@||beursig.com^
 @@||bhookedcrochet.com^
@@ -3738,7 +3739,6 @@
 @@||transcend-info.com^
 @@||trendiqq.com^
 @@||trib.com^
-@@||trip.com^
 @@||tritinia.com^
 @@||tron-free.com^
 @@||trueachievements.com^

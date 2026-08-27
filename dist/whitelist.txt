@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-27 20:37:25 CST
-! 总条数: 8459
+! 更新时间: 2026-08-27 23:00:41 CST
+! 总条数: 8457
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5403,7 +5403,6 @@
 @@||luciferdonghua.in^
 @@||mahitimanch.in^
 @@||majhinaukri.in^
-@@||megaurl.in^
 @@||primeos.in^
 @@||speakingtree.in^
 @@||techypopat.in^
@@ -7243,7 +7242,6 @@
 @@||adspace.pro^
 @@||afly.pro^
 @@||aptal.pro^
-@@||bagusdl.pro^
 @@||doods.pro^
 @@||kejilion.pro^
 @@||magesy.pro^

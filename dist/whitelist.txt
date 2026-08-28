@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-29 03:48:32 CST
-! 总条数: 8458
+! 更新时间: 2026-08-29 05:06:34 CST
+! 总条数: 8460
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2789,6 +2789,7 @@
 @@||ghxi.com^
 @@||gigaho.com^
 @@||github.com^
+@@||githubusercontent.com^
 @@||gitlab.com^
 @@||gizbot.com^
 @@||gizchina.com^
@@ -7423,6 +7424,7 @@
 @@||datacloudmail.ru^
 @@||dostavista.ru^
 @@||dushu.ru^
+@@||euroauto.ru^
 @@||fatcatslim.ru^
 @@||filecheck.ru^
 @@||forbes.ru^

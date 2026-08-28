@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-08-28 07:39:08 CST
+! 更新时间: 2026-08-28 08:49:48 CST
 ! 总条数: 8457
 ! =====================
 
@@ -5420,6 +5420,7 @@
 @@||learn.inesdi.com/webapps/privacy-disclosure/js/cookieconsent.js$~third-party
 @@||doubleclick.infineoncorp.com^
 @@||glookup.info/api/json/$domain=grabify.link
+@@||navacom.info/count.php?$~third-party
 @@||19iiii.info/js/logo$script
 @@||crystalmark.info/wp-content/uploads/*-300x250.$image,~third-party
 @@||crystalmark.info/wp-content/uploads/sites/$image,~third-party
@@ -6357,7 +6358,6 @@
 @@||dpbolvw.net^
 @@||dphotoworld.net^
 @@||dqmsl-search.net^
-@@||dynaccent.net^
 @@||e9china.net^
 @@||edgecastcdn.net^
 @@||emathhelp.net^

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-01 17:13:05 CST
-! 总条数: 8459
+! 更新时间: 2026-09-01 19:20:14 CST
+! 总条数: 8458
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2372,7 +2372,6 @@
 @@||canadacompanyregistry.com^
 @@||canoe.com^
 @@||canva.com^
-@@||canyoublockit.com^
 @@||captcha-delivery.com^
 @@||caradisiac.com^
 @@||carbuzz.com^

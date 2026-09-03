@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-03 23:15:20 CST
-! 总条数: 8460
+! 更新时间: 2026-09-04 01:36:21 CST
+! 总条数: 8462
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5802,6 +5802,7 @@
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||nebula-cdn.kampyle.com^
 @@||login.kao-kirei.com^
+@@||vide.karavid.top^
 @@||api.karte.io^|
 @@||login.kataweb.it^*/sprite-social.png
 @@||oasjs.kataweb.it^
@@ -7200,6 +7201,7 @@
 @@||clients.plex.tv/api/v2/ads/$~third-party
 @@||extreme-down.plus^
 @@||faucet.plus^
+@@||pahe.plus^
 @@||episode.pmcontent.com^
 @@||google.pn/translate_$media,third-party,xmlhttprequest
 @@||zeta.pokemon-vortex.com^

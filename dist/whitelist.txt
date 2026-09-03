@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-03 18:53:34 CST
-! 总条数: 8459
+! 更新时间: 2026-09-03 20:24:42 CST
+! 总条数: 8460
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -6237,6 +6237,7 @@
 @@||blueconic.net/bostonglobemedia.js$domain=bostonglobe.com
 @@||meituan.net/bs/js/*/js/tracker.js
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
+@@||agoda.net/cdn-supply-iam/static/js/webanalytics.$domain=agoda.com
 @@||ucoz.net/cgi/uutils.fcg?$script,third-party
 @@||trackonomics.net/client/$script,domain=popsugar.com
 @@||doubleclick.net/clk;$popup,domain=3g.co.uk|4g.co.uk|hotukdeals.com|jobamatic.com|play.google.com|santander.co.uk|techrepublic.com

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-05 16:06:48 CST
-! 总条数: 8466
+! 更新时间: 2026-09-05 18:12:46 CST
+! 总条数: 8467
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -7575,6 +7575,7 @@
 @@||ware.shop.jd.com^$genericblock,generichide
 @@||papagan.shop^
 @@||ads.shopee.*/$popup
+@@||cdn.shopify.com/extensions/*/ba_tracking.js$domain=ridge.com
 @@||cdn.shopify.com/extensions/*/complianz-gdpr-cookie-consent-33/$domain=thebarn.de
 @@||static.showheroes.com^
 @@||video-library.showheroes.com^

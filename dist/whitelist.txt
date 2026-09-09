@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-09 20:36:01 CST
-! 总条数: 8468
+! 更新时间: 2026-09-09 22:11:18 CST
+! 总条数: 8467
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4165,7 +4165,7 @@
 @@||streamtape.com^$popup,domain=streamtape.to
 @@||succeedscene.com^$script
 @@||relevant-digital.com^$script,domain=20min.ch
-@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
+@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com|wirecutterstore.nytimes.com
 @@||bootcss.com^$script,domain=bimibimi.tv|kan-tv.com|wnacg.com
 @@||extreme-ip-lookup.com^$script,domain=bulkbarn.ca
 @@||googletagservices.com^$script,domain=creaders.net
@@ -5802,7 +5802,6 @@
 @@||meb.k12.tr^
 @@||cdn.kaizenplatform.net^
 @@||cdn.kaizenplatform.net^$script,domain=navi.onamae.com
-@@||tv.kakao.com^
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||nebula-cdn.kampyle.com^
 @@||login.kao-kirei.com^
@@ -5976,7 +5975,7 @@
 @@||portal.mail.ru^
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||admin.mailchimp.com^
-@@||assets.mailerlite.com/js/universal.js$script,domain=player.real.gr
+@@||assets.mailerlite.com/js/universal.js$script,domain=real.gr
 @@||js.mamydirect.com^
 @@||mirror*.mangafunc.fun/comic/
 @@||img.mangahasu.se^

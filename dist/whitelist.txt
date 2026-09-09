@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-09 10:21:24 CST
+! 更新时间: 2026-09-09 15:12:42 CST
 ! 总条数: 8468
 ! =====================
 
@@ -342,7 +342,7 @@
 @@||click.appcast.io^|
 @@||cdn.appconsent.io^
 @@||cdn.appconsent.io^$script,domain=commentcamarche.net|journaldesfemmes.fr|lachainemeteo.com|lefigaro.fr|linternaute.com
-@@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
+@@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr|meteoconsult.fr
 @@||collector.appconsent.io/hello^$xmlhttprequest,domain=linternaute.com
 @@||appleid.apple.com^
 @@||cdn.apple-cloudkit.com^

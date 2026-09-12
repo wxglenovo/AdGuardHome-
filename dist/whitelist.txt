@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-13 00:48:21 CST
-! 总条数: 8469
+! 更新时间: 2026-09-13 02:16:50 CST
+! 总条数: 8466
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3390,7 +3390,6 @@
 @@||prdnews.com^
 @@||primevideo.com^
 @@||privacy-mgmt.com^
-@@||proboards.com^
 @@||professionaltutorial.com^
 @@||profitsfly.com^
 @@||promipool.com^
@@ -6332,7 +6331,6 @@
 @@||blackmod.net^
 @@||blograffo.net^
 @@||boardgamesonline.net^
-@@||boards.net^
 @@||boobausauhipsa.net^
 @@||canlidershane.net^
 @@||canlidizi9.net^
@@ -6383,7 +6381,6 @@
 @@||firstonetv.net^
 @@||flagpedia.net^
 @@||footprint.net^
-@@||freeforums.net^
 @@||freevipservers.net^
 @@||freevpn4you.net^
 @@||freevstplugins.net^

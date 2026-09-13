@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-13 07:51:12 CST
-! 总条数: 8466
+! 更新时间: 2026-09-13 10:20:49 CST
+! 总条数: 8467
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -7333,6 +7333,7 @@
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||cdn.questionpro.com^
 @@||convincing-prettiest-firefly.quiknode.pro^
+@@||dd.qwant.com.first-party-js.datadome.co^$domain=qwant.com
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
 @@||dl.r3sub.com^
 @@||events.raceresult.com^

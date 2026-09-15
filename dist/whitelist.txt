@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-16 03:38:37 CST
-! 总条数: 8469
+! 更新时间: 2026-09-16 04:48:33 CST
+! 总条数: 8470
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -5828,6 +5828,7 @@
 @@||sso.kinopoisk.ru^
 @@||kifir2.kir.hu^
 @@||creator.klarna.com/plugins/onesignal-cordova-plugin/www/onesignal.js$~third-party
+@@||static.klaviyo.com/onsite/js/event_adapter.$domain=gear.blizzard.com
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||friday.kodansha.co.jp/scripts/taboola.js$script,~third-party
 @@||friday.kodansha.co.jp^

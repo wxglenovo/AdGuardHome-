@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-16 19:06:31 CST
-! 总条数: 8470
+! 更新时间: 2026-09-16 20:58:38 CST
+! 总条数: 8468
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3539,7 +3539,6 @@
 @@||shutterstock.com^
 @@||sickworldmusic.com^
 @@||sigma4pc.com^
-@@||silicongadget.com^
 @@||simkl.com^
 @@||simpleanalyticsexternal.com^
 @@||simply-hentai.com^
@@ -4142,7 +4141,6 @@
 @@||v2cross.com^$generichide
 @@||v2rayssr.com^$generichide
 @@||wandhi.com^$generichide
-@@||wavse.com^$generichide
 @@||webex.com^$generichide
 @@||wenxuecity.com^$generichide
 @@||whatsapp.com^$generichide

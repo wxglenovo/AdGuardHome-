@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-17 23:41:34 CST
-! 总条数: 8467
+! 更新时间: 2026-09-18 01:59:08 CST
+! 总条数: 8470
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2431,6 +2431,7 @@
 @@||cleverbot.com^
 @@||climbing.com^
 @@||clkmein.com^
+@@||clksz.com^
 @@||closeload.com^
 @@||codehelppro.com^
 @@||codesnse.com^
@@ -3588,6 +3589,7 @@
 @@||speaker-test.com^
 @@||speedtestcustom.com^
 @@||squidssh.com^
+@@||srnky.com^
 @@||srvtrck.com^
 @@||ssante.com^
 @@||sshkit.com^
@@ -5860,6 +5862,7 @@
 @@||dood.la^
 @@||downloader.la^
 @@||hitomi.la^
+@@||lnbz.la^
 @@||tii.la^
 @@||mmy.la^*300*250
 @@||api.lab.amplitude.com/v1/vardata?$domain=gaiagps.com

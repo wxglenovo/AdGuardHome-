@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-18 16:49:05 CST
-! 总条数: 8469
+! 更新时间: 2026-09-18 18:48:54 CST
+! 总条数: 8468
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2335,7 +2335,6 @@
 @@||bing.com^
 @@||biochemden.com^
 @@||biqupai.com^
-@@||bitcoinker.com^
 @@||bizpacreview.com^
 @@||blockadblock.com^
 @@||bloggingden.com^
@@ -2533,6 +2532,7 @@
 @@||devcourseweb.com^
 @@||deviantart.com^
 @@||devotag.com^
+@@||devuploads.com^
 @@||diagnofast.com^
 @@||diariovasco.com^
 @@||dias-uteis.com^
@@ -3420,7 +3420,6 @@
 @@||rackcdn.com^
 @@||radiotormentamx.com^
 @@||rahim-soft.com^
-@@||railwayoperationsimulator.com^
 @@||rakuna-seikatsu.com^
 @@||rangerboard.com^
 @@||ranker.com^

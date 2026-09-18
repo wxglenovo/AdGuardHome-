@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-19 05:58:06 CST
-! 总条数: 8468
+! 更新时间: 2026-09-19 07:58:49 CST
+! 总条数: 8469
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4794,6 +4794,7 @@
 @@||gva.et-gv.fr^
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||riverlink.etcchosted.com/widgets/com/mendix/widget/web/googletag/GoogleTag.js$~third-party
+@@||gus.etsmtl.ca/c2atom/Scripts/Atom/Managers/CookiesManager.js$script,~third-party
 @@||app.eu.usercentrics.eu^
 @@||config.eu.usercentrics.eu^
 @@||lab.eu.amplitude.com^

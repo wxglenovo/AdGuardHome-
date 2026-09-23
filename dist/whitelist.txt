@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-23 23:35:41 CST
-! 总条数: 8471
+! 更新时间: 2026-09-24 02:17:40 CST
+! 总条数: 8475
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -274,6 +274,7 @@
 @@||demo.ama.pub^
 @@||demo.ama.pub^$generichide
 @@||jsapi.amap.com^
+@@||aax-fe.amazon.co.jp^|
 @@||music.amazon.$generichide
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||aax.amazon-adsystem.com^
@@ -1146,6 +1147,7 @@
 @@||thefightingcock.co.uk^
 @@||thestar.co.uk^
 @@||thisismoney.co.uk^
+@@||ticketlink.co.kr^
 @@||travelodge.co.uk/nw/assets/dist/js/modules/cookieCompliance.js$~third-party
 @@||tv-asahi.co.jp/ch/js/scrolltopcontrol.js$script,~third-party
 @@||ukbride.co.uk/css/*/adverts.css
@@ -1269,6 +1271,7 @@
 @@||handydecor.com.vn^
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||hmvod.com.hk/website/static/skin/images/share/
+@@||homedepot.com.ssl.d2.sc.omtrdc.net^
 @@||hoyts.com.au^
 @@||ibon.com.tw/imageserver/images/ad_file/
 @@||icbc.com.cn/ICBC_ADJS/
@@ -2906,6 +2909,7 @@
 @@||imgtmo.com^
 @@||imydl.com^
 @@||in-page-push.com^
+@@||indazn.com^
 @@||indcit.com^
 @@||indianhealthyrecipes.com^
 @@||indiegogo.com^

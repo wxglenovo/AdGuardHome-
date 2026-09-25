@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-25 10:43:47 CST
-! 总条数: 8476
+! 更新时间: 2026-09-25 15:22:54 CST
+! 总条数: 8478
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4017,6 +4017,7 @@
 @@||coolinet.com^$generichide
 @@||crackedresource.com^$generichide
 @@||curiositystream.com^$generichide
+@@||cuttty.com^$generichide
 @@||cwtv.com^$generichide
 @@||cy.com^$generichide
 @@||daxiaamu.com^$generichide
@@ -4756,6 +4757,7 @@
 @@||ads.emarketer.com/redirect.spark?$popup,domain=emarketer.com
 @@||portal.energie-graz.at/kundenportal/css/cookieconsent/$~third-party
 @@||portal.energie-graz.at/kundenportal/js/lib/cookieconsent.js$~third-party
+@@||cdn.engagement.coremedia.cloud^$domain=flytap.com
 @@||adinvent.engine.adglare.net^
 @@||ems.entega.de/js/lib/cookieconsent.js$~third-party
 @@||meineems.entega.de/js/lib/cookieconsent.js

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-25 21:08:12 CST
-! 总条数: 8480
+! 更新时间: 2026-09-25 23:00:43 CST
+! 总条数: 8481
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2641,6 +2641,7 @@
 @@||encurtandourl.com^
 @@||ency-educ.com^
 @@||endesaclientes.com^
+@@||eneba.com^
 @@||enfsolar.com^
 @@||ensonhaber.com^
 @@||eolinker.com^

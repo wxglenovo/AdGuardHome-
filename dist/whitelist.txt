@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-26 02:17:36 CST
-! 总条数: 8481
+! 更新时间: 2026-09-26 03:57:25 CST
+! 总条数: 8483
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -882,6 +882,7 @@
 @@||adv.clickadu.com^
 @@||feedback-pa.clients6.google.com^
 @@||grimoireoss-pa.clients6.google.com^
+@@||streetviewpixels-pa.clients6.google.com^
 @@||static.clmbtech.com^
 @@||browser.cloud.ucweb.com^
 @@||cdp.cloud.unity3d.com^
@@ -4924,6 +4925,7 @@
 @@||5471782.fls.doubleclick.net^
 @@||5471782.fls.doubleclick.net^|
 @@||data.flurry.com^
+@@||files.fm/js/analytics_events.js$~third-party
 @@||hunter.fm^
 @@||player.fm^
 @@||radiocut.fm^

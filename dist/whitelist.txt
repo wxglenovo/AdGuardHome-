@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-09-28 10:48:36 CST
-! 总条数: 8484
+! 更新时间: 2026-09-28 16:27:04 CST
+! 总条数: 8485
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4738,6 +4738,7 @@
 @@||tongji.edu.cn^
 @@||xidian.edu.cn^
 @@||xidian.edu.cn^$generichide
+@@||emails.educause.edu^|
 @@||noodid.ee/chordQuiz/$~third-party
 @@||eok.ee/javascripts/cookiebar.js$~third-party
 @@||weekend.ee/static/*/push-notifications.chunk.js$~third-party

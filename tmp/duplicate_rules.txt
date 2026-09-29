@@ -1,112 +1,107 @@
 规则: ||target.footlocker.se^
- 208288行: ||target.footlocker.se^
- 387752行: ||target.footlocker.se^
- 587019行: ||target.footlocker.se^
- 684037行: ||target.footlocker.se^
- 1481949行: ||target.footlocker.se^
- 1800397行: ||target.footlocker.se^
+ 208337行: ||target.footlocker.se^
+ 387856行: ||target.footlocker.se^
+ 587178行: ||target.footlocker.se^
+ 684196行: ||target.footlocker.se^
+ 1482208行: ||target.footlocker.se^
+ 1800679行: ||target.footlocker.se^
 
 规则: |online-drank-bestellen.nl###cookiewall
- 1659445行: |online-drank-bestellen.nl###cookiewall
- 1703487行: |online-drank-bestellen.nl###cookiewall
+ 1659727行: |online-drank-bestellen.nl###cookiewall
+ 1703769行: |online-drank-bestellen.nl###cookiewall
+
+规则: ||bantaytururi.qpon^
+ 118437行: ||bantaytururi.qpon^
+ 276040行: ||bantaytururi.qpon^
+ 420638行: ||bantaytururi.qpon^
 
 规则: ||sst.bibione.com^
  77758行: ||sst.bibione.com^
- 1462877行: ||sst.bibione.com^
+ 1463134行: ||sst.bibione.com^
 
 规则: ||nvekimjufdbfx.site^
- 138370行: ||nvekimjufdbfx.site^
- 233963行: ||nvekimjufdbfx.site^
- 296159行: ||nvekimjufdbfx.site^
- 440702行: ||nvekimjufdbfx.site^
- 614197行: ||nvekimjufdbfx.site^
- 709712行: ||nvekimjufdbfx.site^
- 1395934行: ||nvekimjufdbfx.site^
- 1777026行: ||nvekimjufdbfx.site^
+ 138398行: ||nvekimjufdbfx.site^
+ 234012行: ||nvekimjufdbfx.site^
+ 296244行: ||nvekimjufdbfx.site^
+ 440842行: ||nvekimjufdbfx.site^
+ 614356行: ||nvekimjufdbfx.site^
+ 709871行: ||nvekimjufdbfx.site^
+ 1396175行: ||nvekimjufdbfx.site^
+ 1777308行: ||nvekimjufdbfx.site^
 
 规则: |kiro7.com##.arcad_feature
- 326793行: |kiro7.com##.arcad_feature
- 471336行: |kiro7.com##.arcad_feature
+ 326897行: |kiro7.com##.arcad_feature
+ 471495行: |kiro7.com##.arcad_feature
 
 规则: ||console.informingnews.com^
  2828行: ||console.informingnews.com^
- 1192524行: ||console.informingnews.com^
+ 1192731行: ||console.informingnews.com^
 
 规则: ||kiemtienmomo.online^
- 172555行: ||kiemtienmomo.online^
- 1338213行: ||kiemtienmomo.online^
+ 172604行: ||kiemtienmomo.online^
+ 1338446行: ||kiemtienmomo.online^
 
 规则: ||ss.le-metre-carre.fr^
  76811行: ||ss.le-metre-carre.fr^
- 1459846行: ||ss.le-metre-carre.fr^
+ 1460103行: ||ss.le-metre-carre.fr^
 
 规则: ||load.sst.acesheets.com^
  94196行: ||load.sst.acesheets.com^
- 1358635行: ||load.sst.acesheets.com^
+ 1358872行: ||load.sst.acesheets.com^
 
 规则: |soneksbilgisayar.com##.cookie-agreement-module
- 1679551行: |soneksbilgisayar.com##.cookie-agreement-module
- 1712591行: |soneksbilgisayar.com##.cookie-agreement-module
+ 1679833行: |soneksbilgisayar.com##.cookie-agreement-module
+ 1712873行: |soneksbilgisayar.com##.cookie-agreement-module
 
 规则: ||asia.interface.com^
- 218104行: ||asia.interface.com^
- 400003行: ||asia.interface.com^
- 597345行: ||asia.interface.com^
- 693853行: ||asia.interface.com^
- 1149841行: ||asia.interface.com^
- 1729530行: ||asia.interface.com^
+ 218153行: ||asia.interface.com^
+ 400107行: ||asia.interface.com^
+ 597504行: ||asia.interface.com^
+ 694012行: ||asia.interface.com^
+ 1150026行: ||asia.interface.com^
+ 1729812行: ||asia.interface.com^
 
 规则: worldsoccertalk.com##[id*="primis_"]
- 336763行: worldsoccertalk.com##[id*="primis_"]
- 481306行: worldsoccertalk.com##[id*="primis_"]
+ 336867行: worldsoccertalk.com##[id*="primis_"]
+ 481465行: worldsoccertalk.com##[id*="primis_"]
 
 规则: ||zkggtossfobzd.space^
- 155251行: ||zkggtossfobzd.space^
- 268949行: ||zkggtossfobzd.space^
- 313236行: ||zkggtossfobzd.space^
- 457779行: ||zkggtossfobzd.space^
- 651457行: ||zkggtossfobzd.space^
- 744698行: ||zkggtossfobzd.space^
- 1552214行: ||zkggtossfobzd.space^
- 1816691行: ||zkggtossfobzd.space^
+ 155296行: ||zkggtossfobzd.space^
+ 268998行: ||zkggtossfobzd.space^
+ 313340行: ||zkggtossfobzd.space^
+ 457938行: ||zkggtossfobzd.space^
+ 651616行: ||zkggtossfobzd.space^
+ 744857行: ||zkggtossfobzd.space^
+ 1552494行: ||zkggtossfobzd.space^
+ 1816973行: ||zkggtossfobzd.space^
 
 规则: |azolifesciences.com##.sidebar-sponsored-content
- 331487行: |azolifesciences.com##.sidebar-sponsored-content
- 476030行: |azolifesciences.com##.sidebar-sponsored-content
+ 331591行: |azolifesciences.com##.sidebar-sponsored-content
+ 476189行: |azolifesciences.com##.sidebar-sponsored-content
 
 规则: ||stape-colorlife.shelai.com.bd^
  107418行: ||stape-colorlife.shelai.com.bd^
- 1468484行: ||stape-colorlife.shelai.com.bd^
+ 1468741行: ||stape-colorlife.shelai.com.bd^
 
 规则: ||dsgdsgdsg.nordicoil.nl^
  85621行: ||dsgdsgdsg.nordicoil.nl^
- 1229810行: ||dsgdsgdsg.nordicoil.nl^
+ 1230017行: ||dsgdsgdsg.nordicoil.nl^
 
 规则: ||stape1.roma21.com.br^
  110137行: ||stape1.roma21.com.br^
- 1471465行: ||stape1.roma21.com.br^
+ 1471722行: ||stape1.roma21.com.br^
 
 规则: ||uutdjp.brooks.co.jp^
  48000行: ||uutdjp.brooks.co.jp^
- 1509253行: ||uutdjp.brooks.co.jp^
+ 1509522行: ||uutdjp.brooks.co.jp^
 
 规则: ||qajkvcdzxcqvn.space^
- 142161行: ||qajkvcdzxcqvn.space^
- 241143行: ||qajkvcdzxcqvn.space^
- 299998行: ||qajkvcdzxcqvn.space^
- 444541行: ||qajkvcdzxcqvn.space^
- 621862行: ||qajkvcdzxcqvn.space^
- 716892行: ||qajkvcdzxcqvn.space^
- 1419497行: ||qajkvcdzxcqvn.space^
- 1783813行: ||qajkvcdzxcqvn.space^
-
-规则: ||obmpabheweiku.space^
- 138578行: ||obmpabheweiku.space^
- 234345行: ||obmpabheweiku.space^
- 296370行: ||obmpabheweiku.space^
- 440913行: ||obmpabheweiku.space^
- 614597行: ||obmpabheweiku.space^
- 710094行: ||obmpabheweiku.space^
- 1396905行: ||obmpabheweiku.space^
- 1777384行: ||obmpabheweiku.space^
+ 142194行: ||qajkvcdzxcqvn.space^
+ 241192行: ||qajkvcdzxcqvn.space^
+ 300088行: ||qajkvcdzxcqvn.space^
+ 444686行: ||qajkvcdzxcqvn.space^
+ 622021行: ||qajkvcdzxcqvn.space^
+ 717051行: ||qajkvcdzxcqvn.space^
+ 1419744行: ||qajkvcdzxcqvn.space^
+ 1784095行: ||qajkvcdzxcqvn.space^
 

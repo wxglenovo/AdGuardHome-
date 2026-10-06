@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-06 16:45:58 CST
-! 总条数: 8488
+! 更新时间: 2026-10-06 19:02:38 CST
+! 总条数: 8490
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2871,6 +2871,7 @@
 @@||heyapakabar.com^
 @@||hh010.com^
 @@||hidencloud.com^
+@@||highperformanceformat.com^
 @@||highresolutionmusic.com^
 @@||hilton.com^
 @@||history.com^
@@ -2893,6 +2894,7 @@
 @@||hunkypinoy.com^
 @@||huntington.com^
 @@||huynhhieu.com^
+@@||hyatt.com^
 @@||ibmmainframes.com^
 @@||icanhazip.com^
 @@||ichberlin.com^

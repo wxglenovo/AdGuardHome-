@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-08 06:36:39 CST
-! 总条数: 8493
+! 更新时间: 2026-10-08 07:53:34 CST
+! 总条数: 8494
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -892,6 +892,7 @@
 @@||console.cloud.google.com^$generichide
 @@||platform.cloud.coveo.com^
 @@||platform-eu.cloud.coveo.com^
+@@||sdk-analytics-web.cloud.itau.com.br/index.js$script,domain=meu.userede.com.br
 @@||static.cloud.coveo.com/coveo.analytics.js/$domain=cabelas.com
 @@||salonkee.cloud/data/other/js/cookie-consent-
 @@||airid.cloud^

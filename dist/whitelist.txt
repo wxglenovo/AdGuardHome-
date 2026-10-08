@@ -1,6 +1,6 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-09 06:48:07 CST
+! 更新时间: 2026-10-09 07:59:50 CST
 ! 总条数: 8493
 ! =====================
 
@@ -6656,7 +6656,6 @@
 @@||tags.news.com.au/prod/heartbeat/$script
 @@||inscience.news/svc/getscript.aspx$script,~third-party
 @@||cryptofans.news^
-@@||redian.news^
 @@||icu.newsroom.bi/ingest.php$xmlhttprequest,domain=autoplus.fr
 @@||bluearchive.nexon.com^
 @@||oneline.nextday.media^|
@@ -6720,6 +6719,7 @@
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||bam.nr-data.net^$xmlhttprequest,domain=abema.tv
 @@||josiad.ns.nl/DG/DEFAULT/$xmlhttprequest
+@@||par.nsf.gov^
 @@||wireless.ntnu.no^
 @@||s.ntv.io/serve/load.js$domain=titantv.com
 @@||login.nvgs.nvidia.com^

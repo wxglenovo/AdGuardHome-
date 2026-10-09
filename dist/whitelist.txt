@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-09 09:49:27 CST
-! 总条数: 8493
+! 更新时间: 2026-10-09 11:51:51 CST
+! 总条数: 8495
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4934,6 +4934,7 @@
 @@||5471782.fls.doubleclick.net^|
 @@||data.flurry.com^
 @@||files.fm/js/analytics_events.js$~third-party
+@@||canliradyodinle.fm/live/fm/gtag.min.js$~third-party
 @@||hunter.fm^
 @@||player.fm^
 @@||radiocut.fm^
@@ -6350,6 +6351,7 @@
 @@||arrowos.net^
 @@||atlassian.net^
 @@||avjamak.net^
+@@||balkantelevizija.net^
 @@||banklive.net^
 @@||battle.net^
 @@||bdcraft.net^

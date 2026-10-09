@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-10 00:49:27 CST
-! 总条数: 8495
+! 更新时间: 2026-10-10 01:34:10 CST
+! 总条数: 8492
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -136,7 +136,6 @@
 @@||ads.ad-center.com^
 @@||c.ad6media.fr/l.js$domain=scan-manga.com
 @@||eticaret.adawall.com.tr^
-@@||download.adblockultimate.net^
 @@||player.adcdn.tv^
 @@||s7.addthis.com^*/addthis_widget.js$domain=mediamatters.org|politico.com
 @@||static.addtoany.com/menu/page.js$script,domain=suttonquebec.com
@@ -1239,7 +1238,6 @@
 @@||borneobulletin.com.bn/wp-content/banners/bblogo.jpg$~third-party
 @@||broncos.com.au^
 @@||businessinsider.com.pl^
-@@||carexpert.com.tw/wp-content/plugins/like-box-pro/includes/javascript/front_end_js.js
 @@||catracalivre.com.br^
 @@||chinatelecom.com.cn^
 @@||cmbc.com.cn^*ads/
@@ -4447,6 +4445,7 @@
 @@||geo.dailymotion.com^
 @@||museum-29.dajya-ranger.com^
 @@||courier-js.dallasnews.com^
+@@||acs-m.daraz.com.bd^
 @@||acs-m.daraz.com.bd^|
 @@||acs-m.daraz.pk^
 @@||acs-m.daraz.pk^|
@@ -6325,7 +6324,6 @@
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
 @@||securenetsystems.net/v5/scripts/
 @@||naver.net/wcslog.js$domain=fragpunk.com|m.tv.naver.com
-@@||9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
 @@||tweakers.net/x/styles/components/cookiebar/cookie_bar.css$~third-party
 @@||doubleclick.net/|$xmlhttprequest,domain=tvnz.co.nz
 @@||2kspecialist.net^
@@ -6605,7 +6603,6 @@
 @@||zstatic.net^
 @@||optimove.net^$domain=app.touchnote.com
 @@||go-mpulse.net^$domain=costcobusinessdelivery.com
-@@||9zvip.net^$elemhide
 @@||mnighthk.net^$elemhide
 @@||wgun.net^$elemhide
 @@||cmechina.net^$genericblock

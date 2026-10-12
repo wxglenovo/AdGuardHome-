@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-13 01:11:22 CST
-! 总条数: 8493
+! 更新时间: 2026-10-13 03:38:20 CST
+! 总条数: 8494
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1257,6 +1257,7 @@
 @@||decorardicas.com.br^
 @@||diariodopeixe.com.br^
 @@||dnbus.com.tw/AD/tab_route.html
+@@||do-re.com.tr^
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com
 @@||elpais.com.uy^
 @@||enerjisa.com.tr^

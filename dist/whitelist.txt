@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-14 04:06:59 CST
-! 总条数: 8494
+! 更新时间: 2026-10-14 05:08:20 CST
+! 总条数: 8495
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -6773,6 +6773,8 @@
 @@||privacyportal-eu-cdn.onetrust.com^*privacy-notices/
 @@||privacyportal-uk-cdn.onetrust.com^
 @@||privacyportal-uk-cdn.onetrust.com^$domain=huel.com
+@@||archivecaslytosk.onion^
+@@||archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
 @@||h-microsoft.online-metrix.net^
 @@||h-sdk.online-metrix.net^
 @@||h-usps.online-metrix.net^
@@ -8395,7 +8397,6 @@
 @@||gamesmain.xyz^
 @@||gledajcrtace.xyz^
 @@||gsm1x.xyz^
-@@||gupload.xyz^
 @@||h-game18.xyz^
 @@||henread.xyz^
 @@||instawp.xyz^

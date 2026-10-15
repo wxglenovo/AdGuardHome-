@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-15 22:40:48 CST
-! 总条数: 8491
+! 更新时间: 2026-10-15 23:47:37 CST
+! 总条数: 8490
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -4093,7 +4093,6 @@
 @@||mytvsuper.com^$generichide
 @@||namechk.com^$generichide
 @@||neoseeker.com^$generichide
-@@||netflav.com^$generichide
 @@||netflix.com^$generichide
 @@||nfl.com^$generichide
 @@||niotv.com^$generichide
@@ -5811,7 +5810,6 @@
 @@||cdn.jsdelivr.net^*/cookieconsent.min.js$domain=electrobueno.com|papekenworth.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
 @@||stat.jseea.cn^
-@@||adserver.juicyads.com/js/jads.js$domain=netflav.com
 @@||js.juicyads.com^
 @@||download.jumpw.com^
 @@||components.justanswer.com^
@@ -7921,6 +7919,7 @@
 @@||zavislak.to^
 @@||obituaries.toacorn.com^|
 @@||login.tomorrowland.com^
+@@||sphinx.tongdun.net^$domain=hainanairlines.com
 @@||gsuite.tools/js/gtag.js$script,~third-party
 @@||pico.tools/load/build.js$script,domain=escapistmagazine.com
 @@||erepublik.tools^

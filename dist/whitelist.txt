@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-16 20:54:25 CST
-! 总条数: 8486
+! 更新时间: 2026-10-16 22:33:41 CST
+! 总条数: 8478
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -786,7 +786,6 @@
 @@||kinogoo.cc/engine/classes/min/index.php$~third-party,xmlhttprequest
 @@||lnk2.cc/js/ad_code.js
 @@||retrogames.cc/js/cookieconsent.min.js$~third-party
-@@||airav.cc/js/td_ga_tracker.js
 @@||520cc.cc/jspopunder.
 @@||popin.cc/popin_discovery/recommend?$~third-party
 @@||qcheng.cc/x/statics/js/guanggao.
@@ -1704,7 +1703,6 @@
 @@||iconspedia.com/icon/$image,~third-party
 @@||exoclick.com/iframe.php?*=2596969&$domain=jav777.cc
 @@||exoclick.com/iframe.php?*=2596969&$domain=jav777.cc|jav777.xyz
-@@||exoclick.com/iframe.php?idzone=*&size=468x60$domain=porn77.info
 @@||optimatic.com/iframe.html$subdocument,domain=pch.com
 @@||embedplus.com/iframe-cookie-consent.aspx$subdocument
 @@||mycleverpush.com/iframe?$domain=bsdex.de
@@ -1758,9 +1756,7 @@
 @@||gpt-worldwide.com/js/gpt.js$~third-party
 @@||letmegpt.com/js/gpt.js$~third-party
 @@||usplastic.com/js/hawk.js
-@@||baidu-taobao-av.com/js/home.js
 @@||mediav.com/js/interactive_plugin.js$domain=v.360kan.com
-@@||baidu-taobao-av.com/js/jquery.
 @@||legendstracking.com/js/legends-tracking.js$~third-party
 @@||speedcurve.com/js/lux.js$script,domain=tv8.it
 @@||momovod.com/js/momo/adsbygoogle.js
@@ -1868,7 +1864,6 @@
 @@||sohu.com/play/videonew.do?*/share_play.
 @@||stat-rock.com/player/$domain=4shared.com|adplayer.pro
 @@||31vcd.com/player/kuyun.js
-@@||85tube.com/player/player_ads.html
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$domain=viu.tv
 @@||getpublica.com/playlist.m3u8$xmlhttprequest
 @@||flyert.com/plug/socialShare/js/social-share.
@@ -3992,7 +3987,6 @@
 @@||4horlover.com^$generichide
 @@||5qidgde.com^$generichide
 @@||85po.com^$generichide
-@@||85tube.com^$generichide
 @@||99ybcc.com^$generichide
 @@||aboluowang.com^$generichide
 @@||aetv.com^$generichide
@@ -4073,7 +4067,6 @@
 @@||jlthjy.com^$generichide
 @@||joyk.com^$generichide
 @@||jsjiami.com^$generichide
-@@||kissjav.com^$generichide
 @@||ldxinyong.com^$generichide
 @@||linovelib.com^$generichide
 @@||luoxiadushu.com^$generichide
@@ -8069,7 +8062,6 @@
 @@||goodinfo.tw^$generichide
 @@||ibf.tw^$generichide
 @@||linetv.tw^$generichide
-@@||olgame.tw^$generichide
 @@||poedb.tw^$generichide
 @@||softblog.tw^$generichide
 @@||linetv.tw^*/ad

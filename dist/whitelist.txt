@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-19 02:33:13 CST
-! 总条数: 8478
+! 更新时间: 2026-10-19 04:00:17 CST
+! 总条数: 8479
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1943,6 +1943,7 @@
 @@||dynamicyield.com/scripts/*/dy-coll-nojq-min.js$domain=gigasport.at|gigasport.ch|gigasport.de
 @@||att.com/scripts/adobe/prod/$script,~third-party
 @@||att.com/scripts/adobe/virtual/detm-container-hdr.js$~third-party
+@@||zs.com/scripts/analytics/pageview.js$~third-party
 @@||myssl.com/scripts/analyze.js
 @@||schwab.com/scripts/appdynamic/adrum-ext.$script,~third-party
 @@||forbo.com/scripts/cookieconsent.min.js$~third-party

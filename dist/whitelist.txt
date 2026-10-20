@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-21 02:22:25 CST
-! 总条数: 8474
+! 更新时间: 2026-10-21 03:57:02 CST
+! 总条数: 8471
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -3589,7 +3589,6 @@
 @@||speaker-test.com^
 @@||speedtestcustom.com^
 @@||squidssh.com^
-@@||srnky.com^
 @@||srvtrck.com^
 @@||ssante.com^
 @@||sshkit.com^
@@ -5581,7 +5580,6 @@
 @@||tileman.io^
 @@||tmail.io^
 @@||uii.io^
-@@||up-load.io^
 @@||uploady.io^
 @@||urlscan.io^
 @@||vbt.io^
@@ -5940,7 +5938,6 @@
 @@||plground.live^
 @@||rangdhanu.live^
 @@||shoot-yalla.live^
-@@||stream4free.live^
 @@||yasno.live^
 @@||vast.livejasmin.com^
 @@||ad4.liverail.com^

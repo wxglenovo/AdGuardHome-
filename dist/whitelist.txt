@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-20 21:10:13 CST
-! 总条数: 8480
+! 更新时间: 2026-10-20 22:42:20 CST
+! 总条数: 8474
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -1160,7 +1160,6 @@
 @@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
 @@||yorkshirepost.co.uk^
 @@||lobi.co/1/track/event/
-@@||userload.co/adpopup.js$script
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
 @@||thomas.co/sites/default/files/google_tag/primary/google_tag.script.js$script,~third-party
@@ -1438,7 +1437,6 @@
 @@||fscinda.com/ad/$~third-party
 @@||noahedu.com/ad/$~third-party
 @@||hc360.com/ad/*.css
-@@||yandexcdn.com/ad/api/popunder.js$script
 @@||cheshi-img.com/ad/csad_2019.js
 @@||58.com/adJump?adType=
 @@||yiqifa.com/ad_images/$~third-party
@@ -1633,7 +1631,6 @@
 @@||softicons.com/download/$image
 @@||alicdn.com/dt/tracker/2.5.1/tracker.js$domain=alimama.com
 @@||alicdn.com/dt/tracker/4.2.0/??tracker.
-@@||yimg.com/dy/ads/native.js$script,domain=animedao.to
 @@||huhupan.com/e/extend/down/$generichide
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
 @@||photofunia.com/effects/$image,~third-party
@@ -1987,7 +1984,6 @@
 @@||brave.com/static-assets/$image,~third-party
 @@||palmettostatearmory.com/static/$script,~third-party
 @@||sweetmarias.com/static/$script,~third-party
-@@||coinmarketcap.com/static/addetect/$script,~third-party
 @@||radiotimes.com/static/advertising/$script,~third-party
 @@||ajio.com/static/assets/vendors~static/chunk/common/libraries/fingerprintjs2.$script,~third-party
 @@||tinder.com/static/build/chunks/CookiePolicyBanner-$script
@@ -4294,7 +4290,6 @@
 @@||aliyundrive.com^*/share_link/$xmlhttprequest
 @@||scorecardresearch.com^*/streamingtag_plugin_jwplayer.js
 @@||citysbs.com^*/swfupload/
-@@||exponential.com^*/tags.js$domain=yellowbridge.com
 @@||alicdn.com^*/tanxssp.js$domain=dlkoo.cc
 @@||alicdn.com^*/tanxssp.js$domain=dlkoo.com
 @@||tagcommander.com^*/tc_$script
@@ -5601,7 +5596,6 @@
 @@||material.io^$generichide
 @@||playcode.io^$generichide
 @@||restream.io^$generichide
-@@||up-load.io^$generichide
 @@||zeplin.io^$generichide
 @@||schibsted.io^*/gdpr-bundle.js
 @@||relay-client-c01.iocnt.net^
@@ -5948,7 +5942,6 @@
 @@||shoot-yalla.live^
 @@||stream4free.live^
 @@||yasno.live^
-@@||stream4free.live^$generichide
 @@||vast.livejasmin.com^
 @@||ad4.liverail.com^
 @@||island.lk/userfiles/image/danweem/island.gif
@@ -7739,6 +7732,7 @@
 @@||api.stackcommerce.net^
 @@||img-cdn.stackpathcdn.app^
 @@||player.starlight.digital^
+@@||obituaries.startribune.com^|
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
 @@||gs.statcounter.com/chart.php$script,third-party
 @@||gs.statcounter.com^|

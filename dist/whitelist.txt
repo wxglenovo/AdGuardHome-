@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-10-25 10:31:01 CST
-! 总条数: 3646
+! 更新时间: 2026-10-25 15:25:50 CST
+! 总条数: 3630
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -101,7 +101,6 @@
 @@||download.adguard.com^
 @@||injections.adguard.org^
 @@||local.adguard.org^
-@@||reports.adguard.com^
 @@||api.adinplay.com/libs/aiptag/$script,domain=2v2.io|bigescapegames.com|brofist.io|cuberealm.io|findcat.io|geotastic.net|lordz.io
 @@||api.adinplay.com/libs/aiptag/pub/$domain=geotastic.net
 @@||api.adinplay.com/v4/live/$script,domain=2v2.io|cuberealm.io
@@ -130,7 +129,6 @@
 @@||ads.adthrive.com/builds/core/*/vendor/prebid/*/prebid.min.js$domain=laurelberninteriors.com
 @@||ads.adthrive.com/sites/$script,domain=adamtheautomator.com|packhacker.com|packinsider.com
 @@||ads.adthrive.com/sites/*/ads.min.js$domain=laurelberninteriors.com
-@@||filters.adtidy.org^
 @@||content.adunity.com/aulib.js$script,domain=b1tv.ro
 @@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
 @@||guce.advertising.com/collectIdentifiers$~third-party
@@ -204,7 +202,6 @@
 @@||service.apport.net/apport-spa-common/src/tracking/tracking.js$~third-party
 @@||app.appsflyer.com^|
 @@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party
-@@||testsafebrowsing.appspot.com^
 @@||client.aps.amazon-adsystem.com/publisher.js$script,domain=foxnews.com|newsweek.com|thestreet.com
 @@||config.aps.amazon-adsystem.com^$script,domain=newsweek.com
 @@||holiday.aquila.pl/min/f=/js/$script
@@ -325,7 +322,6 @@
 @@||p3-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p6-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p9-novel1-sign.byteimg.com^$app=com.dragon.read,important
-@@||onl.bz^
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
 @@||star.c10r.facebook.com^
 @@||adsninja.ca/ads_$script,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
@@ -1404,8 +1400,6 @@
 @@||alicdn.com^
 @@||baidu.com^
 @@||blueskyxn.com^
-@@||buzzfeed.com^
-@@||chaturbate.com^
 @@||dafahao.com^
 @@||dajiyuan.com^
 @@||dongtaiwang.com^
@@ -1420,7 +1414,6 @@
 @@||jd.com^
 @@||kaltura.com^
 @@||meizu.com^
-@@||mewe.com^
 @@||microsoftazuresponsorships.com^
 @@||minghui.com^
 @@||network-auth.com^
@@ -1930,8 +1923,6 @@
 @@||kanalfrederikshavn.dk^*/jquery.openx.js?
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
-@@||vendorlist.dmcdn.net^
-@@||banner.dna.fi^
 @@||ad-block.dns.adguard.com^
 @@||api.docodoco.jp^|
 @@||www.dogpile.com^|
@@ -2212,7 +2203,6 @@
 @@||cloud.google.com^$generichide
 @@||cloud.google.com^$~third-party
 @@||contacts.google.com^$generichide
-@@||developers.google.com^
 @@||developers.google.com^$domain=developers.google.com
 @@||docs.google.com/*/viewdata$~third-party
 @@||docs.google.com^$generichide
@@ -2611,7 +2601,6 @@
 @@||repack.me/engine/classes/min/index.php*/PureSnow.js$script,~third-party
 @@||520call.me/jspopunder.
 @@||qbox.me/static/js/ads.js$domain=linux.cn
-@@||t.me^
 @@||520call.me^$generichide
 @@||my101.me^$generichide
 @@||proton.me^$generichide
@@ -2904,7 +2893,6 @@
 @@||orientaldaily.on.cc/js/oncc-ad.js
 @@||api.onedrive.com^
 @@||skyapi.onedrive.live.com^
-@@||sgqcvfjvr.onet.pl^
 @@||consent-api.onetrust.com/v1/preferences^$xmlhttprequest
 @@||geolocation.onetrust.com/cookieconsentpub/$script,domain=rackroomshoes.com
 @@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=airnewzealand.co.nz|bitbucket.org|cbsnews.com|cnbc.com|eksisozluk.com|ign.com|metacritic.com|salesforce.com|teenvogue.com|theverge.com|tntsports.co.uk|vogue.co.jp|vogue.co.uk|vogue.com|vogue.com.tw|vogue.de|vogue.es|vogue.fr|vogue.in|vogue.it|vogue.mx|vogue.ph
@@ -2925,7 +2913,6 @@
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 @@||cdn.optimizely.com/public/*.json/tag.js$domain=mobile.de
 @@||cdn-pci.optimizely.com/public/*/sales_snippet.js$domain=talktalk.co.uk
-@@||s.optnx.com^
 @@||dafamedia.or.kr^
 @@||nhk.or.jp/common/sns/nol_share.js$script,~third-party
 @@||tms.oracle.com/main/prod/utag.sync.js$~third-party
@@ -2987,7 +2974,6 @@
 @@||tiantibooks.org^
 @@||torproject.org^
 @@||tuidang.org^
-@@||wikileaks.org^
 @@||zhengjian.org^
 @@||zhengwunet.org^
 @@||zhuichaguoji.org^
@@ -3088,8 +3074,6 @@
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||skydrivesync.policies.live.net^
 @@||friends.ponta.jp/app/assets/images/$~third-party
-@@||cdn*.porn300.com^
-@@||pics.porn300.com^
 @@||pics.porndroids.com^
 @@||configurator.porsche.com/public/adobe-analytics-$~third-party
 @@||staty.portalradiowy.pl/wstats/$script,third-party

@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-11-11 23:44:05 CST
-! 总条数: 3637
+! 更新时间: 2026-11-12 01:43:17 CST
+! 总条数: 3638
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -384,6 +384,7 @@
 @@||analysis.chess.com^
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
 @@||services.chipotle.com/__imp_apg__/$~third-party
+@@||analytics.cibc.com^|
 @@||pay.citylink.pro/stats/services/$~third-party
 @@||ad.cityu.edu.hk^
 @@||apikeys.civiccomputing.com^$xmlhttprequest,domain=gold.ac.uk|insights.com|videogameschronicle.com

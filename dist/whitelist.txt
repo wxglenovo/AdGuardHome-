@@ -1,7 +1,7 @@
 ! =====================
 ! AdGuardHome 白名单
-! 更新时间: 2026-11-24 03:41:31 CST
-! 总条数: 3639
+! 更新时间: 2026-11-24 05:54:07 CST
+! 总条数: 3640
 ! =====================
 
 @@||*/assets/js/common/juqery/
@@ -2852,6 +2852,7 @@
 @@||icu.newsroom.bi/ingest.php$xmlhttprequest,domain=autoplus.fr
 @@||oneline.nextday.media^|
 @@||sedge.nfl.com^|
+@@||catalog.ngc.nvidia.com/action/set-cookie-consent.data$xmlhttprequest
 @@||sponsor.nitropay.com^|
 @@||studentenwoningweb.nl/KRN/Scripts/jquery.cookiecuttr.js
 @@||fvd.nl/_nuxt/cookiebanner.$~third-party
